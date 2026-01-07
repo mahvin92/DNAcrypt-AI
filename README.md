@@ -3,7 +3,7 @@
 # DNAcrypt-AI
 An artificial intelligence that generates, encrytps, and decrypts passwords and cryptographic keys using the human genome.
 
-DNAcrypt-AI was built using [FAS2rDNA](https://fas2rdna.chordexbio.com) and [Covary](https://covary.chordexbio.com) through the assemBold program, with permission from [ChordexBio](https://chordexbio.com).
+DNAcrypt-AI was built using [FAS2rDNA](https://fas2rdna.chordexbio.com) and [Covary](https://covary.chordexbio.com) through the [assemBold program](https://assembold.chordexbio.com/), with permission from [ChordexBio](https://chordexbio.com).
 
 
 ### Description
@@ -128,7 +128,7 @@ The encrypted data is light and does not take too much of storage (maximum of 10
    - DNAcrypt-AI estimates the entropy of the generated password (the random assignment and sequence of alphanumeric-symbol charcaters), not necessarily the strength of the encryption. If you are not satisfied with the entropy estimate, you can always run DNAcrypt-AI again until you arrive at a desirable entropy. If you encounter issues while running DNAcrypt-AI multiple times, restarting your session can fix most issues ```Runtime -> Restart session and run all```
   
 ## Reporting
-Comments and suggestions to improve FAS2rDNA-Colab are welcome. If you find any bug or problem, please open an issue.
+Comments and suggestions to improve DNAcrypt-AI are welcome. If you find any bug or problem, please open an issue.
 
 ## Citation
 To follow
