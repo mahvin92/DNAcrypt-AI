@@ -5,6 +5,8 @@ An artificial intelligence that generates, encrytps, and decrypts passwords and 
 
 DNAcrypt-AI was built using [FAS2rDNA](https://fas2rdna.chordexbio.com) and [Covary](https://covary.chordexbio.com) through the [assemBold program](https://assembold.chordexbio.com/), with permission from [ChordexBio](https://chordexbio.com).
 
+OBFD tag: 12/26
+
 
 ### Description
 DNAcrypt-AI is founded on the intrinsic complexity, variation, unpredictability, and scale of the human genome. It works by generating a pseudo-genomic vocabulary, randomly sampled from more than 3 billion genomic loci across multiple chromosomes and genome assemblies (hg19 and hg38). This vocabulary consists of genomic coordinates, which are interpreted by FAS2rDNA to reconstitute DNA sequences that typically range from 1,000 to 50,000 nucleotides in length. The resulting collection of sequences forms a heterogeneous genomic corpus, containing structure and information that cannot be easily interpreted, decrypted, or recognized by visual inspection or conventional bioinformatics tools.
