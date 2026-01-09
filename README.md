@@ -112,7 +112,7 @@ Note that when you loss your custom kmer_dict.json, DNAcrypt-AI will not be able
 
 
 ## Storing your encrypted data
-The encrypted data is light and does not take too much of storage (maximum of 100kb). You can store your encryption as follows:
+The encrypted data is light and does not take too much of storage (maximum of 200kb). You can store your encryption as follows:
 1. Printed copy - private and secure but requires re-encoding to a digital copy later before using
 2. Digital copy - ready to use but also allows others to decrypt once they get a copy of your data
 
