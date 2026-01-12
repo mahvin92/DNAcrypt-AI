@@ -1,0 +1,6160 @@
+{
+  "data": [
+    {
+      "id": "hg-terminal_ref",
+      "sequence": "TATTATTTGAATAATTGTAATAAATATTTTATATTTTATATTATTTAATTTTAGAAAGCATTGTGTAGTATTATTATATAGATAGTTATTGTTCCTCTATNNNNNNNNNNNNNNNN",
+      "datetime": "2026-01-11T18:21:37Z"
+    }
+  ],
+  "userinput": [
+    {
+      "sample_id": "CCATA_hg19-chr20-22155",
+      "seq_id": "fragment1",
+      "seq_loc": "hg19:chr20:7175801-7197955:+",
+      "description": "manifest-seq1"
+    },
+    {
+      "sample_id": "CATTT_hg38-chr4-14867",
+      "seq_id": "fragment2",
+      "seq_loc": "hg38:chr4:96114332-96129198:-",
+      "description": "manifest-seq2"
+    },
+    {
+      "sample_id": "TTCTC_hg38-chrY-41117",
+      "seq_id": "fragment3",
+      "seq_loc": "hg38:chrY:8174303-8215419:-",
+      "description": "manifest-seq3"
+    },
+    {
+      "sample_id": "AGTAA_hg19-chr13-3030",
+      "seq_id": "fragment4",
+      "seq_loc": "hg19:chr13:111070247-111073276:+",
+      "description": "manifest-seq4"
+    },
+    {
+      "sample_id": "TGGGA_hg19-chr17-30071",
+      "seq_id": "fragment5",
+      "seq_loc": "hg19:chr17:33931941-33962011:-",
+      "description": "manifest-seq5"
+    },
+    {
+      "sample_id": "TTGCT_hg19-chr6-14499",
+      "seq_id": "fragment6",
+      "seq_loc": "hg19:chr6:158882685-158897183:+",
+      "description": "manifest-seq6"
+    },
+    {
+      "sample_id": "AACCC_hg19-chr19-41684",
+      "seq_id": "fragment7",
+      "seq_loc": "hg19:chr19:38590203-38631886:-",
+      "description": "manifest-seq7"
+    },
+    {
+      "sample_id": "GGCGT_hg19-chrX-22063",
+      "seq_id": "fragment8",
+      "seq_loc": "hg19:chrX:81041120-81063182:-",
+      "description": "manifest-seq8"
+    },
+    {
+      "sample_id": "CGTAT_hg19-chr17-15476",
+      "seq_id": "fragment9",
+      "seq_loc": "hg19:chr17:46071771-46087246:-",
+      "description": "manifest-seq9"
+    },
+    {
+      "sample_id": "TGTCT_hg38-chr10-40632",
+      "seq_id": "fragment10",
+      "seq_loc": "hg38:chr10:74553051-74593682:-",
+      "description": "manifest-seq10"
+    },
+    {
+      "sample_id": "GGTGA_hg19-chr4-15347",
+      "seq_id": "fragment11",
+      "seq_loc": "hg19:chr4:134602638-134617984:-",
+      "description": "manifest-seq11"
+    },
+    {
+      "sample_id": "TTTGT_hg19-chr21-13165",
+      "seq_id": "fragment12",
+      "seq_loc": "hg19:chr21:14178498-14191662:+",
+      "description": "manifest-seq12"
+    },
+    {
+      "sample_id": "CGCTC_hg19-chr20-31689",
+      "seq_id": "fragment13",
+      "seq_loc": "hg19:chr20:32033354-32065042:-",
+      "description": "manifest-seq13"
+    },
+    {
+      "sample_id": "GAAAC_hg19-chr11-39688",
+      "seq_id": "fragment14",
+      "seq_loc": "hg19:chr11:108643654-108683341:-",
+      "description": "manifest-seq14"
+    },
+    {
+      "sample_id": "AATGG_hg19-chr9-18292",
+      "seq_id": "fragment15",
+      "seq_loc": "hg19:chr9:134073724-134092015:-",
+      "description": "manifest-seq15"
+    },
+    {
+      "sample_id": "TGTTA_hg19-chrX-46956",
+      "seq_id": "fragment16",
+      "seq_loc": "hg19:chrX:31946389-31993344:-",
+      "description": "manifest-seq16"
+    },
+    {
+      "sample_id": "TCAAC_hg38-chr5-42403",
+      "seq_id": "fragment17",
+      "seq_loc": "hg38:chr5:51973210-52015612:+",
+      "description": "manifest-seq17"
+    },
+    {
+      "sample_id": "TGAAT_hg19-chr16-15209",
+      "seq_id": "fragment18",
+      "seq_loc": "hg19:chr16:52792853-52808061:-",
+      "description": "manifest-seq18"
+    },
+    {
+      "sample_id": "CCCGA_hg19-chrX-37435",
+      "seq_id": "fragment19",
+      "seq_loc": "hg19:chrX:29935190-29972624:+",
+      "description": "manifest-seq19"
+    },
+    {
+      "sample_id": "GGCAT_hg38-chr8-21864",
+      "seq_id": "fragment20",
+      "seq_loc": "hg38:chr8:87787101-87808964:-",
+      "description": "manifest-seq20"
+    },
+    {
+      "sample_id": "CTAGA_hg19-chr14-2033",
+      "seq_id": "fragment21",
+      "seq_loc": "hg19:chr14:94955962-94957994:-",
+      "description": "manifest-seq21"
+    },
+    {
+      "sample_id": "GACTG_hg19-chr17-3933",
+      "seq_id": "fragment22",
+      "seq_loc": "hg19:chr17:4579700-4583632:-",
+      "description": "manifest-seq22"
+    },
+    {
+      "sample_id": "GGAAG_hg19-chrY-40465",
+      "seq_id": "fragment23",
+      "seq_loc": "hg19:chrY:7429677-7470141:-",
+      "description": "manifest-seq23"
+    },
+    {
+      "sample_id": "GCGAA_hg19-chrY-8389",
+      "seq_id": "fragment24",
+      "seq_loc": "hg19:chrY:5400232-5408620:+",
+      "description": "manifest-seq24"
+    },
+    {
+      "sample_id": "GGCAA_hg19-chr14-46746",
+      "seq_id": "fragment25",
+      "seq_loc": "hg19:chr14:78840706-78887451:+",
+      "description": "manifest-seq25"
+    },
+    {
+      "sample_id": "GTGCT_hg38-chr19-26473",
+      "seq_id": "fragment26",
+      "seq_loc": "hg38:chr19:1138888-1165360:-",
+      "description": "manifest-seq26"
+    },
+    {
+      "sample_id": "GACGC_hg38-chr21-46382",
+      "seq_id": "fragment27",
+      "seq_loc": "hg38:chr21:43403580-43449961:-",
+      "description": "manifest-seq27"
+    },
+    {
+      "sample_id": "GCACG_hg19-chr12-46743",
+      "seq_id": "fragment28",
+      "seq_loc": "hg19:chr12:54750821-54797563:-",
+      "description": "manifest-seq28"
+    },
+    {
+      "sample_id": "TACCT_hg19-chr17-7108",
+      "seq_id": "fragment29",
+      "seq_loc": "hg19:chr17:68634646-68641753:-",
+      "description": "manifest-seq29"
+    },
+    {
+      "sample_id": "GTTGA_hg38-chrX-48299",
+      "seq_id": "fragment30",
+      "seq_loc": "hg38:chrX:82150920-82199218:-",
+      "description": "manifest-seq30"
+    },
+    {
+      "sample_id": "CCGAG_hg38-chr17-12717",
+      "seq_id": "fragment31",
+      "seq_loc": "hg38:chr17:26977426-26990142:-",
+      "description": "manifest-seq31"
+    },
+    {
+      "sample_id": "GGAAA_hg19-chr6-41284",
+      "seq_id": "fragment32",
+      "seq_loc": "hg19:chr6:112351085-112392368:-",
+      "description": "manifest-seq32"
+    },
+    {
+      "sample_id": "CTCAA_hg38-chr10-35114",
+      "seq_id": "fragment33",
+      "seq_loc": "hg38:chr10:93705621-93740734:-",
+      "description": "manifest-seq33"
+    },
+    {
+      "sample_id": "CATCT_hg38-chrX-16455",
+      "seq_id": "fragment34",
+      "seq_loc": "hg38:chrX:99925448-99941902:+",
+      "description": "manifest-seq34"
+    },
+    {
+      "sample_id": "CGACA_hg19-chr14-26761",
+      "seq_id": "fragment35",
+      "seq_loc": "hg19:chr14:83616197-83642957:-",
+      "description": "manifest-seq35"
+    },
+    {
+      "sample_id": "GCTGT_hg19-chr16-35153",
+      "seq_id": "fragment36",
+      "seq_loc": "hg19:chr16:70926219-70961371:-",
+      "description": "manifest-seq36"
+    },
+    {
+      "sample_id": "CATCG_hg38-chr2-43206",
+      "seq_id": "fragment37",
+      "seq_loc": "hg38:chr2:194321463-194364668:+",
+      "description": "manifest-seq37"
+    },
+    {
+      "sample_id": "AAAGG_hg38-chr13-22117",
+      "seq_id": "fragment38",
+      "seq_loc": "hg38:chr13:89368937-89391053:+",
+      "description": "manifest-seq38"
+    },
+    {
+      "sample_id": "AGCCG_hg19-chrX-39806",
+      "seq_id": "fragment39",
+      "seq_loc": "hg19:chrX:25074346-25114151:+",
+      "description": "manifest-seq39"
+    },
+    {
+      "sample_id": "GGGCC_hg38-chr20-48462",
+      "seq_id": "fragment40",
+      "seq_loc": "hg38:chr20:24000183-24048644:+",
+      "description": "manifest-seq40"
+    },
+    {
+      "sample_id": "CTCCG_hg19-chr7-30965",
+      "seq_id": "fragment41",
+      "seq_loc": "hg19:chr7:119187894-119218858:+",
+      "description": "manifest-seq41"
+    },
+    {
+      "sample_id": "GGAGG_hg38-chr19-44388",
+      "seq_id": "fragment42",
+      "seq_loc": "hg38:chr19:30098625-30143012:-",
+      "description": "manifest-seq42"
+    },
+    {
+      "sample_id": "CTTCA_hg19-chr10-47329",
+      "seq_id": "fragment43",
+      "seq_loc": "hg19:chr10:23448643-23495971:-",
+      "description": "manifest-seq43"
+    },
+    {
+      "sample_id": "GCCAC_hg38-chr1-24117",
+      "seq_id": "fragment44",
+      "seq_loc": "hg38:chr1:116763843-116787959:-",
+      "description": "manifest-seq44"
+    },
+    {
+      "sample_id": "TGGCG_hg19-chr17-38858",
+      "seq_id": "fragment45",
+      "seq_loc": "hg19:chr17:54722903-54761760:+",
+      "description": "manifest-seq45"
+    },
+    {
+      "sample_id": "ATCGT_hg38-chr1-27071",
+      "seq_id": "fragment46",
+      "seq_loc": "hg38:chr1:241835530-241862600:-",
+      "description": "manifest-seq46"
+    },
+    {
+      "sample_id": "GGTGG_hg38-chr8-36167",
+      "seq_id": "fragment47",
+      "seq_loc": "hg38:chr8:125093773-125129939:-",
+      "description": "manifest-seq47"
+    },
+    {
+      "sample_id": "TTCAT_hg38-chr5-17657",
+      "seq_id": "fragment48",
+      "seq_loc": "hg38:chr5:80214356-80232012:+",
+      "description": "manifest-seq48"
+    },
+    {
+      "sample_id": "CAGCT_hg38-chr18-15907",
+      "seq_id": "fragment49",
+      "seq_loc": "hg38:chr18:2219473-2235379:+",
+      "description": "manifest-seq49"
+    },
+    {
+      "sample_id": "CTGCC_hg38-chr8-44466",
+      "seq_id": "fragment50",
+      "seq_loc": "hg38:chr8:1933517-1977982:+",
+      "description": "manifest-seq50"
+    },
+    {
+      "sample_id": "TCCAC_hg19-chr18-12082",
+      "seq_id": "fragment51",
+      "seq_loc": "hg19:chr18:5871953-5884034:+",
+      "description": "manifest-seq51"
+    },
+    {
+      "sample_id": "GGGTT_hg19-chr14-38436",
+      "seq_id": "fragment52",
+      "seq_loc": "hg19:chr14:94156549-94194984:-",
+      "description": "manifest-seq52"
+    },
+    {
+      "sample_id": "TTACA_hg19-chr3-42426",
+      "seq_id": "fragment53",
+      "seq_loc": "hg19:chr3:164494351-164536776:+",
+      "description": "manifest-seq53"
+    },
+    {
+      "sample_id": "CGCTT_hg19-chr3-26175",
+      "seq_id": "fragment54",
+      "seq_loc": "hg19:chr3:57873518-57899692:-",
+      "description": "manifest-seq54"
+    },
+    {
+      "sample_id": "CCTTC_hg38-chrX-2216",
+      "seq_id": "fragment55",
+      "seq_loc": "hg38:chrX:96908271-96910486:-",
+      "description": "manifest-seq55"
+    },
+    {
+      "sample_id": "TACGA_hg38-chr6-47881",
+      "seq_id": "fragment56",
+      "seq_loc": "hg38:chr6:41398902-41446782:-",
+      "description": "manifest-seq56"
+    },
+    {
+      "sample_id": "AGACG_hg38-chrX-41175",
+      "seq_id": "fragment57",
+      "seq_loc": "hg38:chrX:81744500-81785674:+",
+      "description": "manifest-seq57"
+    },
+    {
+      "sample_id": "CTGAA_hg38-chr1-23780",
+      "seq_id": "fragment58",
+      "seq_loc": "hg38:chr1:243646279-243670058:+",
+      "description": "manifest-seq58"
+    },
+    {
+      "sample_id": "GAAAG_hg38-chr21-10570",
+      "seq_id": "fragment59",
+      "seq_loc": "hg38:chr21:44774556-44785125:-",
+      "description": "manifest-seq59"
+    },
+    {
+      "sample_id": "GATGG_hg38-chr19-44798",
+      "seq_id": "fragment60",
+      "seq_loc": "hg38:chr19:43808987-43853784:-",
+      "description": "manifest-seq60"
+    },
+    {
+      "sample_id": "GCAAC_hg38-chr15-36704",
+      "seq_id": "fragment61",
+      "seq_loc": "hg38:chr15:73165593-73202296:-",
+      "description": "manifest-seq61"
+    },
+    {
+      "sample_id": "ACGCT_hg19-chr21-39768",
+      "seq_id": "fragment62",
+      "seq_loc": "hg19:chr21:5165904-5205671:+",
+      "description": "manifest-seq62"
+    },
+    {
+      "sample_id": "GCCCC_hg19-chr13-36952",
+      "seq_id": "fragment63",
+      "seq_loc": "hg19:chr13:39426562-39463513:+",
+      "description": "manifest-seq63"
+    },
+    {
+      "sample_id": "ACCTG_hg38-chr1-46415",
+      "seq_id": "fragment64",
+      "seq_loc": "hg38:chr1:5335088-5381502:+",
+      "description": "manifest-seq64"
+    },
+    {
+      "sample_id": "GAAAT_hg38-chr7-32377",
+      "seq_id": "fragment65",
+      "seq_loc": "hg38:chr7:133568778-133601154:-",
+      "description": "manifest-seq65"
+    },
+    {
+      "sample_id": "ATCTT_hg19-chr11-1733",
+      "seq_id": "fragment66",
+      "seq_loc": "hg19:chr11:48517996-48519728:-",
+      "description": "manifest-seq66"
+    },
+    {
+      "sample_id": "CTCCC_hg19-chr2-5951",
+      "seq_id": "fragment67",
+      "seq_loc": "hg19:chr2:25850686-25856636:-",
+      "description": "manifest-seq67"
+    },
+    {
+      "sample_id": "GAGCC_hg19-chr3-44013",
+      "seq_id": "fragment68",
+      "seq_loc": "hg19:chr3:65190653-65234665:+",
+      "description": "manifest-seq68"
+    },
+    {
+      "sample_id": "CGCAC_hg19-chr13-41238",
+      "seq_id": "fragment69",
+      "seq_loc": "hg19:chr13:65304308-65345545:+",
+      "description": "manifest-seq69"
+    },
+    {
+      "sample_id": "GGTAC_hg38-chr6-25743",
+      "seq_id": "fragment70",
+      "seq_loc": "hg38:chr6:49568118-49593860:+",
+      "description": "manifest-seq70"
+    },
+    {
+      "sample_id": "CTGCA_hg19-chr21-35203",
+      "seq_id": "fragment71",
+      "seq_loc": "hg19:chr21:36775031-36810233:+",
+      "description": "manifest-seq71"
+    },
+    {
+      "sample_id": "CAACC_hg38-chr13-2811",
+      "seq_id": "fragment72",
+      "seq_loc": "hg38:chr13:77645948-77648758:-",
+      "description": "manifest-seq72"
+    },
+    {
+      "sample_id": "CGAGC_hg19-chr3-28841",
+      "seq_id": "fragment73",
+      "seq_loc": "hg19:chr3:26105060-26133900:-",
+      "description": "manifest-seq73"
+    },
+    {
+      "sample_id": "GATAT_hg19-chr5-12673",
+      "seq_id": "fragment74",
+      "seq_loc": "hg19:chr5:128010804-128023476:+",
+      "description": "manifest-seq74"
+    },
+    {
+      "sample_id": "GCTGC_hg19-chr14-32301",
+      "seq_id": "fragment75",
+      "seq_loc": "hg19:chr14:100669907-100702207:-",
+      "description": "manifest-seq75"
+    },
+    {
+      "sample_id": "CCATG_hg19-chrY-6436",
+      "seq_id": "fragment76",
+      "seq_loc": "hg19:chrY:18299173-18305608:+",
+      "description": "manifest-seq76"
+    },
+    {
+      "sample_id": "CACTT_hg19-chr8-29414",
+      "seq_id": "fragment77",
+      "seq_loc": "hg19:chr8:129564941-129594354:+",
+      "description": "manifest-seq77"
+    },
+    {
+      "sample_id": "TTGGT_hg38-chr14-46290",
+      "seq_id": "fragment78",
+      "seq_loc": "hg38:chr14:14424460-14470749:-",
+      "description": "manifest-seq78"
+    },
+    {
+      "sample_id": "ATGAC_hg38-chr6-8977",
+      "seq_id": "fragment79",
+      "seq_loc": "hg38:chr6:25935112-25944088:-",
+      "description": "manifest-seq79"
+    },
+    {
+      "sample_id": "AATGC_hg19-chr22-6303",
+      "seq_id": "fragment80",
+      "seq_loc": "hg19:chr22:4414014-4420316:-",
+      "description": "manifest-seq80"
+    },
+    {
+      "sample_id": "GCAGT_hg19-chr19-21934",
+      "seq_id": "fragment81",
+      "seq_loc": "hg19:chr19:15328679-15350612:+",
+      "description": "manifest-seq81"
+    },
+    {
+      "sample_id": "CGGCT_hg19-chr16-49160",
+      "seq_id": "fragment82",
+      "seq_loc": "hg19:chr16:73182523-73231682:-",
+      "description": "manifest-seq82"
+    },
+    {
+      "sample_id": "CAGGC_hg38-chr1-36245",
+      "seq_id": "fragment83",
+      "seq_loc": "hg38:chr1:242883569-242919813:-",
+      "description": "manifest-seq83"
+    },
+    {
+      "sample_id": "CTATG_hg19-chr17-15439",
+      "seq_id": "fragment84",
+      "seq_loc": "hg19:chr17:20945555-20960993:-",
+      "description": "manifest-seq84"
+    },
+    {
+      "sample_id": "CATTC_hg19-chr19-17535",
+      "seq_id": "fragment85",
+      "seq_loc": "hg19:chr19:29648863-29666397:+",
+      "description": "manifest-seq85"
+    },
+    {
+      "sample_id": "TTACC_hg19-chr21-40412",
+      "seq_id": "fragment86",
+      "seq_loc": "hg19:chr21:30091775-30132186:-",
+      "description": "manifest-seq86"
+    },
+    {
+      "sample_id": "GCAAT_hg38-chr7-26676",
+      "seq_id": "fragment87",
+      "seq_loc": "hg38:chr7:123984130-124010805:-",
+      "description": "manifest-seq87"
+    },
+    {
+      "sample_id": "TCGAG_hg38-chr5-18376",
+      "seq_id": "fragment88",
+      "seq_loc": "hg38:chr5:73105304-73123679:-",
+      "description": "manifest-seq88"
+    },
+    {
+      "sample_id": "GGTCT_hg19-chr16-46837",
+      "seq_id": "fragment89",
+      "seq_loc": "hg19:chr16:62401440-62448276:-",
+      "description": "manifest-seq89"
+    },
+    {
+      "sample_id": "ACATC_hg38-chr6-4491",
+      "seq_id": "fragment90",
+      "seq_loc": "hg38:chr6:30270819-30275309:+",
+      "description": "manifest-seq90"
+    },
+    {
+      "sample_id": "TAGAG_hg38-chr10-36231",
+      "seq_id": "fragment91",
+      "seq_loc": "hg38:chr10:107372786-107409016:+",
+      "description": "manifest-seq91"
+    },
+    {
+      "sample_id": "TTTAT_hg19-chr18-19810",
+      "seq_id": "fragment92",
+      "seq_loc": "hg19:chr18:15209511-15229320:+",
+      "description": "manifest-seq92"
+    },
+    {
+      "sample_id": "GCTAG_hg38-chr4-12178",
+      "seq_id": "fragment93",
+      "seq_loc": "hg38:chr4:31382840-31395017:+",
+      "description": "manifest-seq93"
+    },
+    {
+      "sample_id": "TAGCT_hg19-chr2-17516",
+      "seq_id": "fragment94",
+      "seq_loc": "hg19:chr2:50805492-50823007:-",
+      "description": "manifest-seq94"
+    },
+    {
+      "sample_id": "CAAAC_hg38-chr16-14483",
+      "seq_id": "fragment95",
+      "seq_loc": "hg38:chr16:48235211-48249693:-",
+      "description": "manifest-seq95"
+    },
+    {
+      "sample_id": "AAGTG_hg38-chr1-7235",
+      "seq_id": "fragment96",
+      "seq_loc": "hg38:chr1:166764549-166771783:+",
+      "description": "manifest-seq96"
+    },
+    {
+      "sample_id": "GTCGG_hg38-chr4-32123",
+      "seq_id": "fragment97",
+      "seq_loc": "hg38:chr4:152069697-152101819:-",
+      "description": "manifest-seq97"
+    },
+    {
+      "sample_id": "TGCCT_hg38-chr4-8767",
+      "seq_id": "fragment98",
+      "seq_loc": "hg38:chr4:36643677-36652443:-",
+      "description": "manifest-seq98"
+    },
+    {
+      "sample_id": "CACGA_hg19-chr12-13726",
+      "seq_id": "fragment99",
+      "seq_loc": "hg19:chr12:25157238-25170963:+",
+      "description": "manifest-seq99"
+    },
+    {
+      "sample_id": "AGCTC_hg38-chrY-10149",
+      "seq_id": "fragment100",
+      "seq_loc": "hg38:chrY:48136833-48146981:+",
+      "description": "manifest-seq100"
+    },
+    {
+      "sample_id": "GAGTA_hg19-chr20-29739",
+      "seq_id": "fragment101",
+      "seq_loc": "hg19:chr20:15786921-15816659:+",
+      "description": "manifest-seq101"
+    },
+    {
+      "sample_id": "GCTTC_hg19-chrY-38214",
+      "seq_id": "fragment102",
+      "seq_loc": "hg19:chrY:21473006-21511219:+",
+      "description": "manifest-seq102"
+    },
+    {
+      "sample_id": "CTGTA_hg19-chr4-30849",
+      "seq_id": "fragment103",
+      "seq_loc": "hg19:chr4:4569932-4600780:+",
+      "description": "manifest-seq103"
+    },
+    {
+      "sample_id": "CTGGT_hg19-chr8-35902",
+      "seq_id": "fragment104",
+      "seq_loc": "hg19:chr8:34271495-34307396:+",
+      "description": "manifest-seq104"
+    },
+    {
+      "sample_id": "GTTTC_hg38-chr1-28564",
+      "seq_id": "fragment105",
+      "seq_loc": "hg38:chr1:245703477-245732040:+",
+      "description": "manifest-seq105"
+    },
+    {
+      "sample_id": "TGATA_hg19-chr1-44460",
+      "seq_id": "fragment106",
+      "seq_loc": "hg19:chr1:174103939-174148398:-",
+      "description": "manifest-seq106"
+    },
+    {
+      "sample_id": "TGGGT_hg19-chr3-46942",
+      "seq_id": "fragment107",
+      "seq_loc": "hg19:chr3:193828412-193875353:+",
+      "description": "manifest-seq107"
+    },
+    {
+      "sample_id": "ATATG_hg19-chr2-48774",
+      "seq_id": "fragment108",
+      "seq_loc": "hg19:chr2:162375486-162424259:-",
+      "description": "manifest-seq108"
+    },
+    {
+      "sample_id": "CCCCC_hg19-chr14-5588",
+      "seq_id": "fragment109",
+      "seq_loc": "hg19:chr14:77179204-77184791:-",
+      "description": "manifest-seq109"
+    },
+    {
+      "sample_id": "CGCGC_hg19-chr9-48602",
+      "seq_id": "fragment110",
+      "seq_loc": "hg19:chr9:125411856-125460457:-",
+      "description": "manifest-seq110"
+    },
+    {
+      "sample_id": "CCTAT_hg38-chr6-5015",
+      "seq_id": "fragment111",
+      "seq_loc": "hg38:chr6:34799592-34804606:+",
+      "description": "manifest-seq111"
+    },
+    {
+      "sample_id": "TACAG_hg38-chr11-29757",
+      "seq_id": "fragment112",
+      "seq_loc": "hg38:chr11:8440660-8470416:-",
+      "description": "manifest-seq112"
+    },
+    {
+      "sample_id": "AGGTG_hg19-chr3-44186",
+      "seq_id": "fragment113",
+      "seq_loc": "hg19:chr3:146198876-146243061:-",
+      "description": "manifest-seq113"
+    },
+    {
+      "sample_id": "TCACT_hg19-chr17-33210",
+      "seq_id": "fragment114",
+      "seq_loc": "hg19:chr17:62733182-62766391:+",
+      "description": "manifest-seq114"
+    },
+    {
+      "sample_id": "TCCTC_hg19-chr16-25161",
+      "seq_id": "fragment115",
+      "seq_loc": "hg19:chr16:31088568-31113728:-",
+      "description": "manifest-seq115"
+    },
+    {
+      "sample_id": "TTAGG_hg38-chr13-40077",
+      "seq_id": "fragment116",
+      "seq_loc": "hg38:chr13:47057797-47097873:+",
+      "description": "manifest-seq116"
+    },
+    {
+      "sample_id": "TATCT_hg38-chr1-19208",
+      "seq_id": "fragment117",
+      "seq_loc": "hg38:chr1:165567230-165586437:-",
+      "description": "manifest-seq117"
+    },
+    {
+      "sample_id": "TGTAT_hg38-chr1-3486",
+      "seq_id": "fragment118",
+      "seq_loc": "hg38:chr1:91543080-91546565:+",
+      "description": "manifest-seq118"
+    },
+    {
+      "sample_id": "GTGTA_hg38-chr18-21510",
+      "seq_id": "fragment119",
+      "seq_loc": "hg38:chr18:65032136-65053645:-",
+      "description": "manifest-seq119"
+    },
+    {
+      "sample_id": "CGCAT_hg19-chr14-44534",
+      "seq_id": "fragment120",
+      "seq_loc": "hg19:chr14:30738908-30783441:+",
+      "description": "manifest-seq120"
+    },
+    {
+      "sample_id": "ACAAG_hg19-chrX-18986",
+      "seq_id": "fragment121",
+      "seq_loc": "hg19:chrX:22513535-22532520:-",
+      "description": "manifest-seq121"
+    },
+    {
+      "sample_id": "TGCAG_hg19-chrX-7569",
+      "seq_id": "fragment122",
+      "seq_loc": "hg19:chrX:96499649-96507217:+",
+      "description": "manifest-seq122"
+    },
+    {
+      "sample_id": "ATACT_hg19-chr12-46210",
+      "seq_id": "fragment123",
+      "seq_loc": "hg19:chr12:101762140-101808349:-",
+      "description": "manifest-seq123"
+    },
+    {
+      "sample_id": "GGCAC_hg19-chrY-43094",
+      "seq_id": "fragment124",
+      "seq_loc": "hg19:chrY:16520870-16563963:-",
+      "description": "manifest-seq124"
+    },
+    {
+      "sample_id": "ACTGT_hg19-chr8-11105",
+      "seq_id": "fragment125",
+      "seq_loc": "hg19:chr8:63312777-63323881:+",
+      "description": "manifest-seq125"
+    },
+    {
+      "sample_id": "AATTC_hg19-chr7-12131",
+      "seq_id": "fragment126",
+      "seq_loc": "hg19:chr7:87962995-87975125:-",
+      "description": "manifest-seq126"
+    },
+    {
+      "sample_id": "GGTCA_hg19-chr12-15501",
+      "seq_id": "fragment127",
+      "seq_loc": "hg19:chr12:34905632-34921132:+",
+      "description": "manifest-seq127"
+    },
+    {
+      "sample_id": "CAAAG_hg38-chr5-24669",
+      "seq_id": "fragment128",
+      "seq_loc": "hg38:chr5:87646019-87670687:+",
+      "description": "manifest-seq128"
+    },
+    {
+      "sample_id": "GTCTC_hg38-chr9-29654",
+      "seq_id": "fragment129",
+      "seq_loc": "hg38:chr9:60748681-60778334:-",
+      "description": "manifest-seq129"
+    },
+    {
+      "sample_id": "AAAGC_hg38-chr3-5244",
+      "seq_id": "fragment130",
+      "seq_loc": "hg38:chr3:91656141-91661384:+",
+      "description": "manifest-seq130"
+    },
+    {
+      "sample_id": "TATCC_hg38-chr3-43466",
+      "seq_id": "fragment131",
+      "seq_loc": "hg38:chr3:5887959-5931424:-",
+      "description": "manifest-seq131"
+    },
+    {
+      "sample_id": "GCAAA_hg38-chr8-34255",
+      "seq_id": "fragment132",
+      "seq_loc": "hg38:chr8:55944457-55978711:-",
+      "description": "manifest-seq132"
+    },
+    {
+      "sample_id": "AGCGA_hg38-chr20-36880",
+      "seq_id": "fragment133",
+      "seq_loc": "hg38:chr20:34755692-34792571:+",
+      "description": "manifest-seq133"
+    },
+    {
+      "sample_id": "TGCGA_hg19-chr22-21941",
+      "seq_id": "fragment134",
+      "seq_loc": "hg19:chr22:1399684-1421624:-",
+      "description": "manifest-seq134"
+    },
+    {
+      "sample_id": "AGCGT_hg38-chr16-49649",
+      "seq_id": "fragment135",
+      "seq_loc": "hg38:chr16:45046052-45095700:-",
+      "description": "manifest-seq135"
+    },
+    {
+      "sample_id": "GTAAA_hg19-chr7-13479",
+      "seq_id": "fragment136",
+      "seq_loc": "hg19:chr7:40340269-40353747:+",
+      "description": "manifest-seq136"
+    },
+    {
+      "sample_id": "TCAGG_hg19-chr4-12581",
+      "seq_id": "fragment137",
+      "seq_loc": "hg19:chr4:10944654-10957234:-",
+      "description": "manifest-seq137"
+    },
+    {
+      "sample_id": "CACAA_hg19-chr20-1281",
+      "seq_id": "fragment138",
+      "seq_loc": "hg19:chr20:23086927-23088207:+",
+      "description": "manifest-seq138"
+    },
+    {
+      "sample_id": "GGGAA_hg19-chr13-41998",
+      "seq_id": "fragment139",
+      "seq_loc": "hg19:chr13:105371548-105413545:-",
+      "description": "manifest-seq139"
+    },
+    {
+      "sample_id": "ATTGA_hg38-chr2-46053",
+      "seq_id": "fragment140",
+      "seq_loc": "hg38:chr2:200297934-200343986:+",
+      "description": "manifest-seq140"
+    },
+    {
+      "sample_id": "CTCGT_hg38-chr7-9168",
+      "seq_id": "fragment141",
+      "seq_loc": "hg38:chr7:134382839-134392006:-",
+      "description": "manifest-seq141"
+    },
+    {
+      "sample_id": "GCATG_hg38-chr5-15212",
+      "seq_id": "fragment142",
+      "seq_loc": "hg38:chr5:107826660-107841871:-",
+      "description": "manifest-seq142"
+    },
+    {
+      "sample_id": "CCACT_hg19-chrY-8655",
+      "seq_id": "fragment143",
+      "seq_loc": "hg19:chrY:33827426-33836080:+",
+      "description": "manifest-seq143"
+    },
+    {
+      "sample_id": "CACCT_hg19-chr1-5689",
+      "seq_id": "fragment144",
+      "seq_loc": "hg19:chr1:166965395-166971083:-",
+      "description": "manifest-seq144"
+    },
+    {
+      "sample_id": "CACTG_hg38-chr11-45856",
+      "seq_id": "fragment145",
+      "seq_loc": "hg38:chr11:22085187-22131042:+",
+      "description": "manifest-seq145"
+    },
+    {
+      "sample_id": "CAATC_hg19-chr20-19482",
+      "seq_id": "fragment146",
+      "seq_loc": "hg19:chr20:33794032-33813513:-",
+      "description": "manifest-seq146"
+    },
+    {
+      "sample_id": "ACTTT_hg19-chr22-40795",
+      "seq_id": "fragment147",
+      "seq_loc": "hg19:chr22:29435303-29476097:-",
+      "description": "manifest-seq147"
+    },
+    {
+      "sample_id": "GGATA_hg19-chr12-31316",
+      "seq_id": "fragment148",
+      "seq_loc": "hg19:chr12:97495038-97526353:-",
+      "description": "manifest-seq148"
+    },
+    {
+      "sample_id": "ATAGA_hg38-chr11-17802",
+      "seq_id": "fragment149",
+      "seq_loc": "hg38:chr11:94519678-94537479:+",
+      "description": "manifest-seq149"
+    },
+    {
+      "sample_id": "AATCT_hg19-chr5-19390",
+      "seq_id": "fragment150",
+      "seq_loc": "hg19:chr5:33623036-33642425:-",
+      "description": "manifest-seq150"
+    },
+    {
+      "sample_id": "CACGC_hg19-chr6-5149",
+      "seq_id": "fragment151",
+      "seq_loc": "hg19:chr6:159300206-159305354:-",
+      "description": "manifest-seq151"
+    },
+    {
+      "sample_id": "CGTGC_hg38-chr18-49685",
+      "seq_id": "fragment152",
+      "seq_loc": "hg38:chr18:50958240-51007924:+",
+      "description": "manifest-seq152"
+    },
+    {
+      "sample_id": "CTCTA_hg38-chr3-12115",
+      "seq_id": "fragment153",
+      "seq_loc": "hg38:chr3:160600180-160612294:+",
+      "description": "manifest-seq153"
+    },
+    {
+      "sample_id": "ATACC_hg38-chr2-12180",
+      "seq_id": "fragment154",
+      "seq_loc": "hg38:chr2:205117694-205129873:+",
+      "description": "manifest-seq154"
+    },
+    {
+      "sample_id": "TTTGA_hg19-chr1-18844",
+      "seq_id": "fragment155",
+      "seq_loc": "hg19:chr1:125161430-125180273:-",
+      "description": "manifest-seq155"
+    },
+    {
+      "sample_id": "TAAGC_hg38-chr16-36954",
+      "seq_id": "fragment156",
+      "seq_loc": "hg38:chr16:70778660-70815613:-",
+      "description": "manifest-seq156"
+    },
+    {
+      "sample_id": "AGGTA_hg38-chr1-20242",
+      "seq_id": "fragment157",
+      "seq_loc": "hg38:chr1:57464513-57484754:-",
+      "description": "manifest-seq157"
+    },
+    {
+      "sample_id": "CGTCC_hg19-chr12-3227",
+      "seq_id": "fragment158",
+      "seq_loc": "hg19:chr12:17675860-17679086:-",
+      "description": "manifest-seq158"
+    },
+    {
+      "sample_id": "CAGGT_hg38-chr16-36248",
+      "seq_id": "fragment159",
+      "seq_loc": "hg38:chr16:84740455-84776702:+",
+      "description": "manifest-seq159"
+    },
+    {
+      "sample_id": "TTCTG_hg38-chr22-36286",
+      "seq_id": "fragment160",
+      "seq_loc": "hg38:chr22:32846366-32882651:-",
+      "description": "manifest-seq160"
+    },
+    {
+      "sample_id": "CGATA_hg19-chr17-43696",
+      "seq_id": "fragment161",
+      "seq_loc": "hg19:chr17:68416102-68459797:+",
+      "description": "manifest-seq161"
+    },
+    {
+      "sample_id": "AGATC_hg19-chr12-37659",
+      "seq_id": "fragment162",
+      "seq_loc": "hg19:chr12:82994063-83031721:+",
+      "description": "manifest-seq162"
+    },
+    {
+      "sample_id": "ATCTA_hg19-chr22-46237",
+      "seq_id": "fragment163",
+      "seq_loc": "hg19:chr22:2154747-2200983:+",
+      "description": "manifest-seq163"
+    },
+    {
+      "sample_id": "GAACT_hg19-chr17-14544",
+      "seq_id": "fragment164",
+      "seq_loc": "hg19:chr17:4592762-4607305:+",
+      "description": "manifest-seq164"
+    },
+    {
+      "sample_id": "CGTTC_hg19-chr18-44147",
+      "seq_id": "fragment165",
+      "seq_loc": "hg19:chr18:14271777-14315923:+",
+      "description": "manifest-seq165"
+    },
+    {
+      "sample_id": "TGTAA_hg38-chr2-31361",
+      "seq_id": "fragment166",
+      "seq_loc": "hg38:chr2:213086175-213117535:+",
+      "description": "manifest-seq166"
+    },
+    {
+      "sample_id": "TCTTC_hg19-chr7-46568",
+      "seq_id": "fragment167",
+      "seq_loc": "hg19:chr7:148943367-148989934:-",
+      "description": "manifest-seq167"
+    },
+    {
+      "sample_id": "TGGTC_hg38-chr16-20891",
+      "seq_id": "fragment168",
+      "seq_loc": "hg38:chr16:58012516-58033406:+",
+      "description": "manifest-seq168"
+    },
+    {
+      "sample_id": "TTAAA_hg19-chr7-2908",
+      "seq_id": "fragment169",
+      "seq_loc": "hg19:chr7:56898612-56901519:-",
+      "description": "manifest-seq169"
+    },
+    {
+      "sample_id": "AGACT_hg19-chr21-35807",
+      "seq_id": "fragment170",
+      "seq_loc": "hg19:chr21:46964923-47000729:-",
+      "description": "manifest-seq170"
+    },
+    {
+      "sample_id": "CGCAA_hg19-chr13-11274",
+      "seq_id": "fragment171",
+      "seq_loc": "hg19:chr13:68855642-68866915:+",
+      "description": "manifest-seq171"
+    },
+    {
+      "sample_id": "GCCTC_hg38-chr8-40792",
+      "seq_id": "fragment172",
+      "seq_loc": "hg38:chr8:122022535-122063326:+",
+      "description": "manifest-seq172"
+    },
+    {
+      "sample_id": "GGGTA_hg38-chr17-19168",
+      "seq_id": "fragment173",
+      "seq_loc": "hg38:chr17:31165442-31184609:-",
+      "description": "manifest-seq173"
+    },
+    {
+      "sample_id": "CCTGG_hg19-chr19-4551",
+      "seq_id": "fragment174",
+      "seq_loc": "hg19:chr19:69211-73761:-",
+      "description": "manifest-seq174"
+    },
+    {
+      "sample_id": "CTTGT_hg19-chr14-8388",
+      "seq_id": "fragment175",
+      "seq_loc": "hg19:chr14:72612462-72620849:+",
+      "description": "manifest-seq175"
+    },
+    {
+      "sample_id": "GACCT_hg38-chr21-17466",
+      "seq_id": "fragment176",
+      "seq_loc": "hg38:chr21:18233845-18251310:-",
+      "description": "manifest-seq176"
+    },
+    {
+      "sample_id": "GAGCT_hg19-chr4-40546",
+      "seq_id": "fragment177",
+      "seq_loc": "hg19:chr4:168308186-168348731:+",
+      "description": "manifest-seq177"
+    },
+    {
+      "sample_id": "CATTG_hg19-chr7-21190",
+      "seq_id": "fragment178",
+      "seq_loc": "hg19:chr7:99866553-99887742:+",
+      "description": "manifest-seq178"
+    },
+    {
+      "sample_id": "GCACC_hg38-chr8-44986",
+      "seq_id": "fragment179",
+      "seq_loc": "hg38:chr8:117415519-117460504:+",
+      "description": "manifest-seq179"
+    },
+    {
+      "sample_id": "ATGAA_hg19-chr5-1046",
+      "seq_id": "fragment180",
+      "seq_loc": "hg19:chr5:119992401-119993446:+",
+      "description": "manifest-seq180"
+    },
+    {
+      "sample_id": "GTTAG_hg19-chr22-26012",
+      "seq_id": "fragment181",
+      "seq_loc": "hg19:chr22:35625283-35651294:+",
+      "description": "manifest-seq181"
+    },
+    {
+      "sample_id": "CGATG_hg19-chr7-30722",
+      "seq_id": "fragment182",
+      "seq_loc": "hg19:chr7:87003760-87034481:+",
+      "description": "manifest-seq182"
+    },
+    {
+      "sample_id": "TTTCA_hg38-chrX-18896",
+      "seq_id": "fragment183",
+      "seq_loc": "hg38:chrX:148373264-148392159:-",
+      "description": "manifest-seq183"
+    },
+    {
+      "sample_id": "TTCTA_hg38-chr13-35857",
+      "seq_id": "fragment184",
+      "seq_loc": "hg38:chr13:74465615-74501471:-",
+      "description": "manifest-seq184"
+    },
+    {
+      "sample_id": "TAGAT_hg38-chr21-32241",
+      "seq_id": "fragment185",
+      "seq_loc": "hg38:chr21:23607939-23640179:+",
+      "description": "manifest-seq185"
+    },
+    {
+      "sample_id": "AATAA_hg38-chr4-42332",
+      "seq_id": "fragment186",
+      "seq_loc": "hg38:chr4:148514780-148557111:+",
+      "description": "manifest-seq186"
+    },
+    {
+      "sample_id": "TGCAT_hg19-chr11-17236",
+      "seq_id": "fragment187",
+      "seq_loc": "hg19:chr11:11444520-11461755:-",
+      "description": "manifest-seq187"
+    },
+    {
+      "sample_id": "GCGGG_hg19-chrY-28619",
+      "seq_id": "fragment188",
+      "seq_loc": "hg19:chrY:27372395-27401013:-",
+      "description": "manifest-seq188"
+    },
+    {
+      "sample_id": "TGGAT_hg38-chr13-1952",
+      "seq_id": "fragment189",
+      "seq_loc": "hg38:chr13:24653384-24655335:+",
+      "description": "manifest-seq189"
+    },
+    {
+      "sample_id": "GGTAG_hg38-chr12-41178",
+      "seq_id": "fragment190",
+      "seq_loc": "hg38:chr12:77319008-77360185:-",
+      "description": "manifest-seq190"
+    },
+    {
+      "sample_id": "TCGGT_hg38-chr17-40152",
+      "seq_id": "fragment191",
+      "seq_loc": "hg38:chr17:39970111-40010262:-",
+      "description": "manifest-seq191"
+    },
+    {
+      "sample_id": "GCCGT_hg19-chr12-32473",
+      "seq_id": "fragment192",
+      "seq_loc": "hg19:chr12:98976162-99008634:+",
+      "description": "manifest-seq192"
+    },
+    {
+      "sample_id": "GGTCG_hg19-chr13-24751",
+      "seq_id": "fragment193",
+      "seq_loc": "hg19:chr13:77957872-77982622:+",
+      "description": "manifest-seq193"
+    },
+    {
+      "sample_id": "GTCTA_hg19-chr13-4135",
+      "seq_id": "fragment194",
+      "seq_loc": "hg19:chr13:64012360-64016494:-",
+      "description": "manifest-seq194"
+    },
+    {
+      "sample_id": "GGAGA_hg38-chr9-2570",
+      "seq_id": "fragment195",
+      "seq_loc": "hg38:chr9:126276975-126279544:-",
+      "description": "manifest-seq195"
+    },
+    {
+      "sample_id": "CCCTT_hg19-chr6-21386",
+      "seq_id": "fragment196",
+      "seq_loc": "hg19:chr6:125006998-125028383:+",
+      "description": "manifest-seq196"
+    },
+    {
+      "sample_id": "GTGTG_hg19-chrY-14585",
+      "seq_id": "fragment197",
+      "seq_loc": "hg19:chrY:3225823-3240407:-",
+      "description": "manifest-seq197"
+    },
+    {
+      "sample_id": "TTTAA_hg38-chr2-26949",
+      "seq_id": "fragment198",
+      "seq_loc": "hg38:chr2:127006771-127033719:-",
+      "description": "manifest-seq198"
+    },
+    {
+      "sample_id": "CCATT_hg19-chr19-25376",
+      "seq_id": "fragment199",
+      "seq_loc": "hg19:chr19:32323394-32348769:+",
+      "description": "manifest-seq199"
+    },
+    {
+      "sample_id": "AGAGA_hg38-chr1-35688",
+      "seq_id": "fragment200",
+      "seq_loc": "hg38:chr1:108104031-108139718:-",
+      "description": "manifest-seq200"
+    },
+    {
+      "sample_id": "CCCAG_hg19-chr16-1678",
+      "seq_id": "fragment201",
+      "seq_loc": "hg19:chr16:53810038-53811715:-",
+      "description": "manifest-seq201"
+    },
+    {
+      "sample_id": "AGATT_hg19-chr2-19543",
+      "seq_id": "fragment202",
+      "seq_loc": "hg19:chr2:185882325-185901867:-",
+      "description": "manifest-seq202"
+    },
+    {
+      "sample_id": "TCGTC_hg38-chr12-38545",
+      "seq_id": "fragment203",
+      "seq_loc": "hg38:chr12:74745863-74784407:+",
+      "description": "manifest-seq203"
+    },
+    {
+      "sample_id": "AGACC_hg19-chrX-42978",
+      "seq_id": "fragment204",
+      "seq_loc": "hg19:chrX:91080290-91123267:+",
+      "description": "manifest-seq204"
+    },
+    {
+      "sample_id": "CGTTG_hg38-chr5-29846",
+      "seq_id": "fragment205",
+      "seq_loc": "hg38:chr5:16330023-16359868:+",
+      "description": "manifest-seq205"
+    },
+    {
+      "sample_id": "ATTAA_hg38-chr3-7476",
+      "seq_id": "fragment206",
+      "seq_loc": "hg38:chr3:49361328-49368803:+",
+      "description": "manifest-seq206"
+    },
+    {
+      "sample_id": "TGACC_hg19-chr15-22891",
+      "seq_id": "fragment207",
+      "seq_loc": "hg19:chr15:23897828-23920718:+",
+      "description": "manifest-seq207"
+    },
+    {
+      "sample_id": "TTGTT_hg38-chr14-10348",
+      "seq_id": "fragment208",
+      "seq_loc": "hg38:chr14:62605182-62615529:-",
+      "description": "manifest-seq208"
+    },
+    {
+      "sample_id": "CCTAG_hg19-chr2-42360",
+      "seq_id": "fragment209",
+      "seq_loc": "hg19:chr2:236804166-236846525:+",
+      "description": "manifest-seq209"
+    },
+    {
+      "sample_id": "TCCGA_hg38-chr18-3563",
+      "seq_id": "fragment210",
+      "seq_loc": "hg38:chr18:28455779-28459341:-",
+      "description": "manifest-seq210"
+    },
+    {
+      "sample_id": "GGCTA_hg38-chr17-32770",
+      "seq_id": "fragment211",
+      "seq_loc": "hg38:chr17:34883523-34916292:+",
+      "description": "manifest-seq211"
+    },
+    {
+      "sample_id": "ATTAC_hg38-chrY-19065",
+      "seq_id": "fragment212",
+      "seq_loc": "hg38:chrY:33828744-33847808:+",
+      "description": "manifest-seq212"
+    },
+    {
+      "sample_id": "TGTGT_hg38-chr7-22018",
+      "seq_id": "fragment213",
+      "seq_loc": "hg38:chr7:45486598-45508615:+",
+      "description": "manifest-seq213"
+    },
+    {
+      "sample_id": "TCGCA_hg19-chr20-49159",
+      "seq_id": "fragment214",
+      "seq_loc": "hg19:chr20:54878818-54927976:+",
+      "description": "manifest-seq214"
+    },
+    {
+      "sample_id": "GAGGG_hg38-chr19-3122",
+      "seq_id": "fragment215",
+      "seq_loc": "hg38:chr19:14165613-14168734:-",
+      "description": "manifest-seq215"
+    },
+    {
+      "sample_id": "ATCCG_hg19-chr16-1694",
+      "seq_id": "fragment216",
+      "seq_loc": "hg19:chr16:74974404-74976097:-",
+      "description": "manifest-seq216"
+    },
+    {
+      "sample_id": "TGTCG_hg19-chr5-46334",
+      "seq_id": "fragment217",
+      "seq_loc": "hg19:chr5:55438342-55484675:-",
+      "description": "manifest-seq217"
+    },
+    {
+      "sample_id": "CTGAC_hg19-chr8-9864",
+      "seq_id": "fragment218",
+      "seq_loc": "hg19:chr8:54636631-54646494:+",
+      "description": "manifest-seq218"
+    },
+    {
+      "sample_id": "ATGAT_hg38-chr1-24972",
+      "seq_id": "fragment219",
+      "seq_loc": "hg38:chr1:61045442-61070413:+",
+      "description": "manifest-seq219"
+    },
+    {
+      "sample_id": "GCCGA_hg38-chr5-9647",
+      "seq_id": "fragment220",
+      "seq_loc": "hg38:chr5:80958215-80967861:-",
+      "description": "manifest-seq220"
+    },
+    {
+      "sample_id": "AAAAG_hg38-chr18-21636",
+      "seq_id": "fragment221",
+      "seq_loc": "hg38:chr18:15125896-15147531:+",
+      "description": "manifest-seq221"
+    },
+    {
+      "sample_id": "AACAT_hg38-chr21-37210",
+      "seq_id": "fragment222",
+      "seq_loc": "hg38:chr21:1773106-1810315:+",
+      "description": "manifest-seq222"
+    },
+    {
+      "sample_id": "GGGCA_hg19-chr8-3014",
+      "seq_id": "fragment223",
+      "seq_loc": "hg19:chr8:29973830-29976843:-",
+      "description": "manifest-seq223"
+    },
+    {
+      "sample_id": "CTAAC_hg38-chr22-2266",
+      "seq_id": "fragment224",
+      "seq_loc": "hg38:chr22:27512489-27514754:-",
+      "description": "manifest-seq224"
+    },
+    {
+      "sample_id": "ATATC_hg19-chr17-31848",
+      "seq_id": "fragment225",
+      "seq_loc": "hg19:chr17:39376839-39408686:-",
+      "description": "manifest-seq225"
+    },
+    {
+      "sample_id": "AGTTT_hg19-chr2-23908",
+      "seq_id": "fragment226",
+      "seq_loc": "hg19:chr2:165960759-165984666:-",
+      "description": "manifest-seq226"
+    },
+    {
+      "sample_id": "CCGGG_hg19-chr20-25392",
+      "seq_id": "fragment227",
+      "seq_loc": "hg19:chr20:14264769-14290160:-",
+      "description": "manifest-seq227"
+    },
+    {
+      "sample_id": "ACCTA_hg19-chr13-25957",
+      "seq_id": "fragment228",
+      "seq_loc": "hg19:chr13:40837605-40863561:-",
+      "description": "manifest-seq228"
+    },
+    {
+      "sample_id": "CAAGA_hg38-chr5-4977",
+      "seq_id": "fragment229",
+      "seq_loc": "hg38:chr5:156620106-156625082:+",
+      "description": "manifest-seq229"
+    },
+    {
+      "sample_id": "GAAGG_hg19-chr10-24090",
+      "seq_id": "fragment230",
+      "seq_loc": "hg19:chr10:69915321-69939410:-",
+      "description": "manifest-seq230"
+    },
+    {
+      "sample_id": "CTAAT_hg38-chr19-14429",
+      "seq_id": "fragment231",
+      "seq_loc": "hg38:chr19:43081084-43095512:+",
+      "description": "manifest-seq231"
+    },
+    {
+      "sample_id": "AAAGA_hg38-chr22-21613",
+      "seq_id": "fragment232",
+      "seq_loc": "hg38:chr22:6656647-6678259:-",
+      "description": "manifest-seq232"
+    },
+    {
+      "sample_id": "TTAGA_hg38-chr6-26885",
+      "seq_id": "fragment233",
+      "seq_loc": "hg38:chr6:76403922-76430806:-",
+      "description": "manifest-seq233"
+    },
+    {
+      "sample_id": "CAAGG_hg38-chr19-45895",
+      "seq_id": "fragment234",
+      "seq_loc": "hg38:chr19:49978631-50024525:-",
+      "description": "manifest-seq234"
+    },
+    {
+      "sample_id": "TCGCC_hg19-chr8-31914",
+      "seq_id": "fragment235",
+      "seq_loc": "hg19:chr8:2550966-2582879:-",
+      "description": "manifest-seq235"
+    },
+    {
+      "sample_id": "CTGAG_hg38-chr1-28957",
+      "seq_id": "fragment236",
+      "seq_loc": "hg38:chr1:7777811-7806767:-",
+      "description": "manifest-seq236"
+    },
+    {
+      "sample_id": "TCCCT_hg19-chr3-30036",
+      "seq_id": "fragment237",
+      "seq_loc": "hg19:chr3:136627540-136657575:-",
+      "description": "manifest-seq237"
+    },
+    {
+      "sample_id": "TGTGA_hg19-chr11-31515",
+      "seq_id": "fragment238",
+      "seq_loc": "hg19:chr11:6003996-6035510:+",
+      "description": "manifest-seq238"
+    },
+    {
+      "sample_id": "TAACT_hg19-chr15-33347",
+      "seq_id": "fragment239",
+      "seq_loc": "hg19:chr15:70952644-70985990:+",
+      "description": "manifest-seq239"
+    },
+    {
+      "sample_id": "GTACT_hg38-chr2-15740",
+      "seq_id": "fragment240",
+      "seq_loc": "hg38:chr2:58960335-58976074:-",
+      "description": "manifest-seq240"
+    },
+    {
+      "sample_id": "TCTCC_hg19-chr20-47179",
+      "seq_id": "fragment241",
+      "seq_loc": "hg19:chr20:56672868-56720046:+",
+      "description": "manifest-seq241"
+    },
+    {
+      "sample_id": "TTAAT_hg19-chr20-36223",
+      "seq_id": "fragment242",
+      "seq_loc": "hg19:chr20:37338535-37374757:+",
+      "description": "manifest-seq242"
+    },
+    {
+      "sample_id": "CATGA_hg19-chr5-14482",
+      "seq_id": "fragment243",
+      "seq_loc": "hg19:chr5:62987853-63002334:-",
+      "description": "manifest-seq243"
+    },
+    {
+      "sample_id": "TCTCT_hg38-chr7-18585",
+      "seq_id": "fragment244",
+      "seq_loc": "hg38:chr7:117402102-117420686:-",
+      "description": "manifest-seq244"
+    },
+    {
+      "sample_id": "ACGGG_hg38-chr3-2154",
+      "seq_id": "fragment245",
+      "seq_loc": "hg38:chr3:31652206-31654359:-",
+      "description": "manifest-seq245"
+    },
+    {
+      "sample_id": "CCCTC_hg19-chr17-19021",
+      "seq_id": "fragment246",
+      "seq_loc": "hg19:chr17:32203431-32222451:+",
+      "description": "manifest-seq246"
+    },
+    {
+      "sample_id": "CGGTA_hg19-chr13-48985",
+      "seq_id": "fragment247",
+      "seq_loc": "hg19:chr13:73224554-73273538:+",
+      "description": "manifest-seq247"
+    },
+    {
+      "sample_id": "AAGAT_hg19-chr2-21038",
+      "seq_id": "fragment248",
+      "seq_loc": "hg19:chr2:37319171-37340208:+",
+      "description": "manifest-seq248"
+    },
+    {
+      "sample_id": "GATCC_hg19-chrY-41617",
+      "seq_id": "fragment249",
+      "seq_loc": "hg19:chrY:37454231-37495847:+",
+      "description": "manifest-seq249"
+    },
+    {
+      "sample_id": "CGAGA_hg19-chr18-12960",
+      "seq_id": "fragment250",
+      "seq_loc": "hg19:chr18:67943936-67956895:-",
+      "description": "manifest-seq250"
+    },
+    {
+      "sample_id": "CTTGG_hg19-chr18-45918",
+      "seq_id": "fragment251",
+      "seq_loc": "hg19:chr18:74353908-74399825:-",
+      "description": "manifest-seq251"
+    },
+    {
+      "sample_id": "AGGCT_hg19-chrX-28579",
+      "seq_id": "fragment252",
+      "seq_loc": "hg19:chrX:92260241-92288819:+",
+      "description": "manifest-seq252"
+    },
+    {
+      "sample_id": "GGTTT_hg19-chr22-33129",
+      "seq_id": "fragment253",
+      "seq_loc": "hg19:chr22:46217857-46250985:+",
+      "description": "manifest-seq253"
+    },
+    {
+      "sample_id": "CGAAG_hg38-chr11-40857",
+      "seq_id": "fragment254",
+      "seq_loc": "hg38:chr11:112281219-112322075:-",
+      "description": "manifest-seq254"
+    },
+    {
+      "sample_id": "CTATA_hg19-chr12-48859",
+      "seq_id": "fragment255",
+      "seq_loc": "hg19:chr12:86583558-86632416:+",
+      "description": "manifest-seq255"
+    },
+    {
+      "sample_id": "AGCAT_hg38-chrX-41514",
+      "seq_id": "fragment256",
+      "seq_loc": "hg38:chrX:72524648-72566161:+",
+      "description": "manifest-seq256"
+    },
+    {
+      "sample_id": "TAGTT_hg19-chr15-2616",
+      "seq_id": "fragment257",
+      "seq_loc": "hg19:chr15:12612213-12614828:+",
+      "description": "manifest-seq257"
+    },
+    {
+      "sample_id": "GCTCT_hg38-chr21-42899",
+      "seq_id": "fragment258",
+      "seq_loc": "hg38:chr21:5504659-5547557:-",
+      "description": "manifest-seq258"
+    },
+    {
+      "sample_id": "CGGGT_hg38-chr5-33068",
+      "seq_id": "fragment259",
+      "seq_loc": "hg38:chr5:54958695-54991762:+",
+      "description": "manifest-seq259"
+    },
+    {
+      "sample_id": "CAATT_hg19-chr13-17687",
+      "seq_id": "fragment260",
+      "seq_loc": "hg19:chr13:83529011-83546697:-",
+      "description": "manifest-seq260"
+    },
+    {
+      "sample_id": "AAGCG_hg19-chr15-2215",
+      "seq_id": "fragment261",
+      "seq_loc": "hg19:chr15:83676743-83678957:-",
+      "description": "manifest-seq261"
+    },
+    {
+      "sample_id": "ACGAC_hg38-chr21-32745",
+      "seq_id": "fragment262",
+      "seq_loc": "hg38:chr21:19727739-19760483:-",
+      "description": "manifest-seq262"
+    },
+    {
+      "sample_id": "CAGGA_hg38-chr14-14922",
+      "seq_id": "fragment263",
+      "seq_loc": "hg38:chr14:40558623-40573544:-",
+      "description": "manifest-seq263"
+    },
+    {
+      "sample_id": "ACATA_hg38-chrY-6411",
+      "seq_id": "fragment264",
+      "seq_loc": "hg38:chrY:21725910-21732320:+",
+      "description": "manifest-seq264"
+    },
+    {
+      "sample_id": "TTGTC_hg38-chrY-9838",
+      "seq_id": "fragment265",
+      "seq_loc": "hg38:chrY:18776589-18786426:-",
+      "description": "manifest-seq265"
+    },
+    {
+      "sample_id": "TAACA_hg38-chr22-27171",
+      "seq_id": "fragment266",
+      "seq_loc": "hg38:chr22:3653204-3680374:-",
+      "description": "manifest-seq266"
+    },
+    {
+      "sample_id": "TTGAC_hg38-chr18-20190",
+      "seq_id": "fragment267",
+      "seq_loc": "hg38:chr18:15771757-15791946:-",
+      "description": "manifest-seq267"
+    },
+    {
+      "sample_id": "GCTGA_hg38-chr19-20767",
+      "seq_id": "fragment268",
+      "seq_loc": "hg38:chr19:36047921-36068687:-",
+      "description": "manifest-seq268"
+    },
+    {
+      "sample_id": "GGCCA_hg38-chr14-45134",
+      "seq_id": "fragment269",
+      "seq_loc": "hg38:chr14:105573300-105618433:+",
+      "description": "manifest-seq269"
+    },
+    {
+      "sample_id": "ATTCT_hg19-chr2-2026",
+      "seq_id": "fragment270",
+      "seq_loc": "hg19:chr2:737586-739611:-",
+      "description": "manifest-seq270"
+    },
+    {
+      "sample_id": "CCCAA_hg19-chr17-11662",
+      "seq_id": "fragment271",
+      "seq_loc": "hg19:chr17:70756499-70768160:+",
+      "description": "manifest-seq271"
+    },
+    {
+      "sample_id": "AGGCC_hg19-chr9-19432",
+      "seq_id": "fragment272",
+      "seq_loc": "hg19:chr9:38224406-38243837:-",
+      "description": "manifest-seq272"
+    },
+    {
+      "sample_id": "CTATT_hg19-chr12-5714",
+      "seq_id": "fragment273",
+      "seq_loc": "hg19:chr12:96767342-96773055:+",
+      "description": "manifest-seq273"
+    },
+    {
+      "sample_id": "GTTAT_hg38-chr21-7498",
+      "seq_id": "fragment274",
+      "seq_loc": "hg38:chr21:37379950-37387447:-",
+      "description": "manifest-seq274"
+    },
+    {
+      "sample_id": "GTATG_hg19-chrY-47290",
+      "seq_id": "fragment275",
+      "seq_loc": "hg19:chrY:9761534-9808823:+",
+      "description": "manifest-seq275"
+    },
+    {
+      "sample_id": "TGACT_hg38-chr4-2145",
+      "seq_id": "fragment276",
+      "seq_loc": "hg38:chr4:6810908-6813052:+",
+      "description": "manifest-seq276"
+    },
+    {
+      "sample_id": "AAGCC_hg38-chr15-21195",
+      "seq_id": "fragment277",
+      "seq_loc": "hg38:chr15:39311301-39332495:+",
+      "description": "manifest-seq277"
+    },
+    {
+      "sample_id": "GCAGC_hg19-chr5-3318",
+      "seq_id": "fragment278",
+      "seq_loc": "hg19:chr5:48342448-48345765:+",
+      "description": "manifest-seq278"
+    },
+    {
+      "sample_id": "ACCAA_hg38-chr13-17739",
+      "seq_id": "fragment279",
+      "seq_loc": "hg38:chr13:6170798-6188536:+",
+      "description": "manifest-seq279"
+    },
+    {
+      "sample_id": "GCTCG_hg19-chr14-44635",
+      "seq_id": "fragment280",
+      "seq_loc": "hg19:chr14:47636693-47681327:+",
+      "description": "manifest-seq280"
+    },
+    {
+      "sample_id": "TGCGT_hg38-chr17-16554",
+      "seq_id": "fragment281",
+      "seq_loc": "hg38:chr17:13591053-13607606:+",
+      "description": "manifest-seq281"
+    },
+    {
+      "sample_id": "CAACT_hg38-chr13-43307",
+      "seq_id": "fragment282",
+      "seq_loc": "hg38:chr13:69683982-69727288:+",
+      "description": "manifest-seq282"
+    },
+    {
+      "sample_id": "TCTTT_hg38-chr19-47058",
+      "seq_id": "fragment283",
+      "seq_loc": "hg38:chr19:4232399-4279456:-",
+      "description": "manifest-seq283"
+    },
+    {
+      "sample_id": "GTAGC_hg38-chr14-19924",
+      "seq_id": "fragment284",
+      "seq_loc": "hg38:chr14:102235400-102255323:-",
+      "description": "manifest-seq284"
+    },
+    {
+      "sample_id": "AGCTA_hg19-chr14-17323",
+      "seq_id": "fragment285",
+      "seq_loc": "hg19:chr14:64279360-64296682:+",
+      "description": "manifest-seq285"
+    },
+    {
+      "sample_id": "CTAGT_hg19-chr7-35528",
+      "seq_id": "fragment286",
+      "seq_loc": "hg19:chr7:104206981-104242508:-",
+      "description": "manifest-seq286"
+    },
+    {
+      "sample_id": "AGTTC_hg19-chr7-17034",
+      "seq_id": "fragment287",
+      "seq_loc": "hg19:chr7:144560003-144577036:-",
+      "description": "manifest-seq287"
+    },
+    {
+      "sample_id": "AGCAA_hg38-chr7-16867",
+      "seq_id": "fragment288",
+      "seq_loc": "hg38:chr7:58314633-58331499:-",
+      "description": "manifest-seq288"
+    },
+    {
+      "sample_id": "TCCTT_hg19-chr21-6377",
+      "seq_id": "fragment289",
+      "seq_loc": "hg19:chr21:25094796-25101172:+",
+      "description": "manifest-seq289"
+    },
+    {
+      "sample_id": "ATAAG_hg38-chr9-13441",
+      "seq_id": "fragment290",
+      "seq_loc": "hg38:chr9:112169261-112182701:-",
+      "description": "manifest-seq290"
+    },
+    {
+      "sample_id": "TCACA_hg38-chr2-28886",
+      "seq_id": "fragment291",
+      "seq_loc": "hg38:chr2:22396344-22425229:-",
+      "description": "manifest-seq291"
+    },
+    {
+      "sample_id": "GCGCA_hg38-chr3-46058",
+      "seq_id": "fragment292",
+      "seq_loc": "hg38:chr3:187257363-187303420:-",
+      "description": "manifest-seq292"
+    },
+    {
+      "sample_id": "TAAAT_hg38-chrY-37665",
+      "seq_id": "fragment293",
+      "seq_loc": "hg38:chrY:9074536-9112200:-",
+      "description": "manifest-seq293"
+    },
+    {
+      "sample_id": "CTCTC_hg19-chr6-40217",
+      "seq_id": "fragment294",
+      "seq_loc": "hg19:chr6:33334834-33375050:-",
+      "description": "manifest-seq294"
+    },
+    {
+      "sample_id": "CTGTC_hg19-chr22-19029",
+      "seq_id": "fragment295",
+      "seq_loc": "hg19:chr22:41699055-41718083:-",
+      "description": "manifest-seq295"
+    },
+    {
+      "sample_id": "GGACC_hg38-chr9-31871",
+      "seq_id": "fragment296",
+      "seq_loc": "hg38:chr9:100075046-100106916:-",
+      "description": "manifest-seq296"
+    },
+    {
+      "sample_id": "TTGCA_hg38-chr7-14344",
+      "seq_id": "fragment297",
+      "seq_loc": "hg38:chr7:121821534-121835877:-",
+      "description": "manifest-seq297"
+    },
+    {
+      "sample_id": "TATTG_hg38-chr15-13129",
+      "seq_id": "fragment298",
+      "seq_loc": "hg38:chr15:52915355-52928483:-",
+      "description": "manifest-seq298"
+    },
+    {
+      "sample_id": "TTTTA_hg19-chr21-10920",
+      "seq_id": "fragment299",
+      "seq_loc": "hg19:chr21:14127592-14138511:-",
+      "description": "manifest-seq299"
+    },
+    {
+      "sample_id": "TGAGG_hg19-chr1-3047",
+      "seq_id": "fragment300",
+      "seq_loc": "hg19:chr1:170435509-170438555:+",
+      "description": "manifest-seq300"
+    },
+    {
+      "sample_id": "AGCCA_hg19-chr6-23088",
+      "seq_id": "fragment301",
+      "seq_loc": "hg19:chr6:26916013-26939100:-",
+      "description": "manifest-seq301"
+    },
+    {
+      "sample_id": "AGGAT_hg38-chr5-20510",
+      "seq_id": "fragment302",
+      "seq_loc": "hg38:chr5:117493600-117514109:-",
+      "description": "manifest-seq302"
+    },
+    {
+      "sample_id": "AATAC_hg19-chr9-20459",
+      "seq_id": "fragment303",
+      "seq_loc": "hg19:chr9:92356897-92377355:-",
+      "description": "manifest-seq303"
+    },
+    {
+      "sample_id": "ACCGA_hg19-chr22-19212",
+      "seq_id": "fragment304",
+      "seq_loc": "hg19:chr22:37123054-37142265:+",
+      "description": "manifest-seq304"
+    },
+    {
+      "sample_id": "TATAA_hg19-chr10-38157",
+      "seq_id": "fragment305",
+      "seq_loc": "hg19:chr10:58253539-58291695:-",
+      "description": "manifest-seq305"
+    },
+    {
+      "sample_id": "CAGCG_hg19-chrY-19435",
+      "seq_id": "fragment306",
+      "seq_loc": "hg19:chrY:19743386-19762820:-",
+      "description": "manifest-seq306"
+    },
+    {
+      "sample_id": "GCTCA_hg38-chr7-22011",
+      "seq_id": "fragment307",
+      "seq_loc": "hg38:chr7:26605855-26627865:+",
+      "description": "manifest-seq307"
+    },
+    {
+      "sample_id": "CTACA_hg19-chr14-6012",
+      "seq_id": "fragment308",
+      "seq_loc": "hg19:chr14:32166250-32172261:-",
+      "description": "manifest-seq308"
+    },
+    {
+      "sample_id": "TGAGC_hg38-chr1-16524",
+      "seq_id": "fragment309",
+      "seq_loc": "hg38:chr1:37824930-37841453:-",
+      "description": "manifest-seq309"
+    },
+    {
+      "sample_id": "TACTT_hg19-chr15-30874",
+      "seq_id": "fragment310",
+      "seq_loc": "hg19:chr15:66691590-66722463:-",
+      "description": "manifest-seq310"
+    },
+    {
+      "sample_id": "GATCG_hg38-chr7-17000",
+      "seq_id": "fragment311",
+      "seq_loc": "hg38:chr7:141427130-141444129:-",
+      "description": "manifest-seq311"
+    },
+    {
+      "sample_id": "TCCGC_hg19-chrX-22060",
+      "seq_id": "fragment312",
+      "seq_loc": "hg19:chrX:16579356-16601415:-",
+      "description": "manifest-seq312"
+    },
+    {
+      "sample_id": "GCGAG_hg19-chr15-49726",
+      "seq_id": "fragment313",
+      "seq_loc": "hg19:chr15:52605515-52655240:-",
+      "description": "manifest-seq313"
+    },
+    {
+      "sample_id": "TGGAC_hg38-chr20-8474",
+      "seq_id": "fragment314",
+      "seq_loc": "hg38:chr20:38804821-38813294:+",
+      "description": "manifest-seq314"
+    },
+    {
+      "sample_id": "TCTCG_hg38-chr16-28644",
+      "seq_id": "fragment315",
+      "seq_loc": "hg38:chr16:685782-714425:+",
+      "description": "manifest-seq315"
+    },
+    {
+      "sample_id": "TCGTT_hg19-chr15-46303",
+      "seq_id": "fragment316",
+      "seq_loc": "hg19:chr15:29979290-30025592:+",
+      "description": "manifest-seq316"
+    },
+    {
+      "sample_id": "TAGCG_hg19-chr8-17596",
+      "seq_id": "fragment317",
+      "seq_loc": "hg19:chr8:7870071-7887666:+",
+      "description": "manifest-seq317"
+    },
+    {
+      "sample_id": "TGCCG_hg38-chr7-37242",
+      "seq_id": "fragment318",
+      "seq_loc": "hg38:chr7:92596521-92633762:+",
+      "description": "manifest-seq318"
+    },
+    {
+      "sample_id": "CGTAC_hg19-chr6-31614",
+      "seq_id": "fragment319",
+      "seq_loc": "hg19:chr6:106597798-106629411:+",
+      "description": "manifest-seq319"
+    },
+    {
+      "sample_id": "CTTTA_hg38-chr2-26435",
+      "seq_id": "fragment320",
+      "seq_loc": "hg38:chr2:34835026-34861460:+",
+      "description": "manifest-seq320"
+    },
+    {
+      "sample_id": "GGAAC_hg38-chrX-20997",
+      "seq_id": "fragment321",
+      "seq_loc": "hg38:chrX:151581457-151602453:+",
+      "description": "manifest-seq321"
+    },
+    {
+      "sample_id": "CCAAG_hg19-chr8-44707",
+      "seq_id": "fragment322",
+      "seq_loc": "hg19:chr8:81759659-81804365:+",
+      "description": "manifest-seq322"
+    },
+    {
+      "sample_id": "CACAG_hg19-chr3-45148",
+      "seq_id": "fragment323",
+      "seq_loc": "hg19:chr3:64630882-64676029:-",
+      "description": "manifest-seq323"
+    },
+    {
+      "sample_id": "CTTTC_hg19-chr17-46220",
+      "seq_id": "fragment324",
+      "seq_loc": "hg19:chr17:3203822-3250041:+",
+      "description": "manifest-seq324"
+    },
+    {
+      "sample_id": "CCCCA_hg19-chr2-41897",
+      "seq_id": "fragment325",
+      "seq_loc": "hg19:chr2:240124525-240166421:-",
+      "description": "manifest-seq325"
+    },
+    {
+      "sample_id": "AAGCT_hg38-chr21-47173",
+      "seq_id": "fragment326",
+      "seq_loc": "hg38:chr21:43341922-43389094:-",
+      "description": "manifest-seq326"
+    },
+    {
+      "sample_id": "ATTGG_hg19-chr4-19227",
+      "seq_id": "fragment327",
+      "seq_loc": "hg19:chr4:150616305-150635531:+",
+      "description": "manifest-seq327"
+    },
+    {
+      "sample_id": "AGTAC_hg19-chr6-43248",
+      "seq_id": "fragment328",
+      "seq_loc": "hg19:chr6:122991062-123034309:+",
+      "description": "manifest-seq328"
+    },
+    {
+      "sample_id": "GTCCT_hg19-chr5-17940",
+      "seq_id": "fragment329",
+      "seq_loc": "hg19:chr5:147142760-147160699:+",
+      "description": "manifest-seq329"
+    },
+    {
+      "sample_id": "ATGCA_hg19-chr16-38941",
+      "seq_id": "fragment330",
+      "seq_loc": "hg19:chr16:71561583-71600523:+",
+      "description": "manifest-seq330"
+    },
+    {
+      "sample_id": "TGGAG_hg19-chr10-10505",
+      "seq_id": "fragment331",
+      "seq_loc": "hg19:chr10:125787570-125798074:+",
+      "description": "manifest-seq331"
+    },
+    {
+      "sample_id": "TGACA_hg19-chrX-33937",
+      "seq_id": "fragment332",
+      "seq_loc": "hg19:chrX:136772353-136806289:-",
+      "description": "manifest-seq332"
+    },
+    {
+      "sample_id": "TTTGC_hg19-chr21-43261",
+      "seq_id": "fragment333",
+      "seq_loc": "hg19:chr21:19549698-19592958:+",
+      "description": "manifest-seq333"
+    },
+    {
+      "sample_id": "TAGCC_hg38-chr2-27131",
+      "seq_id": "fragment334",
+      "seq_loc": "hg38:chr2:58273821-58300951:+",
+      "description": "manifest-seq334"
+    },
+    {
+      "sample_id": "CACCC_hg19-chrX-41605",
+      "seq_id": "fragment335",
+      "seq_loc": "hg19:chrX:87766322-87807926:+",
+      "description": "manifest-seq335"
+    },
+    {
+      "sample_id": "ACGTG_hg19-chr4-6506",
+      "seq_id": "fragment336",
+      "seq_loc": "hg19:chr4:95440382-95446887:+",
+      "description": "manifest-seq336"
+    },
+    {
+      "sample_id": "GCCTG_hg19-chr4-11799",
+      "seq_id": "fragment337",
+      "seq_loc": "hg19:chr4:77940286-77952084:-",
+      "description": "manifest-seq337"
+    },
+    {
+      "sample_id": "AGCAC_hg19-chr9-17331",
+      "seq_id": "fragment338",
+      "seq_loc": "hg19:chr9:39122051-39139381:-",
+      "description": "manifest-seq338"
+    },
+    {
+      "sample_id": "GATTC_hg38-chr4-15157",
+      "seq_id": "fragment339",
+      "seq_loc": "hg38:chr4:52716056-52731212:-",
+      "description": "manifest-seq339"
+    },
+    {
+      "sample_id": "TAATA_hg38-chr8-38492",
+      "seq_id": "fragment340",
+      "seq_loc": "hg38:chr8:67618135-67656626:+",
+      "description": "manifest-seq340"
+    },
+    {
+      "sample_id": "TCGTG_hg19-chr9-49323",
+      "seq_id": "fragment341",
+      "seq_loc": "hg19:chr9:123312539-123361861:+",
+      "description": "manifest-seq341"
+    },
+    {
+      "sample_id": "GTAGA_hg19-chr4-32547",
+      "seq_id": "fragment342",
+      "seq_loc": "hg19:chr4:7122693-7155239:-",
+      "description": "manifest-seq342"
+    },
+    {
+      "sample_id": "ACCAG_hg38-chrY-4577",
+      "seq_id": "fragment343",
+      "seq_loc": "hg38:chrY:8886810-8891386:+",
+      "description": "manifest-seq343"
+    },
+    {
+      "sample_id": "GGCCG_hg19-chr11-33292",
+      "seq_id": "fragment344",
+      "seq_loc": "hg19:chr11:4805437-4838728:+",
+      "description": "manifest-seq344"
+    },
+    {
+      "sample_id": "TTCAC_hg38-chr5-33826",
+      "seq_id": "fragment345",
+      "seq_loc": "hg38:chr5:77495905-77529730:-",
+      "description": "manifest-seq345"
+    },
+    {
+      "sample_id": "ATCCC_hg38-chr10-23062",
+      "seq_id": "fragment346",
+      "seq_loc": "hg38:chr10:55589877-55612938:+",
+      "description": "manifest-seq346"
+    },
+    {
+      "sample_id": "TTATC_hg19-chr6-7591",
+      "seq_id": "fragment347",
+      "seq_loc": "hg19:chr6:119897436-119905026:+",
+      "description": "manifest-seq347"
+    },
+    {
+      "sample_id": "GGAAT_hg38-chr13-42011",
+      "seq_id": "fragment348",
+      "seq_loc": "hg38:chr13:94175289-94217299:+",
+      "description": "manifest-seq348"
+    },
+    {
+      "sample_id": "CGGTG_hg19-chr21-14489",
+      "seq_id": "fragment349",
+      "seq_loc": "hg19:chr21:21783796-21798284:+",
+      "description": "manifest-seq349"
+    },
+    {
+      "sample_id": "TGGCT_hg19-chr20-16275",
+      "seq_id": "fragment350",
+      "seq_loc": "hg19:chr20:28357510-28373784:-",
+      "description": "manifest-seq350"
+    },
+    {
+      "sample_id": "GCGGC_hg19-chr17-16492",
+      "seq_id": "fragment351",
+      "seq_loc": "hg19:chr17:38840206-38856697:-",
+      "description": "manifest-seq351"
+    },
+    {
+      "sample_id": "ACTGG_hg19-chr17-37101",
+      "seq_id": "fragment352",
+      "seq_loc": "hg19:chr17:26096435-26133535:+",
+      "description": "manifest-seq352"
+    },
+    {
+      "sample_id": "TATTC_hg38-chr14-42895",
+      "seq_id": "fragment353",
+      "seq_loc": "hg38:chr14:40903230-40946124:-",
+      "description": "manifest-seq353"
+    },
+    {
+      "sample_id": "ATTCA_hg19-chr21-45080",
+      "seq_id": "fragment354",
+      "seq_loc": "hg19:chr21:19366136-19411215:+",
+      "description": "manifest-seq354"
+    },
+    {
+      "sample_id": "TTTCT_hg19-chr17-48592",
+      "seq_id": "fragment355",
+      "seq_loc": "hg19:chr17:12192440-12241031:-",
+      "description": "manifest-seq355"
+    },
+    {
+      "sample_id": "CCCAC_hg38-chr13-44427",
+      "seq_id": "fragment356",
+      "seq_loc": "hg38:chr13:5459791-5504217:-",
+      "description": "manifest-seq356"
+    },
+    {
+      "sample_id": "AGAAG_hg38-chr13-40422",
+      "seq_id": "fragment357",
+      "seq_loc": "hg38:chr13:100565164-100605585:+",
+      "description": "manifest-seq357"
+    },
+    {
+      "sample_id": "CGCCA_hg19-chr8-19152",
+      "seq_id": "fragment358",
+      "seq_loc": "hg19:chr8:144787848-144806999:-",
+      "description": "manifest-seq358"
+    },
+    {
+      "sample_id": "CAGGG_hg19-chr20-4700",
+      "seq_id": "fragment359",
+      "seq_loc": "hg19:chr20:33457146-33461845:+",
+      "description": "manifest-seq359"
+    },
+    {
+      "sample_id": "ATTAG_hg38-chr4-25427",
+      "seq_id": "fragment360",
+      "seq_loc": "hg38:chr4:145471542-145496968:-",
+      "description": "manifest-seq360"
+    },
+    {
+      "sample_id": "TGTTC_hg38-chr13-9570",
+      "seq_id": "fragment361",
+      "seq_loc": "hg38:chr13:55916425-55925994:-",
+      "description": "manifest-seq361"
+    },
+    {
+      "sample_id": "TCTGC_hg38-chr11-36408",
+      "seq_id": "fragment362",
+      "seq_loc": "hg38:chr11:112314322-112350729:-",
+      "description": "manifest-seq362"
+    },
+    {
+      "sample_id": "CAAAA_hg38-chr6-48830",
+      "seq_id": "fragment363",
+      "seq_loc": "hg38:chr6:145382865-145431694:-",
+      "description": "manifest-seq363"
+    },
+    {
+      "sample_id": "ATAAC_hg38-chr10-3337",
+      "seq_id": "fragment364",
+      "seq_loc": "hg38:chr10:38166728-38170064:+",
+      "description": "manifest-seq364"
+    },
+    {
+      "sample_id": "CACCA_hg19-chr8-41594",
+      "seq_id": "fragment365",
+      "seq_loc": "hg19:chr8:118605243-118646836:+",
+      "description": "manifest-seq365"
+    },
+    {
+      "sample_id": "ACGTT_hg38-chr19-16169",
+      "seq_id": "fragment366",
+      "seq_loc": "hg38:chr19:57103975-57120143:-",
+      "description": "manifest-seq366"
+    },
+    {
+      "sample_id": "ACTCC_hg38-chr17-5473",
+      "seq_id": "fragment367",
+      "seq_loc": "hg38:chr17:51116594-51122066:+",
+      "description": "manifest-seq367"
+    },
+    {
+      "sample_id": "AACGT_hg19-chr11-15174",
+      "seq_id": "fragment368",
+      "seq_loc": "hg19:chr11:83964834-83980007:+",
+      "description": "manifest-seq368"
+    },
+    {
+      "sample_id": "GATTG_hg38-chr17-2795",
+      "seq_id": "fragment369",
+      "seq_loc": "hg38:chr17:4801072-4803866:+",
+      "description": "manifest-seq369"
+    },
+    {
+      "sample_id": "CGAAT_hg19-chr10-42727",
+      "seq_id": "fragment370",
+      "seq_loc": "hg19:chr10:6704634-6747360:-",
+      "description": "manifest-seq370"
+    },
+    {
+      "sample_id": "TTCGA_hg19-chr17-18383",
+      "seq_id": "fragment371",
+      "seq_loc": "hg19:chr17:3565623-3584005:+",
+      "description": "manifest-seq371"
+    },
+    {
+      "sample_id": "GTGCG_hg38-chr6-35112",
+      "seq_id": "fragment372",
+      "seq_loc": "hg38:chr6:120257517-120292628:+",
+      "description": "manifest-seq372"
+    },
+    {
+      "sample_id": "GGTTA_hg38-chr21-15191",
+      "seq_id": "fragment373",
+      "seq_loc": "hg38:chr21:24165961-24181151:+",
+      "description": "manifest-seq373"
+    },
+    {
+      "sample_id": "ACCGG_hg19-chr6-35274",
+      "seq_id": "fragment374",
+      "seq_loc": "hg19:chr6:57308056-57343329:-",
+      "description": "manifest-seq374"
+    },
+    {
+      "sample_id": "CCAGG_hg38-chrX-22535",
+      "seq_id": "fragment375",
+      "seq_loc": "hg38:chrX:18941579-18964113:+",
+      "description": "manifest-seq375"
+    },
+    {
+      "sample_id": "GTCCG_hg38-chr19-11803",
+      "seq_id": "fragment376",
+      "seq_loc": "hg38:chr19:54985852-54997654:+",
+      "description": "manifest-seq376"
+    },
+    {
+      "sample_id": "AAATG_hg38-chr2-15261",
+      "seq_id": "fragment377",
+      "seq_loc": "hg38:chr2:131069481-131084741:-",
+      "description": "manifest-seq377"
+    },
+    {
+      "sample_id": "GCCTA_hg38-chrX-5464",
+      "seq_id": "fragment378",
+      "seq_loc": "hg38:chrX:40076518-40081981:-",
+      "description": "manifest-seq378"
+    },
+    {
+      "sample_id": "CTTTT_hg19-chr19-31990",
+      "seq_id": "fragment379",
+      "seq_loc": "hg19:chr19:17397855-17429844:+",
+      "description": "manifest-seq379"
+    },
+    {
+      "sample_id": "AGTCT_hg38-chr20-43490",
+      "seq_id": "fragment380",
+      "seq_loc": "hg38:chr20:60384571-60428060:-",
+      "description": "manifest-seq380"
+    },
+    {
+      "sample_id": "ACCTT_hg19-chr17-45650",
+      "seq_id": "fragment381",
+      "seq_loc": "hg19:chr17:61414262-61459911:+",
+      "description": "manifest-seq381"
+    },
+    {
+      "sample_id": "GTAAG_hg19-chr20-37055",
+      "seq_id": "fragment382",
+      "seq_loc": "hg19:chr20:50879674-50916728:-",
+      "description": "manifest-seq382"
+    },
+    {
+      "sample_id": "TACTA_hg19-chr11-32337",
+      "seq_id": "fragment383",
+      "seq_loc": "hg19:chr11:115362889-115395225:+",
+      "description": "manifest-seq383"
+    },
+    {
+      "sample_id": "GTTGT_hg38-chr19-9987",
+      "seq_id": "fragment384",
+      "seq_loc": "hg38:chr19:27445851-27455837:-",
+      "description": "manifest-seq384"
+    },
+    {
+      "sample_id": "AGTGT_hg38-chr20-39790",
+      "seq_id": "fragment385",
+      "seq_loc": "hg38:chr20:13290857-13330646:+",
+      "description": "manifest-seq385"
+    },
+    {
+      "sample_id": "AAACC_hg19-chr14-49298",
+      "seq_id": "fragment386",
+      "seq_loc": "hg19:chr14:52636243-52685540:+",
+      "description": "manifest-seq386"
+    },
+    {
+      "sample_id": "ATGCG_hg19-chr15-41173",
+      "seq_id": "fragment387",
+      "seq_loc": "hg19:chr15:24325822-24366994:-",
+      "description": "manifest-seq387"
+    },
+    {
+      "sample_id": "TAATG_hg38-chrY-21339",
+      "seq_id": "fragment388",
+      "seq_loc": "hg38:chrY:13749062-13770400:-",
+      "description": "manifest-seq388"
+    },
+    {
+      "sample_id": "AACAA_hg38-chrX-49279",
+      "seq_id": "fragment389",
+      "seq_loc": "hg38:chrX:49662760-49712038:+",
+      "description": "manifest-seq389"
+    },
+    {
+      "sample_id": "GAATG_hg19-chr15-32668",
+      "seq_id": "fragment390",
+      "seq_loc": "hg19:chr15:86092599-86125266:-",
+      "description": "manifest-seq390"
+    },
+    {
+      "sample_id": "CTGGG_hg38-chr18-29180",
+      "seq_id": "fragment391",
+      "seq_loc": "hg38:chr18:61553438-61582617:+",
+      "description": "manifest-seq391"
+    },
+    {
+      "sample_id": "TGAAC_hg19-chr11-22742",
+      "seq_id": "fragment392",
+      "seq_loc": "hg19:chr11:54724865-54747606:-",
+      "description": "manifest-seq392"
+    },
+    {
+      "sample_id": "TTCCT_hg19-chr13-21823",
+      "seq_id": "fragment393",
+      "seq_loc": "hg19:chr13:97686639-97708461:-",
+      "description": "manifest-seq393"
+    },
+    {
+      "sample_id": "ATGAG_hg19-chr9-43570",
+      "seq_id": "fragment394",
+      "seq_loc": "hg19:chr9:40749048-40792617:-",
+      "description": "manifest-seq394"
+    },
+    {
+      "sample_id": "CTACG_hg38-chr18-17923",
+      "seq_id": "fragment395",
+      "seq_loc": "hg38:chr18:1837713-1855635:-",
+      "description": "manifest-seq395"
+    },
+    {
+      "sample_id": "CACCG_hg38-chr1-27949",
+      "seq_id": "fragment396",
+      "seq_loc": "hg38:chr1:106599074-106627022:-",
+      "description": "manifest-seq396"
+    },
+    {
+      "sample_id": "GATGT_hg38-chr20-25916",
+      "seq_id": "fragment397",
+      "seq_loc": "hg38:chr20:50147531-50173446:+",
+      "description": "manifest-seq397"
+    },
+    {
+      "sample_id": "ACTAG_hg19-chr9-40186",
+      "seq_id": "fragment398",
+      "seq_loc": "hg19:chr9:12702599-12742784:-",
+      "description": "manifest-seq398"
+    },
+    {
+      "sample_id": "TAAAA_hg38-chr1-22443",
+      "seq_id": "fragment399",
+      "seq_loc": "hg38:chr1:147493897-147516339:-",
+      "description": "manifest-seq399"
+    },
+    {
+      "sample_id": "TACCG_hg19-chr8-27036",
+      "seq_id": "fragment400",
+      "seq_loc": "hg19:chr8:40814946-40841981:-",
+      "description": "manifest-seq400"
+    },
+    {
+      "sample_id": "TAACG_hg38-chr22-31460",
+      "seq_id": "fragment401",
+      "seq_loc": "hg38:chr22:40654027-40685486:+",
+      "description": "manifest-seq401"
+    },
+    {
+      "sample_id": "CGTTA_hg19-chr17-47814",
+      "seq_id": "fragment402",
+      "seq_loc": "hg19:chr17:47379756-47427569:-",
+      "description": "manifest-seq402"
+    },
+    {
+      "sample_id": "CCGTT_hg38-chr18-10742",
+      "seq_id": "fragment403",
+      "seq_loc": "hg38:chr18:29003138-29013879:-",
+      "description": "manifest-seq403"
+    },
+    {
+      "sample_id": "AGAAA_hg38-chr12-30357",
+      "seq_id": "fragment404",
+      "seq_loc": "hg38:chr12:31115125-31145481:-",
+      "description": "manifest-seq404"
+    },
+    {
+      "sample_id": "CTTCT_hg38-chr2-21902",
+      "seq_id": "fragment405",
+      "seq_loc": "hg38:chr2:61466958-61488859:+",
+      "description": "manifest-seq405"
+    },
+    {
+      "sample_id": "TTTAC_hg19-chr3-37005",
+      "seq_id": "fragment406",
+      "seq_loc": "hg19:chr3:172557802-172594806:-",
+      "description": "manifest-seq406"
+    },
+    {
+      "sample_id": "CCACG_hg38-chrY-16651",
+      "seq_id": "fragment407",
+      "seq_loc": "hg38:chrY:30373151-30389801:-",
+      "description": "manifest-seq407"
+    },
+    {
+      "sample_id": "CCAAA_hg38-chr12-42792",
+      "seq_id": "fragment408",
+      "seq_loc": "hg38:chr12:24477384-24520175:-",
+      "description": "manifest-seq408"
+    },
+    {
+      "sample_id": "TGCGG_hg19-chr6-28508",
+      "seq_id": "fragment409",
+      "seq_loc": "hg19:chr6:68104029-68132536:-",
+      "description": "manifest-seq409"
+    },
+    {
+      "sample_id": "GGGCG_hg38-chr17-31531",
+      "seq_id": "fragment410",
+      "seq_loc": "hg38:chr17:70801003-70832533:-",
+      "description": "manifest-seq410"
+    },
+    {
+      "sample_id": "AGTCG_hg19-chr6-1593",
+      "seq_id": "fragment411",
+      "seq_loc": "hg19:chr6:14453032-14454624:+",
+      "description": "manifest-seq411"
+    },
+    {
+      "sample_id": "TACTC_hg19-chrX-42451",
+      "seq_id": "fragment412",
+      "seq_loc": "hg19:chrX:148998725-149041175:+",
+      "description": "manifest-seq412"
+    },
+    {
+      "sample_id": "ACGTA_hg19-chr10-41345",
+      "seq_id": "fragment413",
+      "seq_loc": "hg19:chr10:128356236-128397580:-",
+      "description": "manifest-seq413"
+    },
+    {
+      "sample_id": "GAATC_hg38-chr8-5286",
+      "seq_id": "fragment414",
+      "seq_loc": "hg38:chr8:25414876-25420161:-",
+      "description": "manifest-seq414"
+    },
+    {
+      "sample_id": "TTTAG_hg38-chr21-30655",
+      "seq_id": "fragment415",
+      "seq_loc": "hg38:chr21:20371176-20401830:-",
+      "description": "manifest-seq415"
+    },
+    {
+      "sample_id": "CTCGA_hg19-chr10-39615",
+      "seq_id": "fragment416",
+      "seq_loc": "hg19:chr10:22759557-22799171:-",
+      "description": "manifest-seq416"
+    },
+    {
+      "sample_id": "CTGAT_hg19-chr22-46252",
+      "seq_id": "fragment417",
+      "seq_loc": "hg19:chr22:23690838-23737089:+",
+      "description": "manifest-seq417"
+    },
+    {
+      "sample_id": "GTGGA_hg19-chr15-14259",
+      "seq_id": "fragment418",
+      "seq_loc": "hg19:chr15:94765052-94779310:-",
+      "description": "manifest-seq418"
+    },
+    {
+      "sample_id": "TCAGT_hg38-chr1-42871",
+      "seq_id": "fragment419",
+      "seq_loc": "hg38:chr1:145891509-145934379:+",
+      "description": "manifest-seq419"
+    },
+    {
+      "sample_id": "ATCAT_hg19-chr21-2771",
+      "seq_id": "fragment420",
+      "seq_loc": "hg19:chr21:4107949-4110719:+",
+      "description": "manifest-seq420"
+    },
+    {
+      "sample_id": "TCTGG_hg38-chr22-45045",
+      "seq_id": "fragment421",
+      "seq_loc": "hg38:chr22:9944155-9989199:+",
+      "description": "manifest-seq421"
+    },
+    {
+      "sample_id": "TCCCA_hg19-chr16-17188",
+      "seq_id": "fragment422",
+      "seq_loc": "hg19:chr16:74847640-74864827:+",
+      "description": "manifest-seq422"
+    },
+    {
+      "sample_id": "CAGTA_hg38-chr4-31229",
+      "seq_id": "fragment423",
+      "seq_loc": "hg38:chr4:41947094-41978322:+",
+      "description": "manifest-seq423"
+    },
+    {
+      "sample_id": "GGTAA_hg38-chr6-30867",
+      "seq_id": "fragment424",
+      "seq_loc": "hg38:chr6:131602052-131632918:+",
+      "description": "manifest-seq424"
+    },
+    {
+      "sample_id": "CAGAG_hg38-chrY-28936",
+      "seq_id": "fragment425",
+      "seq_loc": "hg38:chrY:16557278-16586213:+",
+      "description": "manifest-seq425"
+    },
+    {
+      "sample_id": "ACTGC_hg38-chr2-22891",
+      "seq_id": "fragment426",
+      "seq_loc": "hg38:chr2:51319297-51342187:-",
+      "description": "manifest-seq426"
+    },
+    {
+      "sample_id": "TCAAT_hg19-chr21-37820",
+      "seq_id": "fragment427",
+      "seq_loc": "hg19:chr21:7082454-7120273:-",
+      "description": "manifest-seq427"
+    },
+    {
+      "sample_id": "ACAAA_hg38-chr15-20899",
+      "seq_id": "fragment428",
+      "seq_loc": "hg38:chr15:69760299-69781197:-",
+      "description": "manifest-seq428"
+    },
+    {
+      "sample_id": "TCCCC_hg19-chr8-11364",
+      "seq_id": "fragment429",
+      "seq_loc": "hg19:chr8:122472882-122484245:+",
+      "description": "manifest-seq429"
+    },
+    {
+      "sample_id": "GCCCA_hg38-chr20-15053",
+      "seq_id": "fragment430",
+      "seq_loc": "hg38:chr20:36067636-36082688:-",
+      "description": "manifest-seq430"
+    },
+    {
+      "sample_id": "AATCC_hg19-chr18-15059",
+      "seq_id": "fragment431",
+      "seq_loc": "hg19:chr18:40686978-40702036:-",
+      "description": "manifest-seq431"
+    },
+    {
+      "sample_id": "GCGGT_hg19-chr21-40528",
+      "seq_id": "fragment432",
+      "seq_loc": "hg19:chr21:22111980-22152507:+",
+      "description": "manifest-seq432"
+    },
+    {
+      "sample_id": "AGGGG_hg19-chr16-44322",
+      "seq_id": "fragment433",
+      "seq_loc": "hg19:chr16:86989206-87033527:-",
+      "description": "manifest-seq433"
+    },
+    {
+      "sample_id": "CTCAC_hg19-chr13-32791",
+      "seq_id": "fragment434",
+      "seq_loc": "hg19:chr13:22920724-22953514:-",
+      "description": "manifest-seq434"
+    },
+    {
+      "sample_id": "GTATC_hg19-chr14-11684",
+      "seq_id": "fragment435",
+      "seq_loc": "hg19:chr14:79590675-79602358:+",
+      "description": "manifest-seq435"
+    },
+    {
+      "sample_id": "TCCGG_hg19-chr21-28389",
+      "seq_id": "fragment436",
+      "seq_loc": "hg19:chr21:6598774-6627162:+",
+      "description": "manifest-seq436"
+    },
+    {
+      "sample_id": "ACCGT_hg38-chr13-39868",
+      "seq_id": "fragment437",
+      "seq_loc": "hg38:chr13:26367162-26407029:+",
+      "description": "manifest-seq437"
+    },
+    {
+      "sample_id": "GTTAA_hg38-chr16-22747",
+      "seq_id": "fragment438",
+      "seq_loc": "hg38:chr16:85423615-85446361:-",
+      "description": "manifest-seq438"
+    },
+    {
+      "sample_id": "TATAT_hg38-chr9-43083",
+      "seq_id": "fragment439",
+      "seq_loc": "hg38:chr9:5585000-5628082:+",
+      "description": "manifest-seq439"
+    },
+    {
+      "sample_id": "ATGGC_hg19-chr2-23735",
+      "seq_id": "fragment440",
+      "seq_loc": "hg19:chr2:101862930-101886664:+",
+      "description": "manifest-seq440"
+    },
+    {
+      "sample_id": "ACCAT_hg19-chr8-14149",
+      "seq_id": "fragment441",
+      "seq_loc": "hg19:chr8:26346887-26361035:-",
+      "description": "manifest-seq441"
+    },
+    {
+      "sample_id": "CCAGA_hg38-chr16-48247",
+      "seq_id": "fragment442",
+      "seq_loc": "hg38:chr16:43904076-43952322:+",
+      "description": "manifest-seq442"
+    },
+    {
+      "sample_id": "AATAG_hg19-chr19-40721",
+      "seq_id": "fragment443",
+      "seq_loc": "hg19:chr19:38771259-38811979:-",
+      "description": "manifest-seq443"
+    },
+    {
+      "sample_id": "TGGTT_hg38-chr16-17557",
+      "seq_id": "fragment444",
+      "seq_loc": "hg38:chr16:42771610-42789166:-",
+      "description": "manifest-seq444"
+    },
+    {
+      "sample_id": "TGATT_hg38-chr6-43816",
+      "seq_id": "fragment445",
+      "seq_loc": "hg38:chr6:1008117-1051932:-",
+      "description": "manifest-seq445"
+    },
+    {
+      "sample_id": "TACGG_hg19-chrY-49246",
+      "seq_id": "fragment446",
+      "seq_loc": "hg19:chrY:31444349-31493594:+",
+      "description": "manifest-seq446"
+    },
+    {
+      "sample_id": "CCAGT_hg19-chr8-24568",
+      "seq_id": "fragment447",
+      "seq_loc": "hg19:chr8:96776154-96800721:-",
+      "description": "manifest-seq447"
+    },
+    {
+      "sample_id": "GATCT_hg19-chr7-23487",
+      "seq_id": "fragment448",
+      "seq_loc": "hg19:chr7:49518357-49541843:-",
+      "description": "manifest-seq448"
+    },
+    {
+      "sample_id": "GTTCA_hg38-chr6-23261",
+      "seq_id": "fragment449",
+      "seq_loc": "hg38:chr6:20587331-20610591:-",
+      "description": "manifest-seq449"
+    },
+    {
+      "sample_id": "CGGAG_hg19-chr4-3493",
+      "seq_id": "fragment450",
+      "seq_loc": "hg19:chr4:185007667-185011159:-",
+      "description": "manifest-seq450"
+    },
+    {
+      "sample_id": "GGCTT_hg38-chr16-21678",
+      "seq_id": "fragment451",
+      "seq_loc": "hg38:chr16:9091838-9113515:-",
+      "description": "manifest-seq451"
+    },
+    {
+      "sample_id": "GATAG_hg38-chr15-31758",
+      "seq_id": "fragment452",
+      "seq_loc": "hg38:chr15:24284229-24315986:+",
+      "description": "manifest-seq452"
+    },
+    {
+      "sample_id": "TAGGC_hg38-chr16-49714",
+      "seq_id": "fragment453",
+      "seq_loc": "hg38:chr16:53086800-53136513:-",
+      "description": "manifest-seq453"
+    },
+    {
+      "sample_id": "TCTTG_hg38-chr19-29921",
+      "seq_id": "fragment454",
+      "seq_loc": "hg38:chr19:42584652-42614572:-",
+      "description": "manifest-seq454"
+    },
+    {
+      "sample_id": "ATTTC_hg19-chr11-21974",
+      "seq_id": "fragment455",
+      "seq_loc": "hg19:chr11:22240884-22262857:+",
+      "description": "manifest-seq455"
+    },
+    {
+      "sample_id": "CGTTT_hg38-chr3-29121",
+      "seq_id": "fragment456",
+      "seq_loc": "hg38:chr3:76032459-76061579:+",
+      "description": "manifest-seq456"
+    },
+    {
+      "sample_id": "TGTAC_hg38-chr11-27593",
+      "seq_id": "fragment457",
+      "seq_loc": "hg38:chr11:67349455-67377047:-",
+      "description": "manifest-seq457"
+    },
+    {
+      "sample_id": "TCCCG_hg19-chr16-38799",
+      "seq_id": "fragment458",
+      "seq_loc": "hg19:chr16:55591446-55630244:-",
+      "description": "manifest-seq458"
+    },
+    {
+      "sample_id": "TCATT_hg38-chr13-11979",
+      "seq_id": "fragment459",
+      "seq_loc": "hg38:chr13:88300254-88312232:+",
+      "description": "manifest-seq459"
+    },
+    {
+      "sample_id": "TAAAC_hg19-chr10-31569",
+      "seq_id": "fragment460",
+      "seq_loc": "hg19:chr10:11253334-11284902:-",
+      "description": "manifest-seq460"
+    },
+    {
+      "sample_id": "GAAGT_hg38-chr7-8221",
+      "seq_id": "fragment461",
+      "seq_loc": "hg38:chr7:150969791-150978011:-",
+      "description": "manifest-seq461"
+    },
+    {
+      "sample_id": "GACGG_hg19-chr14-41726",
+      "seq_id": "fragment462",
+      "seq_loc": "hg19:chr14:107087340-107129065:+",
+      "description": "manifest-seq462"
+    },
+    {
+      "sample_id": "AGCGC_hg19-chr10-21857",
+      "seq_id": "fragment463",
+      "seq_loc": "hg19:chr10:70138962-70160818:-",
+      "description": "manifest-seq463"
+    },
+    {
+      "sample_id": "CACGT_hg19-chr14-7148",
+      "seq_id": "fragment464",
+      "seq_loc": "hg19:chr14:67895066-67902213:+",
+      "description": "manifest-seq464"
+    },
+    {
+      "sample_id": "CTCGC_hg38-chr15-2563",
+      "seq_id": "fragment465",
+      "seq_loc": "hg38:chr15:67696648-67699210:+",
+      "description": "manifest-seq465"
+    },
+    {
+      "sample_id": "GTGCA_hg38-chrX-16126",
+      "seq_id": "fragment466",
+      "seq_loc": "hg38:chrX:145743998-145760123:-",
+      "description": "manifest-seq466"
+    },
+    {
+      "sample_id": "CTCAT_hg19-chr7-1637",
+      "seq_id": "fragment467",
+      "seq_loc": "hg19:chr7:139607864-139609500:-",
+      "description": "manifest-seq467"
+    },
+    {
+      "sample_id": "TCCAA_hg38-chr12-20552",
+      "seq_id": "fragment468",
+      "seq_loc": "hg38:chr12:58604940-58625491:-",
+      "description": "manifest-seq468"
+    },
+    {
+      "sample_id": "ATAAT_hg19-chr4-31516",
+      "seq_id": "fragment469",
+      "seq_loc": "hg19:chr4:102662426-102693941:-",
+      "description": "manifest-seq469"
+    },
+    {
+      "sample_id": "GGGAT_hg38-chr13-2765",
+      "seq_id": "fragment470",
+      "seq_loc": "hg38:chr13:112123043-112125807:+",
+      "description": "manifest-seq470"
+    },
+    {
+      "sample_id": "GATTT_hg38-chr22-4151",
+      "seq_id": "fragment471",
+      "seq_loc": "hg38:chr22:19397445-19401595:+",
+      "description": "manifest-seq471"
+    },
+    {
+      "sample_id": "TAAGG_hg38-chr9-21258",
+      "seq_id": "fragment472",
+      "seq_loc": "hg38:chr9:46329539-46350796:+",
+      "description": "manifest-seq472"
+    },
+    {
+      "sample_id": "AACCA_hg38-chr9-44336",
+      "seq_id": "fragment473",
+      "seq_loc": "hg38:chr9:49028787-49073122:+",
+      "description": "manifest-seq473"
+    },
+    {
+      "sample_id": "CGATC_hg38-chr3-49363",
+      "seq_id": "fragment474",
+      "seq_loc": "hg38:chr3:18931486-18980848:-",
+      "description": "manifest-seq474"
+    },
+    {
+      "sample_id": "GCGTA_hg38-chr8-18207",
+      "seq_id": "fragment475",
+      "seq_loc": "hg38:chr8:72883633-72901839:-",
+      "description": "manifest-seq475"
+    },
+    {
+      "sample_id": "GAACC_hg38-chr6-30708",
+      "seq_id": "fragment476",
+      "seq_loc": "hg38:chr6:131225095-131255802:-",
+      "description": "manifest-seq476"
+    },
+    {
+      "sample_id": "GCTAT_hg19-chr11-17865",
+      "seq_id": "fragment477",
+      "seq_loc": "hg19:chr11:91281835-91299699:-",
+      "description": "manifest-seq477"
+    },
+    {
+      "sample_id": "ACACG_hg38-chr2-46767",
+      "seq_id": "fragment478",
+      "seq_loc": "hg38:chr2:9937808-9984574:-",
+      "description": "manifest-seq478"
+    },
+    {
+      "sample_id": "CGAAC_hg19-chr14-47525",
+      "seq_id": "fragment479",
+      "seq_loc": "hg19:chr14:92598137-92645661:-",
+      "description": "manifest-seq479"
+    },
+    {
+      "sample_id": "TAATT_hg38-chr13-27254",
+      "seq_id": "fragment480",
+      "seq_loc": "hg38:chr13:9330126-9357379:-",
+      "description": "manifest-seq480"
+    },
+    {
+      "sample_id": "TATGG_hg19-chr9-19992",
+      "seq_id": "fragment481",
+      "seq_loc": "hg19:chr9:71637421-71657412:-",
+      "description": "manifest-seq481"
+    },
+    {
+      "sample_id": "ACGAG_hg19-chr4-15612",
+      "seq_id": "fragment482",
+      "seq_loc": "hg19:chr4:39461075-39476686:+",
+      "description": "manifest-seq482"
+    },
+    {
+      "sample_id": "TCCAT_hg38-chr18-33190",
+      "seq_id": "fragment483",
+      "seq_loc": "hg38:chr18:36178047-36211236:+",
+      "description": "manifest-seq483"
+    },
+    {
+      "sample_id": "CGCGG_hg19-chr7-24309",
+      "seq_id": "fragment484",
+      "seq_loc": "hg19:chr7:123247206-123271514:-",
+      "description": "manifest-seq484"
+    },
+    {
+      "sample_id": "GGCAG_hg19-chr17-45563",
+      "seq_id": "fragment485",
+      "seq_loc": "hg19:chr17:55108235-55153797:-",
+      "description": "manifest-seq485"
+    },
+    {
+      "sample_id": "GAAAA_hg38-chr1-37344",
+      "seq_id": "fragment486",
+      "seq_loc": "hg38:chr1:44990922-45028265:+",
+      "description": "manifest-seq486"
+    },
+    {
+      "sample_id": "CGCGA_hg19-chr22-9532",
+      "seq_id": "fragment487",
+      "seq_loc": "hg19:chr22:47040628-47050159:-",
+      "description": "manifest-seq487"
+    },
+    {
+      "sample_id": "GTACG_hg19-chr1-44501",
+      "seq_id": "fragment488",
+      "seq_loc": "hg19:chr1:246379509-246424009:+",
+      "description": "manifest-seq488"
+    },
+    {
+      "sample_id": "GACAC_hg19-chr3-27923",
+      "seq_id": "fragment489",
+      "seq_loc": "hg19:chr3:157482857-157510779:+",
+      "description": "manifest-seq489"
+    },
+    {
+      "sample_id": "CAGAC_hg19-chr20-6087",
+      "seq_id": "fragment490",
+      "seq_loc": "hg19:chr20:36456856-36462942:-",
+      "description": "manifest-seq490"
+    },
+    {
+      "sample_id": "ATTTT_hg38-chr22-49742",
+      "seq_id": "fragment491",
+      "seq_loc": "hg38:chr22:10512344-10562085:+",
+      "description": "manifest-seq491"
+    },
+    {
+      "sample_id": "GCCGG_hg19-chr15-43108",
+      "seq_id": "fragment492",
+      "seq_loc": "hg19:chr15:28387686-28430793:+",
+      "description": "manifest-seq492"
+    },
+    {
+      "sample_id": "TACCA_hg19-chr13-26345",
+      "seq_id": "fragment493",
+      "seq_loc": "hg19:chr13:8247456-8273800:+",
+      "description": "manifest-seq493"
+    },
+    {
+      "sample_id": "CGTCT_hg19-chr21-43128",
+      "seq_id": "fragment494",
+      "seq_loc": "hg19:chr21:7107927-7151054:+",
+      "description": "manifest-seq494"
+    },
+    {
+      "sample_id": "AGGTC_hg38-chr14-18517",
+      "seq_id": "fragment495",
+      "seq_loc": "hg38:chr14:67516328-67534844:-",
+      "description": "manifest-seq495"
+    },
+    {
+      "sample_id": "AATGT_hg19-chr15-19848",
+      "seq_id": "fragment496",
+      "seq_loc": "hg19:chr15:83714917-83734764:+",
+      "description": "manifest-seq496"
+    },
+    {
+      "sample_id": "CGTGA_hg19-chr12-26885",
+      "seq_id": "fragment497",
+      "seq_loc": "hg19:chr12:43077504-43104388:-",
+      "description": "manifest-seq497"
+    },
+    {
+      "sample_id": "CATGC_hg19-chr13-25232",
+      "seq_id": "fragment498",
+      "seq_loc": "hg19:chr13:61755855-61781086:-",
+      "description": "manifest-seq498"
+    },
+    {
+      "sample_id": "GTCGT_hg19-chr3-7837",
+      "seq_id": "fragment499",
+      "seq_loc": "hg19:chr3:138045389-138053225:-",
+      "description": "manifest-seq499"
+    },
+    {
+      "sample_id": "GCATT_hg19-chrY-13185",
+      "seq_id": "fragment500",
+      "seq_loc": "hg19:chrY:32426934-32440118:-",
+      "description": "manifest-seq500"
+    },
+    {
+      "sample_id": "ATGGG_hg38-chr3-39844",
+      "seq_id": "fragment501",
+      "seq_loc": "hg38:chr3:164979327-165019170:-",
+      "description": "manifest-seq501"
+    },
+    {
+      "sample_id": "AAATT_hg19-chrY-30815",
+      "seq_id": "fragment502",
+      "seq_loc": "hg19:chrY:42164530-42195344:-",
+      "description": "manifest-seq502"
+    },
+    {
+      "sample_id": "TCGTA_hg19-chr22-28988",
+      "seq_id": "fragment503",
+      "seq_loc": "hg19:chr22:18541718-18570705:-",
+      "description": "manifest-seq503"
+    },
+    {
+      "sample_id": "CTAGG_hg38-chr11-2698",
+      "seq_id": "fragment504",
+      "seq_loc": "hg38:chr11:38245893-38248590:+",
+      "description": "manifest-seq504"
+    },
+    {
+      "sample_id": "CAAGT_hg38-chr9-37095",
+      "seq_id": "fragment505",
+      "seq_loc": "hg38:chr9:75170520-75207614:+",
+      "description": "manifest-seq505"
+    },
+    {
+      "sample_id": "TGTGC_hg38-chr21-4425",
+      "seq_id": "fragment506",
+      "seq_loc": "hg38:chr21:32085596-32090020:+",
+      "description": "manifest-seq506"
+    },
+    {
+      "sample_id": "CGTGG_hg19-chr6-18955",
+      "seq_id": "fragment507",
+      "seq_loc": "hg19:chr6:142185389-142204343:+",
+      "description": "manifest-seq507"
+    },
+    {
+      "sample_id": "ATCTG_hg19-chr7-17704",
+      "seq_id": "fragment508",
+      "seq_loc": "hg19:chr7:123835376-123853079:-",
+      "description": "manifest-seq508"
+    },
+    {
+      "sample_id": "GGCGC_hg19-chr20-17503",
+      "seq_id": "fragment509",
+      "seq_loc": "hg19:chr20:52145434-52162936:+",
+      "description": "manifest-seq509"
+    },
+    {
+      "sample_id": "CATAA_hg19-chr22-49311",
+      "seq_id": "fragment510",
+      "seq_loc": "hg19:chr22:19572525-19621835:-",
+      "description": "manifest-seq510"
+    },
+    {
+      "sample_id": "TCGCT_hg19-chr11-17795",
+      "seq_id": "fragment511",
+      "seq_loc": "hg19:chr11:133885508-133903302:-",
+      "description": "manifest-seq511"
+    },
+    {
+      "sample_id": "ACGGA_hg19-chr17-38142",
+      "seq_id": "fragment512",
+      "seq_loc": "hg19:chr17:80324277-80362418:+",
+      "description": "manifest-seq512"
+    },
+    {
+      "sample_id": "CCAAC_hg38-chr20-6937",
+      "seq_id": "fragment513",
+      "seq_loc": "hg38:chr20:43432721-43439657:+",
+      "description": "manifest-seq513"
+    },
+    {
+      "sample_id": "AGCTG_hg19-chrX-14758",
+      "seq_id": "fragment514",
+      "seq_loc": "hg19:chrX:80855364-80870121:+",
+      "description": "manifest-seq514"
+    },
+    {
+      "sample_id": "GAGTT_hg38-chr13-36146",
+      "seq_id": "fragment515",
+      "seq_loc": "hg38:chr13:7793671-7829816:+",
+      "description": "manifest-seq515"
+    },
+    {
+      "sample_id": "TGATG_hg38-chr18-39989",
+      "seq_id": "fragment516",
+      "seq_loc": "hg38:chr18:44242802-44282790:+",
+      "description": "manifest-seq516"
+    },
+    {
+      "sample_id": "ATGCT_hg38-chr15-23728",
+      "seq_id": "fragment517",
+      "seq_loc": "hg38:chr15:73435431-73459158:-",
+      "description": "manifest-seq517"
+    },
+    {
+      "sample_id": "CAGTT_hg19-chr11-7959",
+      "seq_id": "fragment518",
+      "seq_loc": "hg19:chr11:65733983-65741941:-",
+      "description": "manifest-seq518"
+    },
+    {
+      "sample_id": "GGTAT_hg19-chr5-12152",
+      "seq_id": "fragment519",
+      "seq_loc": "hg19:chr5:58523494-58535645:-",
+      "description": "manifest-seq519"
+    },
+    {
+      "sample_id": "GACGT_hg38-chrY-24626",
+      "seq_id": "fragment520",
+      "seq_loc": "hg38:chrY:9290998-9315623:+",
+      "description": "manifest-seq520"
+    },
+    {
+      "sample_id": "GAGAA_hg38-chr16-12935",
+      "seq_id": "fragment521",
+      "seq_loc": "hg38:chr16:21404423-21417357:+",
+      "description": "manifest-seq521"
+    },
+    {
+      "sample_id": "AGTGA_hg38-chr16-7939",
+      "seq_id": "fragment522",
+      "seq_loc": "hg38:chr16:55823752-55831690:+",
+      "description": "manifest-seq522"
+    },
+    {
+      "sample_id": "AAATA_hg38-chr5-20261",
+      "seq_id": "fragment523",
+      "seq_loc": "hg38:chr5:10796850-10817110:-",
+      "description": "manifest-seq523"
+    },
+    {
+      "sample_id": "AAATC_hg38-chr19-1566",
+      "seq_id": "fragment524",
+      "seq_loc": "hg38:chr19:53789255-53790820:-",
+      "description": "manifest-seq524"
+    },
+    {
+      "sample_id": "CGACC_hg19-chr9-39822",
+      "seq_id": "fragment525",
+      "seq_loc": "hg19:chr9:89174511-89214332:+",
+      "description": "manifest-seq525"
+    },
+    {
+      "sample_id": "TATAG_hg19-chr2-30461",
+      "seq_id": "fragment526",
+      "seq_loc": "hg19:chr2:241118126-241148586:+",
+      "description": "manifest-seq526"
+    },
+    {
+      "sample_id": "AGAAT_hg38-chr3-19216",
+      "seq_id": "fragment527",
+      "seq_loc": "hg38:chr3:163027230-163046445:+",
+      "description": "manifest-seq527"
+    },
+    {
+      "sample_id": "GCTTA_hg38-chr21-15138",
+      "seq_id": "fragment528",
+      "seq_loc": "hg38:chr21:3551795-3566932:+",
+      "description": "manifest-seq528"
+    },
+    {
+      "sample_id": "TACGT_hg38-chr12-33926",
+      "seq_id": "fragment529",
+      "seq_loc": "hg38:chr12:68445425-68479350:+",
+      "description": "manifest-seq529"
+    },
+    {
+      "sample_id": "TTGGA_hg38-chr4-9249",
+      "seq_id": "fragment530",
+      "seq_loc": "hg38:chr4:100119989-100129237:-",
+      "description": "manifest-seq530"
+    },
+    {
+      "sample_id": "AAGTC_hg38-chr11-47682",
+      "seq_id": "fragment531",
+      "seq_loc": "hg38:chr11:37878015-37925696:-",
+      "description": "manifest-seq531"
+    },
+    {
+      "sample_id": "ACTAA_hg38-chr17-42719",
+      "seq_id": "fragment532",
+      "seq_loc": "hg38:chr17:7401567-7444285:+",
+      "description": "manifest-seq532"
+    },
+    {
+      "sample_id": "GGGCT_hg19-chr4-33511",
+      "seq_id": "fragment533",
+      "seq_loc": "hg19:chr4:98595930-98629440:-",
+      "description": "manifest-seq533"
+    },
+    {
+      "sample_id": "AACCG_hg19-chr17-9171",
+      "seq_id": "fragment534",
+      "seq_loc": "hg19:chr17:70138782-70147952:+",
+      "description": "manifest-seq534"
+    },
+    {
+      "sample_id": "GAACA_hg19-chr18-43481",
+      "seq_id": "fragment535",
+      "seq_loc": "hg19:chr18:2008518-2051998:+",
+      "description": "manifest-seq535"
+    },
+    {
+      "sample_id": "CGCTA_hg19-chr19-28288",
+      "seq_id": "fragment536",
+      "seq_loc": "hg19:chr19:30334607-30362894:+",
+      "description": "manifest-seq536"
+    },
+    {
+      "sample_id": "GAGAC_hg19-chr4-48193",
+      "seq_id": "fragment537",
+      "seq_loc": "hg19:chr4:100934358-100982550:-",
+      "description": "manifest-seq537"
+    },
+    {
+      "sample_id": "CCGAC_hg38-chr11-41145",
+      "seq_id": "fragment538",
+      "seq_loc": "hg38:chr11:121466265-121507409:+",
+      "description": "manifest-seq538"
+    },
+    {
+      "sample_id": "TTGAT_hg38-chr21-17616",
+      "seq_id": "fragment539",
+      "seq_loc": "hg38:chr21:16884701-16902316:+",
+      "description": "manifest-seq539"
+    },
+    {
+      "sample_id": "ACGGC_hg19-chr3-49068",
+      "seq_id": "fragment540",
+      "seq_loc": "hg19:chr3:46065970-46115037:+",
+      "description": "manifest-seq540"
+    },
+    {
+      "sample_id": "GTTCT_hg38-chr16-19236",
+      "seq_id": "fragment541",
+      "seq_loc": "hg38:chr16:75304809-75324044:-",
+      "description": "manifest-seq541"
+    },
+    {
+      "sample_id": "GAGAT_hg19-chr8-23913",
+      "seq_id": "fragment542",
+      "seq_loc": "hg19:chr8:55583710-55607622:+",
+      "description": "manifest-seq542"
+    },
+    {
+      "sample_id": "TCTCA_hg38-chr16-20245",
+      "seq_id": "fragment543",
+      "seq_loc": "hg38:chr16:45638770-45659014:-",
+      "description": "manifest-seq543"
+    },
+    {
+      "sample_id": "ACCCA_hg38-chr8-20237",
+      "seq_id": "fragment544",
+      "seq_loc": "hg38:chr8:101273763-101293999:-",
+      "description": "manifest-seq544"
+    },
+    {
+      "sample_id": "GTGCC_hg38-chr18-15966",
+      "seq_id": "fragment545",
+      "seq_loc": "hg38:chr18:63585778-63601743:+",
+      "description": "manifest-seq545"
+    },
+    {
+      "sample_id": "ACAGC_hg38-chr3-49462",
+      "seq_id": "fragment546",
+      "seq_loc": "hg38:chr3:142755114-142804575:+",
+      "description": "manifest-seq546"
+    },
+    {
+      "sample_id": "CCCTG_hg19-chr18-20319",
+      "seq_id": "fragment547",
+      "seq_loc": "hg19:chr18:62633160-62653478:+",
+      "description": "manifest-seq547"
+    },
+    {
+      "sample_id": "GAATA_hg38-chr17-13660",
+      "seq_id": "fragment548",
+      "seq_loc": "hg38:chr17:18448209-18461868:-",
+      "description": "manifest-seq548"
+    },
+    {
+      "sample_id": "TTGAA_hg38-chr10-28295",
+      "seq_id": "fragment549",
+      "seq_loc": "hg38:chr10:12254186-12282480:+",
+      "description": "manifest-seq549"
+    },
+    {
+      "sample_id": "CATCA_hg38-chr10-20612",
+      "seq_id": "fragment550",
+      "seq_loc": "hg38:chr10:3768207-3788818:+",
+      "description": "manifest-seq550"
+    },
+    {
+      "sample_id": "CTTGA_hg19-chr20-31787",
+      "seq_id": "fragment551",
+      "seq_loc": "hg19:chr20:49528848-49560634:-",
+      "description": "manifest-seq551"
+    },
+    {
+      "sample_id": "ATATA_hg19-chr11-6602",
+      "seq_id": "fragment552",
+      "seq_loc": "hg19:chr11:76129613-76136214:-",
+      "description": "manifest-seq552"
+    },
+    {
+      "sample_id": "AAAGT_hg38-chr11-17302",
+      "seq_id": "fragment553",
+      "seq_loc": "hg38:chr11:78520639-78537940:-",
+      "description": "manifest-seq553"
+    },
+    {
+      "sample_id": "ACTCT_hg19-chr15-1763",
+      "seq_id": "fragment554",
+      "seq_loc": "hg19:chr15:98442877-98444639:-",
+      "description": "manifest-seq554"
+    },
+    {
+      "sample_id": "CTGCG_hg19-chr7-9280",
+      "seq_id": "fragment555",
+      "seq_loc": "hg19:chr7:158467130-158476409:-",
+      "description": "manifest-seq555"
+    },
+    {
+      "sample_id": "TGCAC_hg38-chr21-46325",
+      "seq_id": "fragment556",
+      "seq_loc": "hg38:chr21:19846932-19893256:+",
+      "description": "manifest-seq556"
+    },
+    {
+      "sample_id": "TCAGC_hg19-chr19-6419",
+      "seq_id": "fragment557",
+      "seq_loc": "hg19:chr19:16263439-16269857:+",
+      "description": "manifest-seq557"
+    },
+    {
+      "sample_id": "CCCAT_hg19-chr18-39484",
+      "seq_id": "fragment558",
+      "seq_loc": "hg19:chr18:54484209-54523692:+",
+      "description": "manifest-seq558"
+    },
+    {
+      "sample_id": "TGTTG_hg38-chr1-44666",
+      "seq_id": "fragment559",
+      "seq_loc": "hg38:chr1:108740221-108784886:+",
+      "description": "manifest-seq559"
+    },
+    {
+      "sample_id": "AAGGC_hg38-chrX-28523",
+      "seq_id": "fragment560",
+      "seq_loc": "hg38:chrX:112336243-112364765:+",
+      "description": "manifest-seq560"
+    },
+    {
+      "sample_id": "TGAGA_hg38-chr20-10700",
+      "seq_id": "fragment561",
+      "seq_loc": "hg38:chr20:48675025-48685724:+",
+      "description": "manifest-seq561"
+    },
+    {
+      "sample_id": "TCAAA_hg38-chr10-3033",
+      "seq_id": "fragment562",
+      "seq_loc": "hg38:chr10:63140288-63143320:-",
+      "description": "manifest-seq562"
+    },
+    {
+      "sample_id": "ATCTC_hg38-chr8-14184",
+      "seq_id": "fragment563",
+      "seq_loc": "hg38:chr8:71304769-71318952:+",
+      "description": "manifest-seq563"
+    },
+    {
+      "sample_id": "TCGAT_hg38-chr10-11185",
+      "seq_id": "fragment564",
+      "seq_loc": "hg38:chr10:90599771-90610955:+",
+      "description": "manifest-seq564"
+    },
+    {
+      "sample_id": "AAGAG_hg38-chr16-17458",
+      "seq_id": "fragment565",
+      "seq_loc": "hg38:chr16:37522275-37539732:+",
+      "description": "manifest-seq565"
+    },
+    {
+      "sample_id": "CTTTG_hg38-chr19-23739",
+      "seq_id": "fragment566",
+      "seq_loc": "hg38:chr19:21685599-21709337:-",
+      "description": "manifest-seq566"
+    },
+    {
+      "sample_id": "GATAC_hg19-chr5-5127",
+      "seq_id": "fragment567",
+      "seq_loc": "hg19:chr5:80453871-80458997:-",
+      "description": "manifest-seq567"
+    },
+    {
+      "sample_id": "TTGGC_hg38-chr1-33004",
+      "seq_id": "fragment568",
+      "seq_loc": "hg38:chr1:144045560-144078563:+",
+      "description": "manifest-seq568"
+    },
+    {
+      "sample_id": "TGCCC_hg38-chr2-17192",
+      "seq_id": "fragment569",
+      "seq_loc": "hg38:chr2:164720490-164737681:-",
+      "description": "manifest-seq569"
+    },
+    {
+      "sample_id": "AGGCG_hg38-chr2-26194",
+      "seq_id": "fragment570",
+      "seq_loc": "hg38:chr2:164646155-164672348:-",
+      "description": "manifest-seq570"
+    },
+    {
+      "sample_id": "GCAGG_hg19-chr17-7246",
+      "seq_id": "fragment571",
+      "seq_loc": "hg19:chr17:65634011-65641256:+",
+      "description": "manifest-seq571"
+    },
+    {
+      "sample_id": "GTAAT_hg38-chr21-39545",
+      "seq_id": "fragment572",
+      "seq_loc": "hg38:chr21:32543774-32583318:-",
+      "description": "manifest-seq572"
+    },
+    {
+      "sample_id": "AACCT_hg19-chr5-38666",
+      "seq_id": "fragment573",
+      "seq_loc": "hg19:chr5:113420297-113458962:+",
+      "description": "manifest-seq573"
+    },
+    {
+      "sample_id": "GGACG_hg19-chr18-17694",
+      "seq_id": "fragment574",
+      "seq_loc": "hg19:chr18:5305280-5322973:-",
+      "description": "manifest-seq574"
+    },
+    {
+      "sample_id": "GCATC_hg19-chr16-47112",
+      "seq_id": "fragment575",
+      "seq_loc": "hg19:chr16:31541559-31588670:-",
+      "description": "manifest-seq575"
+    },
+    {
+      "sample_id": "ACTTG_hg19-chr16-14685",
+      "seq_id": "fragment576",
+      "seq_loc": "hg19:chr16:57802782-57817466:-",
+      "description": "manifest-seq576"
+    },
+    {
+      "sample_id": "TTAGC_hg19-chr16-39736",
+      "seq_id": "fragment577",
+      "seq_loc": "hg19:chr16:43955622-43995357:-",
+      "description": "manifest-seq577"
+    },
+    {
+      "sample_id": "CCGGT_hg38-chr6-36019",
+      "seq_id": "fragment578",
+      "seq_loc": "hg38:chr6:14147940-14183958:-",
+      "description": "manifest-seq578"
+    },
+    {
+      "sample_id": "CTTAC_hg19-chr17-11130",
+      "seq_id": "fragment579",
+      "seq_loc": "hg19:chr17:70289142-70300271:-",
+      "description": "manifest-seq579"
+    },
+    {
+      "sample_id": "GCCAA_hg19-chr17-8101",
+      "seq_id": "fragment580",
+      "seq_loc": "hg19:chr17:2947328-2955428:-",
+      "description": "manifest-seq580"
+    },
+    {
+      "sample_id": "ATGTT_hg19-chr17-36888",
+      "seq_id": "fragment581",
+      "seq_loc": "hg19:chr17:22062158-22099045:+",
+      "description": "manifest-seq581"
+    },
+    {
+      "sample_id": "TTCGT_hg19-chr15-29219",
+      "seq_id": "fragment582",
+      "seq_loc": "hg19:chr15:1966045-1995263:+",
+      "description": "manifest-seq582"
+    },
+    {
+      "sample_id": "TCTGA_hg38-chr20-17212",
+      "seq_id": "fragment583",
+      "seq_loc": "hg38:chr20:55087693-55104904:-",
+      "description": "manifest-seq583"
+    },
+    {
+      "sample_id": "TCCTA_hg19-chr21-40022",
+      "seq_id": "fragment584",
+      "seq_loc": "hg19:chr21:18067870-18107891:+",
+      "description": "manifest-seq584"
+    },
+    {
+      "sample_id": "TTATA_hg38-chr6-13859",
+      "seq_id": "fragment585",
+      "seq_loc": "hg38:chr6:68669538-68683396:-",
+      "description": "manifest-seq585"
+    },
+    {
+      "sample_id": "CCTTG_hg19-chr17-14422",
+      "seq_id": "fragment586",
+      "seq_loc": "hg19:chr17:24038485-24052906:-",
+      "description": "manifest-seq586"
+    },
+    {
+      "sample_id": "CATCC_hg19-chr3-14631",
+      "seq_id": "fragment587",
+      "seq_loc": "hg19:chr3:73159625-73174255:+",
+      "description": "manifest-seq587"
+    },
+    {
+      "sample_id": "TCGGG_hg38-chr8-23385",
+      "seq_id": "fragment588",
+      "seq_loc": "hg38:chr8:50614248-50637632:+",
+      "description": "manifest-seq588"
+    },
+    {
+      "sample_id": "TATAC_hg19-chr7-21902",
+      "seq_id": "fragment589",
+      "seq_loc": "hg19:chr7:60501681-60523582:+",
+      "description": "manifest-seq589"
+    },
+    {
+      "sample_id": "CAGTG_hg19-chrY-13929",
+      "seq_id": "fragment590",
+      "seq_loc": "hg19:chrY:48861841-48875769:+",
+      "description": "manifest-seq590"
+    },
+    {
+      "sample_id": "TTTTG_hg19-chr1-35995",
+      "seq_id": "fragment591",
+      "seq_loc": "hg19:chr1:44111036-44147030:-",
+      "description": "manifest-seq591"
+    },
+    {
+      "sample_id": "GGGGT_hg38-chr10-15017",
+      "seq_id": "fragment592",
+      "seq_loc": "hg38:chr10:89414178-89429194:+",
+      "description": "manifest-seq592"
+    },
+    {
+      "sample_id": "CTCAG_hg38-chr20-30318",
+      "seq_id": "fragment593",
+      "seq_loc": "hg38:chr20:40473358-40503675:+",
+      "description": "manifest-seq593"
+    },
+    {
+      "sample_id": "CCGTA_hg19-chr9-22461",
+      "seq_id": "fragment594",
+      "seq_loc": "hg19:chr9:25001964-25024424:+",
+      "description": "manifest-seq594"
+    },
+    {
+      "sample_id": "AATTA_hg19-chr18-20984",
+      "seq_id": "fragment595",
+      "seq_loc": "hg19:chr18:32997258-33018241:+",
+      "description": "manifest-seq595"
+    },
+    {
+      "sample_id": "GCTGG_hg19-chr6-28969",
+      "seq_id": "fragment596",
+      "seq_loc": "hg19:chr6:20879258-20908226:+",
+      "description": "manifest-seq596"
+    },
+    {
+      "sample_id": "GGGGG_hg38-chr18-20551",
+      "seq_id": "fragment597",
+      "seq_loc": "hg38:chr18:52269350-52289900:+",
+      "description": "manifest-seq597"
+    },
+    {
+      "sample_id": "TTCAA_hg19-chr18-40293",
+      "seq_id": "fragment598",
+      "seq_loc": "hg19:chr18:25302636-25342928:-",
+      "description": "manifest-seq598"
+    },
+    {
+      "sample_id": "TGCAA_hg19-chr12-2463",
+      "seq_id": "fragment599",
+      "seq_loc": "hg19:chr12:72661997-72664459:+",
+      "description": "manifest-seq599"
+    },
+    {
+      "sample_id": "TAGGT_hg38-chr16-10497",
+      "seq_id": "fragment600",
+      "seq_loc": "hg38:chr16:12821957-12832453:-",
+      "description": "manifest-seq600"
+    },
+    {
+      "sample_id": "ACGGT_hg38-chr14-20357",
+      "seq_id": "fragment601",
+      "seq_loc": "hg38:chr14:81101697-81122053:-",
+      "description": "manifest-seq601"
+    },
+    {
+      "sample_id": "CGTCA_hg38-chr22-1642",
+      "seq_id": "fragment602",
+      "seq_loc": "hg38:chr22:8773781-8775422:-",
+      "description": "manifest-seq602"
+    },
+    {
+      "sample_id": "ACAGT_hg38-chr5-18932",
+      "seq_id": "fragment603",
+      "seq_loc": "hg38:chr5:143133773-143152704:-",
+      "description": "manifest-seq603"
+    },
+    {
+      "sample_id": "GTGTT_hg38-chr19-7839",
+      "seq_id": "fragment604",
+      "seq_loc": "hg38:chr19:49201143-49208981:+",
+      "description": "manifest-seq604"
+    },
+    {
+      "sample_id": "CATTA_hg38-chr18-13638",
+      "seq_id": "fragment605",
+      "seq_loc": "hg38:chr18:54121332-54134969:-",
+      "description": "manifest-seq605"
+    },
+    {
+      "sample_id": "TAACC_hg19-chr14-16154",
+      "seq_id": "fragment606",
+      "seq_loc": "hg19:chr14:102673353-102689506:+",
+      "description": "manifest-seq606"
+    },
+    {
+      "sample_id": "CCTCG_hg19-chr6-15632",
+      "seq_id": "fragment607",
+      "seq_loc": "hg19:chr6:99035981-99051612:+",
+      "description": "manifest-seq607"
+    },
+    {
+      "sample_id": "ATTTA_hg19-chr9-19039",
+      "seq_id": "fragment608",
+      "seq_loc": "hg19:chr9:72932155-72951193:-",
+      "description": "manifest-seq608"
+    },
+    {
+      "sample_id": "GCGCC_hg19-chr8-37287",
+      "seq_id": "fragment609",
+      "seq_loc": "hg19:chr8:78586238-78623524:+",
+      "description": "manifest-seq609"
+    },
+    {
+      "sample_id": "GATGC_hg38-chr7-38327",
+      "seq_id": "fragment610",
+      "seq_loc": "hg38:chr7:43937921-43976247:+",
+      "description": "manifest-seq610"
+    },
+    {
+      "sample_id": "GTCTG_hg38-chr21-45748",
+      "seq_id": "fragment611",
+      "seq_loc": "hg38:chr21:37557729-37603476:+",
+      "description": "manifest-seq611"
+    },
+    {
+      "sample_id": "AGATG_hg38-chr3-35587",
+      "seq_id": "fragment612",
+      "seq_loc": "hg38:chr3:166278333-166313919:-",
+      "description": "manifest-seq612"
+    },
+    {
+      "sample_id": "CTCTG_hg19-chr7-38454",
+      "seq_id": "fragment613",
+      "seq_loc": "hg19:chr7:91816759-91855212:+",
+      "description": "manifest-seq613"
+    },
+    {
+      "sample_id": "TAAGA_hg19-chr19-19449",
+      "seq_id": "fragment614",
+      "seq_loc": "hg19:chr19:19341981-19361429:+",
+      "description": "manifest-seq614"
+    },
+    {
+      "sample_id": "ACAAT_hg19-chrX-1035",
+      "seq_id": "fragment615",
+      "seq_loc": "hg19:chrX:110578800-110579834:-",
+      "description": "manifest-seq615"
+    },
+    {
+      "sample_id": "TCAGA_hg19-chr18-15114",
+      "seq_id": "fragment616",
+      "seq_loc": "hg19:chr18:36363972-36379085:+",
+      "description": "manifest-seq616"
+    },
+    {
+      "sample_id": "TCTAA_hg19-chr20-28186",
+      "seq_id": "fragment617",
+      "seq_loc": "hg19:chr20:6715904-6744089:+",
+      "description": "manifest-seq617"
+    },
+    {
+      "sample_id": "AATCG_hg38-chr22-37328",
+      "seq_id": "fragment618",
+      "seq_loc": "hg38:chr22:26995661-27032988:+",
+      "description": "manifest-seq618"
+    },
+    {
+      "sample_id": "TACAT_hg38-chr10-49650",
+      "seq_id": "fragment619",
+      "seq_loc": "hg38:chr10:17875307-17924956:+",
+      "description": "manifest-seq619"
+    },
+    {
+      "sample_id": "TGGTG_hg38-chr22-34037",
+      "seq_id": "fragment620",
+      "seq_loc": "hg38:chr22:49877729-49911765:+",
+      "description": "manifest-seq620"
+    },
+    {
+      "sample_id": "TGATC_hg19-chr22-13303",
+      "seq_id": "fragment621",
+      "seq_loc": "hg19:chr22:13780757-13794059:-",
+      "description": "manifest-seq621"
+    },
+    {
+      "sample_id": "GCTAA_hg19-chr8-16651",
+      "seq_id": "fragment622",
+      "seq_loc": "hg19:chr8:62340329-62356979:+",
+      "description": "manifest-seq622"
+    },
+    {
+      "sample_id": "TTGCG_hg38-chr18-22871",
+      "seq_id": "fragment623",
+      "seq_loc": "hg38:chr18:13602130-13625000:-",
+      "description": "manifest-seq623"
+    },
+    {
+      "sample_id": "ACCAC_hg19-chr21-47824",
+      "seq_id": "fragment624",
+      "seq_loc": "hg19:chr21:2985361-3033184:-",
+      "description": "manifest-seq624"
+    },
+    {
+      "sample_id": "AGCCT_hg38-chr13-15281",
+      "seq_id": "fragment625",
+      "seq_loc": "hg38:chr13:77648307-77663587:+",
+      "description": "manifest-seq625"
+    },
+    {
+      "sample_id": "CCTGA_hg19-chr3-20908",
+      "seq_id": "fragment626",
+      "seq_loc": "hg19:chr3:32933197-32954104:+",
+      "description": "manifest-seq626"
+    },
+    {
+      "sample_id": "CTCTT_hg38-chrX-5942",
+      "seq_id": "fragment627",
+      "seq_loc": "hg38:chrX:150527210-150533151:+",
+      "description": "manifest-seq627"
+    },
+    {
+      "sample_id": "GCAGA_hg38-chr4-34840",
+      "seq_id": "fragment628",
+      "seq_loc": "hg38:chr4:15088132-15122971:-",
+      "description": "manifest-seq628"
+    },
+    {
+      "sample_id": "ATTCG_hg19-chr18-31314",
+      "seq_id": "fragment629",
+      "seq_loc": "hg19:chr18:15388590-15419903:-",
+      "description": "manifest-seq629"
+    },
+    {
+      "sample_id": "GTCCC_hg19-chr18-17385",
+      "seq_id": "fragment630",
+      "seq_loc": "hg19:chr18:58647108-58664492:+",
+      "description": "manifest-seq630"
+    },
+    {
+      "sample_id": "GAGTC_hg38-chr18-13745",
+      "seq_id": "fragment631",
+      "seq_loc": "hg38:chr18:71601477-71615221:-",
+      "description": "manifest-seq631"
+    },
+    {
+      "sample_id": "AAACA_hg38-chr11-43579",
+      "seq_id": "fragment632",
+      "seq_loc": "hg38:chr11:22540387-22583965:+",
+      "description": "manifest-seq632"
+    },
+    {
+      "sample_id": "GTGAC_hg19-chr8-7117",
+      "seq_id": "fragment633",
+      "seq_loc": "hg19:chr8:54820222-54827338:-",
+      "description": "manifest-seq633"
+    },
+    {
+      "sample_id": "CACAC_hg38-chr21-46407",
+      "seq_id": "fragment634",
+      "seq_loc": "hg38:chr21:7446515-7492921:-",
+      "description": "manifest-seq634"
+    },
+    {
+      "sample_id": "TTAGT_hg19-chr2-37481",
+      "seq_id": "fragment635",
+      "seq_loc": "hg19:chr2:17760766-17798246:+",
+      "description": "manifest-seq635"
+    },
+    {
+      "sample_id": "ACTAT_hg38-chr21-4317",
+      "seq_id": "fragment636",
+      "seq_loc": "hg38:chr21:32242532-32246848:-",
+      "description": "manifest-seq636"
+    },
+    {
+      "sample_id": "AGTCC_hg38-chr9-8533",
+      "seq_id": "fragment637",
+      "seq_loc": "hg38:chr9:123205626-123214158:-",
+      "description": "manifest-seq637"
+    },
+    {
+      "sample_id": "GAGGT_hg38-chr18-38311",
+      "seq_id": "fragment638",
+      "seq_loc": "hg38:chr18:68460277-68498587:+",
+      "description": "manifest-seq638"
+    },
+    {
+      "sample_id": "AGCTT_hg38-chr7-24280",
+      "seq_id": "fragment639",
+      "seq_loc": "hg38:chr7:128308561-128332840:-",
+      "description": "manifest-seq639"
+    },
+    {
+      "sample_id": "AGAGT_hg38-chr22-44870",
+      "seq_id": "fragment640",
+      "seq_loc": "hg38:chr22:6360818-6405687:-",
+      "description": "manifest-seq640"
+    },
+    {
+      "sample_id": "GTGTC_hg19-chr4-19142",
+      "seq_id": "fragment641",
+      "seq_loc": "hg19:chr4:75650829-75669970:+",
+      "description": "manifest-seq641"
+    },
+    {
+      "sample_id": "CCCCG_hg38-chr10-10696",
+      "seq_id": "fragment642",
+      "seq_loc": "hg38:chr10:119664277-119674972:-",
+      "description": "manifest-seq642"
+    },
+    {
+      "sample_id": "GGCCC_hg38-chr13-26851",
+      "seq_id": "fragment643",
+      "seq_loc": "hg38:chr13:108515698-108542548:+",
+      "description": "manifest-seq643"
+    },
+    {
+      "sample_id": "CTTCC_hg38-chr4-45070",
+      "seq_id": "fragment644",
+      "seq_loc": "hg38:chr4:186259508-186304577:+",
+      "description": "manifest-seq644"
+    },
+    {
+      "sample_id": "AGTCA_hg19-chr7-19467",
+      "seq_id": "fragment645",
+      "seq_loc": "hg19:chr7:109717151-109736617:-",
+      "description": "manifest-seq645"
+    },
+    {
+      "sample_id": "GATTA_hg38-chr9-25843",
+      "seq_id": "fragment646",
+      "seq_loc": "hg38:chr9:136237317-136263159:+",
+      "description": "manifest-seq646"
+    },
+    {
+      "sample_id": "ACTTC_hg38-chrY-13166",
+      "seq_id": "fragment647",
+      "seq_loc": "hg38:chrY:34460114-34473279:+",
+      "description": "manifest-seq647"
+    },
+    {
+      "sample_id": "GGCTG_hg19-chr11-14963",
+      "seq_id": "fragment648",
+      "seq_loc": "hg19:chr11:28824431-28839393:+",
+      "description": "manifest-seq648"
+    },
+    {
+      "sample_id": "GTATT_hg38-chr4-20459",
+      "seq_id": "fragment649",
+      "seq_loc": "hg38:chr4:105217702-105238160:+",
+      "description": "manifest-seq649"
+    },
+    {
+      "sample_id": "TTTCG_hg19-chr2-15895",
+      "seq_id": "fragment650",
+      "seq_loc": "hg19:chr2:227943781-227959675:+",
+      "description": "manifest-seq650"
+    },
+    {
+      "sample_id": "AACAC_hg19-chr6-28691",
+      "seq_id": "fragment651",
+      "seq_loc": "hg19:chr6:32029216-32057906:+",
+      "description": "manifest-seq651"
+    },
+    {
+      "sample_id": "CGGCC_hg19-chr19-23462",
+      "seq_id": "fragment652",
+      "seq_loc": "hg19:chr19:55190520-55213981:+",
+      "description": "manifest-seq652"
+    },
+    {
+      "sample_id": "CTTAT_hg38-chr21-41758",
+      "seq_id": "fragment653",
+      "seq_loc": "hg38:chr21:20002123-20043880:+",
+      "description": "manifest-seq653"
+    },
+    {
+      "sample_id": "TAAAG_hg19-chr6-40908",
+      "seq_id": "fragment654",
+      "seq_loc": "hg19:chr6:81166880-81207787:-",
+      "description": "manifest-seq654"
+    },
+    {
+      "sample_id": "AGTGG_hg38-chr5-9205",
+      "seq_id": "fragment655",
+      "seq_loc": "hg38:chr5:142830967-142840171:+",
+      "description": "manifest-seq655"
+    },
+    {
+      "sample_id": "ACCCC_hg19-chr13-24683",
+      "seq_id": "fragment656",
+      "seq_loc": "hg19:chr13:109058217-109082899:+",
+      "description": "manifest-seq656"
+    },
+    {
+      "sample_id": "TAGGA_hg38-chr10-23543",
+      "seq_id": "fragment657",
+      "seq_loc": "hg38:chr10:71659728-71683270:+",
+      "description": "manifest-seq657"
+    },
+    {
+      "sample_id": "AGGTT_hg19-chr19-27865",
+      "seq_id": "fragment658",
+      "seq_loc": "hg19:chr19:20082706-20110570:+",
+      "description": "manifest-seq658"
+    },
+    {
+      "sample_id": "TGCGC_hg38-chr22-8615",
+      "seq_id": "fragment659",
+      "seq_loc": "hg38:chr22:15662000-15670614:+",
+      "description": "manifest-seq659"
+    },
+    {
+      "sample_id": "AGGAG_hg38-chr1-30834",
+      "seq_id": "fragment660",
+      "seq_loc": "hg38:chr1:61453389-61484222:-",
+      "description": "manifest-seq660"
+    },
+    {
+      "sample_id": "TCATA_hg19-chr13-49313",
+      "seq_id": "fragment661",
+      "seq_loc": "hg19:chr13:69245596-69294908:-",
+      "description": "manifest-seq661"
+    },
+    {
+      "sample_id": "GACCG_hg38-chr2-9872",
+      "seq_id": "fragment662",
+      "seq_loc": "hg38:chr2:96119503-96129374:-",
+      "description": "manifest-seq662"
+    },
+    {
+      "sample_id": "GTGGT_hg19-chr14-38365",
+      "seq_id": "fragment663",
+      "seq_loc": "hg19:chr14:13814541-13852905:-",
+      "description": "manifest-seq663"
+    },
+    {
+      "sample_id": "CCGAA_hg38-chr10-20089",
+      "seq_id": "fragment664",
+      "seq_loc": "hg38:chr10:93253517-93273605:+",
+      "description": "manifest-seq664"
+    },
+    {
+      "sample_id": "TCCTG_hg38-chr17-14366",
+      "seq_id": "fragment665",
+      "seq_loc": "hg38:chr17:3401159-3415524:-",
+      "description": "manifest-seq665"
+    },
+    {
+      "sample_id": "GCCCG_hg19-chrY-27123",
+      "seq_id": "fragment666",
+      "seq_loc": "hg19:chrY:3357208-3384330:+",
+      "description": "manifest-seq666"
+    },
+    {
+      "sample_id": "TGGGG_hg38-chr14-10913",
+      "seq_id": "fragment667",
+      "seq_loc": "hg38:chr14:62338365-62349277:-",
+      "description": "manifest-seq667"
+    },
+    {
+      "sample_id": "GCTTT_hg19-chr20-10555",
+      "seq_id": "fragment668",
+      "seq_loc": "hg19:chr20:4362954-4373508:+",
+      "description": "manifest-seq668"
+    },
+    {
+      "sample_id": "CAACG_hg19-chr1-4812",
+      "seq_id": "fragment669",
+      "seq_loc": "hg19:chr1:112838776-112843587:+",
+      "description": "manifest-seq669"
+    },
+    {
+      "sample_id": "GACGA_hg19-chr19-30667",
+      "seq_id": "fragment670",
+      "seq_loc": "hg19:chr19:53829383-53860049:+",
+      "description": "manifest-seq670"
+    },
+    {
+      "sample_id": "GCACT_hg38-chr4-10023",
+      "seq_id": "fragment671",
+      "seq_loc": "hg38:chr4:123758295-123768317:+",
+      "description": "manifest-seq671"
+    },
+    {
+      "sample_id": "GTCGC_hg19-chr19-24480",
+      "seq_id": "fragment672",
+      "seq_loc": "hg19:chr19:33377825-33402304:+",
+      "description": "manifest-seq672"
+    },
+    {
+      "sample_id": "ATCGA_hg19-chrY-32439",
+      "seq_id": "fragment673",
+      "seq_loc": "hg19:chrY:40164795-40197233:-",
+      "description": "manifest-seq673"
+    },
+    {
+      "sample_id": "AAACG_hg38-chr18-49067",
+      "seq_id": "fragment674",
+      "seq_loc": "hg38:chr18:75705360-75754426:+",
+      "description": "manifest-seq674"
+    },
+    {
+      "sample_id": "GCGTG_hg19-chr3-18277",
+      "seq_id": "fragment675",
+      "seq_loc": "hg19:chr3:82736978-82755254:-",
+      "description": "manifest-seq675"
+    },
+    {
+      "sample_id": "ACCGC_hg19-chrX-15062",
+      "seq_id": "fragment676",
+      "seq_loc": "hg19:chrX:112751678-112766739:+",
+      "description": "manifest-seq676"
+    },
+    {
+      "sample_id": "CCGCG_hg19-chr12-22806",
+      "seq_id": "fragment677",
+      "seq_loc": "hg19:chr12:126209800-126232605:-",
+      "description": "manifest-seq677"
+    },
+    {
+      "sample_id": "GCTTG_hg38-chr10-7999",
+      "seq_id": "fragment678",
+      "seq_loc": "hg38:chr10:62001380-62009378:-",
+      "description": "manifest-seq678"
+    },
+    {
+      "sample_id": "CTGGC_hg19-chr7-31493",
+      "seq_id": "fragment679",
+      "seq_loc": "hg19:chr7:112059341-112090833:-",
+      "description": "manifest-seq679"
+    },
+    {
+      "sample_id": "TAGCA_hg19-chrY-42544",
+      "seq_id": "fragment680",
+      "seq_loc": "hg19:chrY:40647833-40690376:-",
+      "description": "manifest-seq680"
+    },
+    {
+      "sample_id": "AAGGT_hg19-chr6-32393",
+      "seq_id": "fragment681",
+      "seq_loc": "hg19:chr6:45600199-45632591:-",
+      "description": "manifest-seq681"
+    },
+    {
+      "sample_id": "TCGAA_hg38-chr17-27254",
+      "seq_id": "fragment682",
+      "seq_loc": "hg38:chr17:70765843-70793096:-",
+      "description": "manifest-seq682"
+    },
+    {
+      "sample_id": "ATCGG_hg19-chr6-17055",
+      "seq_id": "fragment683",
+      "seq_loc": "hg19:chr6:150252653-150269707:+",
+      "description": "manifest-seq683"
+    },
+    {
+      "sample_id": "TCTAT_hg38-chr11-30258",
+      "seq_id": "fragment684",
+      "seq_loc": "hg38:chr11:56909745-56940002:+",
+      "description": "manifest-seq684"
+    },
+    {
+      "sample_id": "CGGAA_hg19-chr20-19935",
+      "seq_id": "fragment685",
+      "seq_loc": "hg19:chr20:46748626-46768560:+",
+      "description": "manifest-seq685"
+    },
+    {
+      "sample_id": "GTAAC_hg19-chr15-5418",
+      "seq_id": "fragment686",
+      "seq_loc": "hg19:chr15:20419744-20425161:-",
+      "description": "manifest-seq686"
+    },
+    {
+      "sample_id": "GTTTG_hg38-chr11-40048",
+      "seq_id": "fragment687",
+      "seq_loc": "hg38:chr11:57153309-57193356:-",
+      "description": "manifest-seq687"
+    },
+    {
+      "sample_id": "TACAC_hg19-chr7-11098",
+      "seq_id": "fragment688",
+      "seq_loc": "hg19:chr7:137849698-137860795:-",
+      "description": "manifest-seq688"
+    },
+    {
+      "sample_id": "GCACA_hg38-chrX-31899",
+      "seq_id": "fragment689",
+      "seq_loc": "hg38:chrX:102852465-102884363:+",
+      "description": "manifest-seq689"
+    },
+    {
+      "sample_id": "GCGAT_hg19-chr12-41374",
+      "seq_id": "fragment690",
+      "seq_loc": "hg19:chr12:28791126-28832499:-",
+      "description": "manifest-seq690"
+    },
+    {
+      "sample_id": "CAATG_hg38-chr20-7871",
+      "seq_id": "fragment691",
+      "seq_loc": "hg38:chr20:16804413-16812283:-",
+      "description": "manifest-seq691"
+    },
+    {
+      "sample_id": "ATTAT_hg38-chr1-31645",
+      "seq_id": "fragment692",
+      "seq_loc": "hg38:chr1:238462429-238494073:+",
+      "description": "manifest-seq692"
+    },
+    {
+      "sample_id": "CAGAA_hg19-chrX-25643",
+      "seq_id": "fragment693",
+      "seq_loc": "hg19:chrX:144276332-144301974:-",
+      "description": "manifest-seq693"
+    },
+    {
+      "sample_id": "CGTAG_hg19-chr21-41011",
+      "seq_id": "fragment694",
+      "seq_loc": "hg19:chr21:8341893-8382903:+",
+      "description": "manifest-seq694"
+    },
+    {
+      "sample_id": "GTGGC_hg38-chr15-40045",
+      "seq_id": "fragment695",
+      "seq_loc": "hg38:chr15:18475883-18515927:+",
+      "description": "manifest-seq695"
+    },
+    {
+      "sample_id": "AACAG_hg19-chr14-48925",
+      "seq_id": "fragment696",
+      "seq_loc": "hg19:chr14:102114548-102163472:-",
+      "description": "manifest-seq696"
+    },
+    {
+      "sample_id": "ACAGG_hg19-chr16-43499",
+      "seq_id": "fragment697",
+      "seq_loc": "hg19:chr16:55356655-55400153:+",
+      "description": "manifest-seq697"
+    },
+    {
+      "sample_id": "GGTGT_hg19-chr5-35972",
+      "seq_id": "fragment698",
+      "seq_loc": "hg19:chr5:161939279-161975250:+",
+      "description": "manifest-seq698"
+    },
+    {
+      "sample_id": "CGGGG_hg38-chr6-43122",
+      "seq_id": "fragment699",
+      "seq_loc": "hg38:chr6:81719932-81763053:+",
+      "description": "manifest-seq699"
+    },
+    {
+      "sample_id": "TCTAG_hg38-chr6-40849",
+      "seq_id": "fragment700",
+      "seq_loc": "hg38:chr6:81376648-81417496:+",
+      "description": "manifest-seq700"
+    },
+    {
+      "sample_id": "TTCCG_hg19-chr20-34079",
+      "seq_id": "fragment701",
+      "seq_loc": "hg19:chr20:58813527-58847605:+",
+      "description": "manifest-seq701"
+    },
+    {
+      "sample_id": "AAACT_hg38-chr14-39246",
+      "seq_id": "fragment702",
+      "seq_loc": "hg38:chr14:53603984-53643229:-",
+      "description": "manifest-seq702"
+    },
+    {
+      "sample_id": "CACAT_hg19-chr9-37281",
+      "seq_id": "fragment703",
+      "seq_loc": "hg19:chr9:116716499-116753779:-",
+      "description": "manifest-seq703"
+    },
+    {
+      "sample_id": "TAGTG_hg19-chr6-20385",
+      "seq_id": "fragment704",
+      "seq_loc": "hg19:chr6:137390047-137410431:-",
+      "description": "manifest-seq704"
+    },
+    {
+      "sample_id": "GGTTG_hg38-chr13-49424",
+      "seq_id": "fragment705",
+      "seq_loc": "hg38:chr13:85589961-85639384:-",
+      "description": "manifest-seq705"
+    },
+    {
+      "sample_id": "TTTGG_hg19-chr11-37264",
+      "seq_id": "fragment706",
+      "seq_loc": "hg19:chr11:77024104-77061367:-",
+      "description": "manifest-seq706"
+    },
+    {
+      "sample_id": "GACAT_hg19-chr18-26405",
+      "seq_id": "fragment707",
+      "seq_loc": "hg19:chr18:52391301-52417705:-",
+      "description": "manifest-seq707"
+    },
+    {
+      "sample_id": "CGGCG_hg19-chr4-16182",
+      "seq_id": "fragment708",
+      "seq_loc": "hg19:chr4:48690966-48707147:-",
+      "description": "manifest-seq708"
+    },
+    {
+      "sample_id": "CTCCA_hg19-chr12-14090",
+      "seq_id": "fragment709",
+      "seq_loc": "hg19:chr12:83337147-83351236:+",
+      "description": "manifest-seq709"
+    },
+    {
+      "sample_id": "CCGAT_hg38-chr4-8693",
+      "seq_id": "fragment710",
+      "seq_loc": "hg38:chr4:158836701-158845393:-",
+      "description": "manifest-seq710"
+    },
+    {
+      "sample_id": "GCTCC_hg38-chr14-37514",
+      "seq_id": "fragment711",
+      "seq_loc": "hg38:chr14:54544823-54582336:-",
+      "description": "manifest-seq711"
+    },
+    {
+      "sample_id": "AATTG_hg38-chr1-39113",
+      "seq_id": "fragment712",
+      "seq_loc": "hg38:chr1:127258898-127298010:+",
+      "description": "manifest-seq712"
+    },
+    {
+      "sample_id": "CTTAG_hg38-chr9-40854",
+      "seq_id": "fragment713",
+      "seq_loc": "hg38:chr9:137375326-137416179:+",
+      "description": "manifest-seq713"
+    },
+    {
+      "sample_id": "CACTC_hg38-chr2-29063",
+      "seq_id": "fragment714",
+      "seq_loc": "hg38:chr2:61948256-61977318:+",
+      "description": "manifest-seq714"
+    },
+    {
+      "sample_id": "CAGAT_hg38-chr21-3648",
+      "seq_id": "fragment715",
+      "seq_loc": "hg38:chr21:34580411-34584058:-",
+      "description": "manifest-seq715"
+    },
+    {
+      "sample_id": "CCGTG_hg38-chr1-5988",
+      "seq_id": "fragment716",
+      "seq_loc": "hg38:chr1:38905905-38911892:+",
+      "description": "manifest-seq716"
+    },
+    {
+      "sample_id": "CGGGC_hg38-chr3-4625",
+      "seq_id": "fragment717",
+      "seq_loc": "hg38:chr3:21976614-21981238:+",
+      "description": "manifest-seq717"
+    },
+    {
+      "sample_id": "GATAA_hg19-chr22-8639",
+      "seq_id": "fragment718",
+      "seq_loc": "hg19:chr22:21751553-21760191:+",
+      "description": "manifest-seq718"
+    },
+    {
+      "sample_id": "TACGC_hg38-chr17-12209",
+      "seq_id": "fragment719",
+      "seq_loc": "hg38:chr17:52626183-52638391:+",
+      "description": "manifest-seq719"
+    },
+    {
+      "sample_id": "CCTGC_hg19-chr17-10732",
+      "seq_id": "fragment720",
+      "seq_loc": "hg19:chr17:33463116-33473847:+",
+      "description": "manifest-seq720"
+    },
+    {
+      "sample_id": "TCGGC_hg19-chr18-1410",
+      "seq_id": "fragment721",
+      "seq_loc": "hg19:chr18:75314650-75316059:+",
+      "description": "manifest-seq721"
+    },
+    {
+      "sample_id": "ACTAC_hg38-chr19-18366",
+      "seq_id": "fragment722",
+      "seq_loc": "hg38:chr19:54770611-54788976:-",
+      "description": "manifest-seq722"
+    },
+    {
+      "sample_id": "CCTAC_hg19-chr12-3289",
+      "seq_id": "fragment723",
+      "seq_loc": "hg19:chr12:94015648-94018936:-",
+      "description": "manifest-seq723"
+    },
+    {
+      "sample_id": "ACAAC_hg19-chr13-46998",
+      "seq_id": "fragment724",
+      "seq_loc": "hg19:chr13:96400487-96447484:-",
+      "description": "manifest-seq724"
+    },
+    {
+      "sample_id": "GCCAT_hg19-chr6-42330",
+      "seq_id": "fragment725",
+      "seq_loc": "hg19:chr6:28455315-28497644:-",
+      "description": "manifest-seq725"
+    },
+    {
+      "sample_id": "GACCA_hg19-chr4-20169",
+      "seq_id": "fragment726",
+      "seq_loc": "hg19:chr4:72156546-72176714:+",
+      "description": "manifest-seq726"
+    },
+    {
+      "sample_id": "TGACG_hg19-chrX-1360",
+      "seq_id": "fragment727",
+      "seq_loc": "hg19:chrX:135992653-135994012:+",
+      "description": "manifest-seq727"
+    },
+    {
+      "sample_id": "AGAAC_hg38-chr16-18464",
+      "seq_id": "fragment728",
+      "seq_loc": "hg38:chr16:72766247-72784710:+",
+      "description": "manifest-seq728"
+    },
+    {
+      "sample_id": "CGGGA_hg38-chr13-46437",
+      "seq_id": "fragment729",
+      "seq_loc": "hg38:chr13:34178739-34225175:-",
+      "description": "manifest-seq729"
+    },
+    {
+      "sample_id": "CGAGT_hg38-chr6-48808",
+      "seq_id": "fragment730",
+      "seq_loc": "hg38:chr6:51679805-51728612:-",
+      "description": "manifest-seq730"
+    },
+    {
+      "sample_id": "GCGAC_hg19-chr2-12929",
+      "seq_id": "fragment731",
+      "seq_loc": "hg19:chr2:37751624-37764552:-",
+      "description": "manifest-seq731"
+    },
+    {
+      "sample_id": "TCTAC_hg38-chr9-39593",
+      "seq_id": "fragment732",
+      "seq_loc": "hg38:chr9:55188643-55228235:-",
+      "description": "manifest-seq732"
+    },
+    {
+      "sample_id": "ATTTG_hg38-chr5-34879",
+      "seq_id": "fragment733",
+      "seq_loc": "hg38:chr5:12480661-12515539:+",
+      "description": "manifest-seq733"
+    },
+    {
+      "sample_id": "AATCA_hg19-chr7-34348",
+      "seq_id": "fragment734",
+      "seq_loc": "hg19:chr7:16609820-16644167:+",
+      "description": "manifest-seq734"
+    },
+    {
+      "sample_id": "TGGTA_hg19-chr16-7259",
+      "seq_id": "fragment735",
+      "seq_loc": "hg19:chr16:88969509-88976767:+",
+      "description": "manifest-seq735"
+    },
+    {
+      "sample_id": "TACTG_hg38-chrY-14749",
+      "seq_id": "fragment736",
+      "seq_loc": "hg38:chrY:32253405-32268153:-",
+      "description": "manifest-seq736"
+    },
+    {
+      "sample_id": "TTCGC_hg19-chr3-34542",
+      "seq_id": "fragment737",
+      "seq_loc": "hg19:chr3:87921760-87956301:+",
+      "description": "manifest-seq737"
+    },
+    {
+      "sample_id": "ACGAA_hg38-chr8-37614",
+      "seq_id": "fragment738",
+      "seq_loc": "hg38:chr8:50683753-50721366:-",
+      "description": "manifest-seq738"
+    },
+    {
+      "sample_id": "GCCTT_hg19-chr1-30833",
+      "seq_id": "fragment739",
+      "seq_loc": "hg19:chr1:74254642-74285474:+",
+      "description": "manifest-seq739"
+    },
+    {
+      "sample_id": "AGGAC_hg38-chr19-35935",
+      "seq_id": "fragment740",
+      "seq_loc": "hg38:chr19:24838774-24874708:-",
+      "description": "manifest-seq740"
+    },
+    {
+      "sample_id": "GCTAC_hg19-chr2-46084",
+      "seq_id": "fragment741",
+      "seq_loc": "hg19:chr2:132594140-132640223:+",
+      "description": "manifest-seq741"
+    },
+    {
+      "sample_id": "CTAAG_hg19-chr12-39030",
+      "seq_id": "fragment742",
+      "seq_loc": "hg19:chr12:125124772-125163801:+",
+      "description": "manifest-seq742"
+    },
+    {
+      "sample_id": "ATCAC_hg38-chr1-39777",
+      "seq_id": "fragment743",
+      "seq_loc": "hg38:chr1:107035539-107075315:-",
+      "description": "manifest-seq743"
+    },
+    {
+      "sample_id": "CCAGC_hg38-chr17-24035",
+      "seq_id": "fragment744",
+      "seq_loc": "hg38:chr17:83009772-83033806:-",
+      "description": "manifest-seq744"
+    },
+    {
+      "sample_id": "TCATG_hg19-chr4-17139",
+      "seq_id": "fragment745",
+      "seq_loc": "hg19:chr4:77033994-77051132:-",
+      "description": "manifest-seq745"
+    },
+    {
+      "sample_id": "TAGGG_hg38-chr3-28479",
+      "seq_id": "fragment746",
+      "seq_loc": "hg38:chr3:58042141-58070619:+",
+      "description": "manifest-seq746"
+    },
+    {
+      "sample_id": "GCCAG_hg38-chrY-11278",
+      "seq_id": "fragment747",
+      "seq_loc": "hg38:chrY:30435502-30446779:+",
+      "description": "manifest-seq747"
+    },
+    {
+      "sample_id": "CCCGG_hg19-chr8-10110",
+      "seq_id": "fragment748",
+      "seq_loc": "hg19:chr8:50247404-50257513:+",
+      "description": "manifest-seq748"
+    },
+    {
+      "sample_id": "TAAGT_hg19-chr14-34639",
+      "seq_id": "fragment749",
+      "seq_loc": "hg19:chr14:1978721-2013359:-",
+      "description": "manifest-seq749"
+    },
+    {
+      "sample_id": "TTTTT_hg19-chr2-38049",
+      "seq_id": "fragment750",
+      "seq_loc": "hg19:chr2:2173312-2211360:-",
+      "description": "manifest-seq750"
+    },
+    {
+      "sample_id": "CTAAA_hg38-chr15-8376",
+      "seq_id": "fragment751",
+      "seq_loc": "hg38:chr15:93369789-93378164:-",
+      "description": "manifest-seq751"
+    },
+    {
+      "sample_id": "TCGGA_hg38-chr15-2538",
+      "seq_id": "fragment752",
+      "seq_loc": "hg38:chr15:16530320-16532857:+",
+      "description": "manifest-seq752"
+    },
+    {
+      "sample_id": "GCCGC_hg19-chr6-48153",
+      "seq_id": "fragment753",
+      "seq_loc": "hg19:chr6:147126998-147175150:+",
+      "description": "manifest-seq753"
+    },
+    {
+      "sample_id": "AGTTG_hg19-chr22-21981",
+      "seq_id": "fragment754",
+      "seq_loc": "hg19:chr22:24899250-24921230:+",
+      "description": "manifest-seq754"
+    },
+    {
+      "sample_id": "GCGCG_hg19-chr13-17431",
+      "seq_id": "fragment755",
+      "seq_loc": "hg19:chr13:70004124-70021554:-",
+      "description": "manifest-seq755"
+    },
+    {
+      "sample_id": "CTAGC_hg38-chr15-14911",
+      "seq_id": "fragment756",
+      "seq_loc": "hg38:chr15:90692730-90707640:-",
+      "description": "manifest-seq756"
+    },
+    {
+      "sample_id": "ATACA_hg19-chr10-7254",
+      "seq_id": "fragment757",
+      "seq_loc": "hg19:chr10:14401884-14409137:+",
+      "description": "manifest-seq757"
+    },
+    {
+      "sample_id": "TGGAA_hg19-chr10-31312",
+      "seq_id": "fragment758",
+      "seq_loc": "hg19:chr10:22320856-22352167:+",
+      "description": "manifest-seq758"
+    },
+    {
+      "sample_id": "TCCAG_hg19-chr17-31082",
+      "seq_id": "fragment759",
+      "seq_loc": "hg19:chr17:10607349-10638430:+",
+      "description": "manifest-seq759"
+    },
+    {
+      "sample_id": "TACCC_hg19-chr16-39888",
+      "seq_id": "fragment760",
+      "seq_loc": "hg19:chr16:37172548-37212435:-",
+      "description": "manifest-seq760"
+    },
+    {
+      "sample_id": "GTCAT_hg38-chr12-7330",
+      "seq_id": "fragment761",
+      "seq_loc": "hg38:chr12:112579398-112586727:+",
+      "description": "manifest-seq761"
+    },
+    {
+      "sample_id": "TTGCC_hg38-chr16-48782",
+      "seq_id": "fragment762",
+      "seq_loc": "hg38:chr16:76830452-76879233:+",
+      "description": "manifest-seq762"
+    },
+    {
+      "sample_id": "AATAT_hg38-chr21-26755",
+      "seq_id": "fragment763",
+      "seq_loc": "hg38:chr21:25867648-25894402:-",
+      "description": "manifest-seq763"
+    },
+    {
+      "sample_id": "CCTCT_hg38-chr12-15426",
+      "seq_id": "fragment764",
+      "seq_loc": "hg38:chr12:74949378-74964803:+",
+      "description": "manifest-seq764"
+    },
+    {
+      "sample_id": "CGTAA_hg38-chr15-4536",
+      "seq_id": "fragment765",
+      "seq_loc": "hg38:chr15:42023953-42028488:+",
+      "description": "manifest-seq765"
+    },
+    {
+      "sample_id": "ACGCG_hg38-chr9-19463",
+      "seq_id": "fragment766",
+      "seq_loc": "hg38:chr9:72539715-72559177:-",
+      "description": "manifest-seq766"
+    },
+    {
+      "sample_id": "CCTGT_hg19-chr20-21509",
+      "seq_id": "fragment767",
+      "seq_loc": "hg19:chr20:61874979-61896487:+",
+      "description": "manifest-seq767"
+    },
+    {
+      "sample_id": "CGAAA_hg38-chr22-35729",
+      "seq_id": "fragment768",
+      "seq_loc": "hg38:chr22:6214593-6250321:+",
+      "description": "manifest-seq768"
+    },
+    {
+      "sample_id": "GGACT_hg38-chrX-9630",
+      "seq_id": "fragment769",
+      "seq_loc": "hg38:chrX:124084656-124094285:-",
+      "description": "manifest-seq769"
+    },
+    {
+      "sample_id": "GTCGA_hg19-chr4-36528",
+      "seq_id": "fragment770",
+      "seq_loc": "hg19:chr4:175511746-175548273:+",
+      "description": "manifest-seq770"
+    },
+    {
+      "sample_id": "GAGTG_hg19-chr19-26968",
+      "seq_id": "fragment771",
+      "seq_loc": "hg19:chr19:56347545-56374512:+",
+      "description": "manifest-seq771"
+    },
+    {
+      "sample_id": "ATCCA_hg38-chr20-17832",
+      "seq_id": "fragment772",
+      "seq_loc": "hg38:chr20:53570537-53588368:-",
+      "description": "manifest-seq772"
+    },
+    {
+      "sample_id": "GATCA_hg19-chr16-21779",
+      "seq_id": "fragment773",
+      "seq_loc": "hg19:chr16:30650809-30672587:-",
+      "description": "manifest-seq773"
+    },
+    {
+      "sample_id": "AACGG_hg19-chr5-31233",
+      "seq_id": "fragment774",
+      "seq_loc": "hg19:chr5:157567992-157599224:-",
+      "description": "manifest-seq774"
+    },
+    {
+      "sample_id": "CCGTC_hg19-chr8-21290",
+      "seq_id": "fragment775",
+      "seq_loc": "hg19:chr8:32259114-32280403:+",
+      "description": "manifest-seq775"
+    },
+    {
+      "sample_id": "CTACT_hg38-chr18-3879",
+      "seq_id": "fragment776",
+      "seq_loc": "hg38:chr18:14096103-14099981:-",
+      "description": "manifest-seq776"
+    },
+    {
+      "sample_id": "CAAGC_hg38-chr11-3943",
+      "seq_id": "fragment777",
+      "seq_loc": "hg38:chr11:27581979-27585921:-",
+      "description": "manifest-seq777"
+    },
+    {
+      "sample_id": "ATATT_hg19-chr21-3353",
+      "seq_id": "fragment778",
+      "seq_loc": "hg19:chr21:2845102-2848454:-",
+      "description": "manifest-seq778"
+    },
+    {
+      "sample_id": "CCCGT_hg19-chrY-43279",
+      "seq_id": "fragment779",
+      "seq_loc": "hg19:chrY:41037034-41080312:-",
+      "description": "manifest-seq779"
+    },
+    {
+      "sample_id": "GGGAC_hg19-chr10-3398",
+      "seq_id": "fragment780",
+      "seq_loc": "hg19:chr10:119051565-119054962:+",
+      "description": "manifest-seq780"
+    },
+    {
+      "sample_id": "TAGTA_hg38-chr13-43424",
+      "seq_id": "fragment781",
+      "seq_loc": "hg38:chr13:86778459-86821882:+",
+      "description": "manifest-seq781"
+    },
+    {
+      "sample_id": "GGGGA_hg19-chr20-38008",
+      "seq_id": "fragment782",
+      "seq_loc": "hg19:chr20:7860508-7898515:+",
+      "description": "manifest-seq782"
+    },
+    {
+      "sample_id": "ATGTG_hg19-chrY-4710",
+      "seq_id": "fragment783",
+      "seq_loc": "hg19:chrY:47496189-47500898:+",
+      "description": "manifest-seq783"
+    },
+    {
+      "sample_id": "CCCGC_hg19-chr20-32173",
+      "seq_id": "fragment784",
+      "seq_loc": "hg19:chr20:24300896-24333068:+",
+      "description": "manifest-seq784"
+    },
+    {
+      "sample_id": "GACTC_hg19-chr22-23150",
+      "seq_id": "fragment785",
+      "seq_loc": "hg19:chr22:48189542-48212691:-",
+      "description": "manifest-seq785"
+    },
+    {
+      "sample_id": "AAGCA_hg19-chr20-40750",
+      "seq_id": "fragment786",
+      "seq_loc": "hg19:chr20:16653262-16694011:-",
+      "description": "manifest-seq786"
+    },
+    {
+      "sample_id": "AGATA_hg38-chr20-14457",
+      "seq_id": "fragment787",
+      "seq_loc": "hg38:chr20:33973659-33988115:+",
+      "description": "manifest-seq787"
+    },
+    {
+      "sample_id": "GGCGG_hg19-chr8-44040",
+      "seq_id": "fragment788",
+      "seq_loc": "hg19:chr8:141703534-141747573:-",
+      "description": "manifest-seq788"
+    },
+    {
+      "sample_id": "GTTCG_hg38-chr18-23842",
+      "seq_id": "fragment789",
+      "seq_loc": "hg38:chr18:69505824-69529665:+",
+      "description": "manifest-seq789"
+    },
+    {
+      "sample_id": "CCGCT_hg19-chr1-19523",
+      "seq_id": "fragment790",
+      "seq_loc": "hg19:chr1:30836088-30855610:-",
+      "description": "manifest-seq790"
+    },
+    {
+      "sample_id": "AACGA_hg38-chr8-8378",
+      "seq_id": "fragment791",
+      "seq_loc": "hg38:chr8:50688139-50696516:+",
+      "description": "manifest-seq791"
+    },
+    {
+      "sample_id": "AGTAT_hg19-chr8-8218",
+      "seq_id": "fragment792",
+      "seq_loc": "hg19:chr8:62899343-62907560:-",
+      "description": "manifest-seq792"
+    },
+    {
+      "sample_id": "GACTT_hg38-chr1-49448",
+      "seq_id": "fragment793",
+      "seq_loc": "hg38:chr1:225961059-226010506:-",
+      "description": "manifest-seq793"
+    },
+    {
+      "sample_id": "ACTTA_hg19-chr8-3351",
+      "seq_id": "fragment794",
+      "seq_loc": "hg19:chr8:54473093-54476443:+",
+      "description": "manifest-seq794"
+    },
+    {
+      "sample_id": "GTTCC_hg38-chr1-28383",
+      "seq_id": "fragment795",
+      "seq_loc": "hg38:chr1:197834689-197863071:-",
+      "description": "manifest-seq795"
+    },
+    {
+      "sample_id": "CACGG_hg19-chr9-16148",
+      "seq_id": "fragment796",
+      "seq_loc": "hg19:chr9:49166284-49182431:-",
+      "description": "manifest-seq796"
+    },
+    {
+      "sample_id": "CGACG_hg38-chr9-32072",
+      "seq_id": "fragment797",
+      "seq_loc": "hg38:chr9:11918717-11950788:-",
+      "description": "manifest-seq797"
+    },
+    {
+      "sample_id": "CGAGG_hg19-chr16-48175",
+      "seq_id": "fragment798",
+      "seq_loc": "hg19:chr16:28876459-28924633:+",
+      "description": "manifest-seq798"
+    },
+    {
+      "sample_id": "CAGCA_hg38-chr16-2720",
+      "seq_id": "fragment799",
+      "seq_loc": "hg38:chr16:31524836-31527555:-",
+      "description": "manifest-seq799"
+    },
+    {
+      "sample_id": "TCAAG_hg19-chr2-24022",
+      "seq_id": "fragment800",
+      "seq_loc": "hg19:chr2:31334124-31358145:-",
+      "description": "manifest-seq800"
+    },
+    {
+      "sample_id": "CTGTG_hg19-chr7-32123",
+      "seq_id": "fragment801",
+      "seq_loc": "hg19:chr7:153625154-153657276:+",
+      "description": "manifest-seq801"
+    },
+    {
+      "sample_id": "AAGAC_hg38-chr5-13580",
+      "seq_id": "fragment802",
+      "seq_loc": "hg38:chr5:170669447-170683026:-",
+      "description": "manifest-seq802"
+    },
+    {
+      "sample_id": "ACACA_hg38-chr4-28559",
+      "seq_id": "fragment803",
+      "seq_loc": "hg38:chr4:58107246-58135804:+",
+      "description": "manifest-seq803"
+    },
+    {
+      "sample_id": "GGATC_hg19-chrX-7124",
+      "seq_id": "fragment804",
+      "seq_loc": "hg19:chrX:110589868-110596991:-",
+      "description": "manifest-seq804"
+    },
+    {
+      "sample_id": "AGCGG_hg19-chr2-28051",
+      "seq_id": "fragment805",
+      "seq_loc": "hg19:chr2:151338393-151366443:-",
+      "description": "manifest-seq805"
+    },
+    {
+      "sample_id": "TCGCG_hg38-chr3-49304",
+      "seq_id": "fragment806",
+      "seq_loc": "hg38:chr3:43218344-43267647:+",
+      "description": "manifest-seq806"
+    },
+    {
+      "sample_id": "CAGCC_hg19-chr15-11259",
+      "seq_id": "fragment807",
+      "seq_loc": "hg19:chr15:23330358-23341616:-",
+      "description": "manifest-seq807"
+    },
+    {
+      "sample_id": "AGACA_hg38-chr13-6198",
+      "seq_id": "fragment808",
+      "seq_loc": "hg38:chr13:59350102-59356299:-",
+      "description": "manifest-seq808"
+    },
+    {
+      "sample_id": "ATCAG_hg38-chr14-11811",
+      "seq_id": "fragment809",
+      "seq_loc": "hg38:chr14:104933721-104945531:+",
+      "description": "manifest-seq809"
+    },
+    {
+      "sample_id": "GCGTT_hg38-chr18-26283",
+      "seq_id": "fragment810",
+      "seq_loc": "hg38:chr18:3525543-3551825:+",
+      "description": "manifest-seq810"
+    },
+    {
+      "sample_id": "TATTA_hg38-chr5-38027",
+      "seq_id": "fragment811",
+      "seq_loc": "hg38:chr5:76915246-76953272:-",
+      "description": "manifest-seq811"
+    },
+    {
+      "sample_id": "CGGTC_hg38-chr4-30947",
+      "seq_id": "fragment812",
+      "seq_loc": "hg38:chr4:168147274-168178220:+",
+      "description": "manifest-seq812"
+    },
+    {
+      "sample_id": "TCGAC_hg38-chr18-17834",
+      "seq_id": "fragment813",
+      "seq_loc": "hg38:chr18:52656276-52674109:+",
+      "description": "manifest-seq813"
+    },
+    {
+      "sample_id": "GGCCT_hg19-chr15-9436",
+      "seq_id": "fragment814",
+      "seq_loc": "hg19:chr15:17827141-17836576:-",
+      "description": "manifest-seq814"
+    },
+    {
+      "sample_id": "GTACC_hg38-chr19-22385",
+      "seq_id": "fragment815",
+      "seq_loc": "hg38:chr19:28617424-28639808:+",
+      "description": "manifest-seq815"
+    },
+    {
+      "sample_id": "AGAGG_hg38-chrX-36426",
+      "seq_id": "fragment816",
+      "seq_loc": "hg38:chrX:111002598-111039023:+",
+      "description": "manifest-seq816"
+    },
+    {
+      "sample_id": "CGTGT_hg19-chr21-9014",
+      "seq_id": "fragment817",
+      "seq_loc": "hg19:chr21:27864423-27873436:+",
+      "description": "manifest-seq817"
+    },
+    {
+      "sample_id": "GGTGC_hg38-chr20-10019",
+      "seq_id": "fragment818",
+      "seq_loc": "hg38:chr20:2047579-2057597:+",
+      "description": "manifest-seq818"
+    },
+    {
+      "sample_id": "AGGGA_hg38-chr9-12283",
+      "seq_id": "fragment819",
+      "seq_loc": "hg38:chr9:53034535-53046817:-",
+      "description": "manifest-seq819"
+    },
+    {
+      "sample_id": "TGTCA_hg19-chr10-36328",
+      "seq_id": "fragment820",
+      "seq_loc": "hg19:chr10:86244492-86280819:-",
+      "description": "manifest-seq820"
+    },
+    {
+      "sample_id": "CTGTT_hg19-chr9-43857",
+      "seq_id": "fragment821",
+      "seq_loc": "hg19:chr9:133549931-133593787:+",
+      "description": "manifest-seq821"
+    },
+    {
+      "sample_id": "GAGGC_hg38-chr11-23284",
+      "seq_id": "fragment822",
+      "seq_loc": "hg38:chr11:36094310-36117593:+",
+      "description": "manifest-seq822"
+    },
+    {
+      "sample_id": "CGCGT_hg38-chr1-18269",
+      "seq_id": "fragment823",
+      "seq_loc": "hg38:chr1:151417899-151436167:-",
+      "description": "manifest-seq823"
+    },
+    {
+      "sample_id": "CTTGC_hg38-chr22-3348",
+      "seq_id": "fragment824",
+      "seq_loc": "hg38:chr22:3823568-3826915:-",
+      "description": "manifest-seq824"
+    },
+    {
+      "sample_id": "AAAAC_hg19-chr21-3552",
+      "seq_id": "fragment825",
+      "seq_loc": "hg19:chr21:40202436-40205987:-",
+      "description": "manifest-seq825"
+    },
+    {
+      "sample_id": "TGCTT_hg38-chrY-6641",
+      "seq_id": "fragment826",
+      "seq_loc": "hg38:chrY:9463178-9469818:+",
+      "description": "manifest-seq826"
+    },
+    {
+      "sample_id": "TTCCA_hg38-chr18-29731",
+      "seq_id": "fragment827",
+      "seq_loc": "hg38:chr18:14633794-14663524:-",
+      "description": "manifest-seq827"
+    },
+    {
+      "sample_id": "GGAGT_hg38-chr4-27359",
+      "seq_id": "fragment828",
+      "seq_loc": "hg38:chr4:36176881-36204239:-",
+      "description": "manifest-seq828"
+    },
+    {
+      "sample_id": "TTCCC_hg19-chr18-22740",
+      "seq_id": "fragment829",
+      "seq_loc": "hg19:chr18:58971431-58994170:-",
+      "description": "manifest-seq829"
+    },
+    {
+      "sample_id": "AACTA_hg19-chr21-14453",
+      "seq_id": "fragment830",
+      "seq_loc": "hg19:chr21:41005800-41020252:-",
+      "description": "manifest-seq830"
+    },
+    {
+      "sample_id": "GCAAG_hg38-chr11-4136",
+      "seq_id": "fragment831",
+      "seq_loc": "hg38:chr11:104155634-104159769:+",
+      "description": "manifest-seq831"
+    },
+    {
+      "sample_id": "CACTA_hg19-chr12-49601",
+      "seq_id": "fragment832",
+      "seq_loc": "hg19:chr12:105162520-105212120:+",
+      "description": "manifest-seq832"
+    },
+    {
+      "sample_id": "TTCGG_hg19-chr16-23882",
+      "seq_id": "fragment833",
+      "seq_loc": "hg19:chr16:53864012-53887893:+",
+      "description": "manifest-seq833"
+    },
+    {
+      "sample_id": "ACGTC_hg38-chrX-12258",
+      "seq_id": "fragment834",
+      "seq_loc": "hg38:chrX:13652134-13664391:+",
+      "description": "manifest-seq834"
+    },
+    {
+      "sample_id": "CGATT_hg19-chr14-40782",
+      "seq_id": "fragment835",
+      "seq_loc": "hg19:chr14:44341552-44382333:-",
+      "description": "manifest-seq835"
+    },
+    {
+      "sample_id": "CCGCC_hg19-chr8-49426",
+      "seq_id": "fragment836",
+      "seq_loc": "hg19:chr8:99299436-99348861:+",
+      "description": "manifest-seq836"
+    },
+    {
+      "sample_id": "TGTTT_hg19-chr14-35390",
+      "seq_id": "fragment837",
+      "seq_loc": "hg19:chr14:60623109-60658498:+",
+      "description": "manifest-seq837"
+    },
+    {
+      "sample_id": "GGAGC_hg38-chr19-30671",
+      "seq_id": "fragment838",
+      "seq_loc": "hg38:chr19:24244994-24275664:-",
+      "description": "manifest-seq838"
+    },
+    {
+      "sample_id": "GGTTC_hg38-chr17-2737",
+      "seq_id": "fragment839",
+      "seq_loc": "hg38:chr17:24205665-24208401:-",
+      "description": "manifest-seq839"
+    },
+    {
+      "sample_id": "TTCAG_hg38-chr21-39627",
+      "seq_id": "fragment840",
+      "seq_loc": "hg38:chr21:34082292-34121918:-",
+      "description": "manifest-seq840"
+    },
+    {
+      "sample_id": "CCTTA_hg38-chr13-25160",
+      "seq_id": "fragment841",
+      "seq_loc": "hg38:chr13:112880336-112905495:+",
+      "description": "manifest-seq841"
+    },
+    {
+      "sample_id": "GTGAT_hg38-chr10-34318",
+      "seq_id": "fragment842",
+      "seq_loc": "hg38:chr10:118021825-118056142:-",
+      "description": "manifest-seq842"
+    },
+    {
+      "sample_id": "GCCCT_hg19-chr13-18460",
+      "seq_id": "fragment843",
+      "seq_loc": "hg19:chr13:55812134-55830593:-",
+      "description": "manifest-seq843"
+    },
+    {
+      "sample_id": "ACCTC_hg38-chr19-46326",
+      "seq_id": "fragment844",
+      "seq_loc": "hg38:chr19:57918278-57964603:-",
+      "description": "manifest-seq844"
+    },
+    {
+      "sample_id": "ACGCC_hg19-chr2-21337",
+      "seq_id": "fragment845",
+      "seq_loc": "hg19:chr2:1762181-1783517:+",
+      "description": "manifest-seq845"
+    },
+    {
+      "sample_id": "TGTCC_hg38-chr21-33968",
+      "seq_id": "fragment846",
+      "seq_loc": "hg38:chr21:17870347-17904314:+",
+      "description": "manifest-seq846"
+    },
+    {
+      "sample_id": "GTCAA_hg38-chr22-30294",
+      "seq_id": "fragment847",
+      "seq_loc": "hg38:chr22:20926358-20956651:+",
+      "description": "manifest-seq847"
+    },
+    {
+      "sample_id": "TTACT_hg19-chr8-31209",
+      "seq_id": "fragment848",
+      "seq_loc": "hg19:chr8:119677760-119708968:-",
+      "description": "manifest-seq848"
+    },
+    {
+      "sample_id": "AAGAA_hg19-chr1-21651",
+      "seq_id": "fragment849",
+      "seq_loc": "hg19:chr1:192365862-192387512:-",
+      "description": "manifest-seq849"
+    },
+    {
+      "sample_id": "CATAG_hg19-chr7-3636",
+      "seq_id": "fragment850",
+      "seq_loc": "hg19:chr7:157534900-157538535:-",
+      "description": "manifest-seq850"
+    },
+    {
+      "sample_id": "ATAAA_hg38-chr4-22971",
+      "seq_id": "fragment851",
+      "seq_loc": "hg38:chr4:171658845-171681815:+",
+      "description": "manifest-seq851"
+    },
+    {
+      "sample_id": "CGGAT_hg38-chr12-41600",
+      "seq_id": "fragment852",
+      "seq_loc": "hg38:chr12:117051518-117093117:-",
+      "description": "manifest-seq852"
+    },
+    {
+      "sample_id": "TCACC_hg19-chr17-5484",
+      "seq_id": "fragment853",
+      "seq_loc": "hg19:chr17:54518148-54523631:+",
+      "description": "manifest-seq853"
+    },
+    {
+      "sample_id": "ACTCA_hg19-chr4-17671",
+      "seq_id": "fragment854",
+      "seq_loc": "hg19:chr4:177868901-177886571:-",
+      "description": "manifest-seq854"
+    },
+    {
+      "sample_id": "GTTGG_hg19-chr16-16510",
+      "seq_id": "fragment855",
+      "seq_loc": "hg19:chr16:9946696-9963205:+",
+      "description": "manifest-seq855"
+    },
+    {
+      "sample_id": "CGCCC_hg19-chr14-2208",
+      "seq_id": "fragment856",
+      "seq_loc": "hg19:chr14:72604176-72606383:+",
+      "description": "manifest-seq856"
+    },
+    {
+      "sample_id": "TAATC_hg38-chr21-22364",
+      "seq_id": "fragment857",
+      "seq_loc": "hg38:chr21:30115991-30138354:+",
+      "description": "manifest-seq857"
+    },
+    {
+      "sample_id": "TGTGG_hg19-chr11-49205",
+      "seq_id": "fragment858",
+      "seq_loc": "hg19:chr11:71452352-71501556:+",
+      "description": "manifest-seq858"
+    },
+    {
+      "sample_id": "TGCTG_hg38-chr17-5592",
+      "seq_id": "fragment859",
+      "seq_loc": "hg38:chr17:39788170-39793761:+",
+      "description": "manifest-seq859"
+    },
+    {
+      "sample_id": "TCATC_hg19-chr7-29469",
+      "seq_id": "fragment860",
+      "seq_loc": "hg19:chr7:92729044-92758512:+",
+      "description": "manifest-seq860"
+    },
+    {
+      "sample_id": "ACTCG_hg38-chr4-47093",
+      "seq_id": "fragment861",
+      "seq_loc": "hg38:chr4:76154989-76202081:+",
+      "description": "manifest-seq861"
+    },
+    {
+      "sample_id": "CATAC_hg38-chr13-20147",
+      "seq_id": "fragment862",
+      "seq_loc": "hg38:chr13:57285389-57305535:-",
+      "description": "manifest-seq862"
+    },
+    {
+      "sample_id": "ATGTA_hg38-chr14-40859",
+      "seq_id": "fragment863",
+      "seq_loc": "hg38:chr14:81547618-81588476:-",
+      "description": "manifest-seq863"
+    },
+    {
+      "sample_id": "GTTGC_hg19-chr3-25065",
+      "seq_id": "fragment864",
+      "seq_loc": "hg19:chr3:14751248-14776312:+",
+      "description": "manifest-seq864"
+    },
+    {
+      "sample_id": "TCACG_hg38-chr14-3069",
+      "seq_id": "fragment865",
+      "seq_loc": "hg38:chr14:93846583-93849651:-",
+      "description": "manifest-seq865"
+    },
+    {
+      "sample_id": "CGGTT_hg19-chr19-10894",
+      "seq_id": "fragment866",
+      "seq_loc": "hg19:chr19:34236092-34246985:-",
+      "description": "manifest-seq866"
+    },
+    {
+      "sample_id": "CCTCC_hg19-chr6-35313",
+      "seq_id": "fragment867",
+      "seq_loc": "hg19:chr6:141261665-141296977:-",
+      "description": "manifest-seq867"
+    },
+    {
+      "sample_id": "CGCTG_hg38-chr9-9409",
+      "seq_id": "fragment868",
+      "seq_loc": "hg38:chr9:131811243-131820651:-",
+      "description": "manifest-seq868"
+    },
+    {
+      "sample_id": "TTTCC_hg19-chr14-26205",
+      "seq_id": "fragment869",
+      "seq_loc": "hg19:chr14:36727562-36753766:+",
+      "description": "manifest-seq869"
+    },
+    {
+      "sample_id": "TGGGC_hg19-chr4-1613",
+      "seq_id": "fragment870",
+      "seq_loc": "hg19:chr4:54727739-54729351:+",
+      "description": "manifest-seq870"
+    },
+    {
+      "sample_id": "AGCCC_hg19-chr21-24565",
+      "seq_id": "fragment871",
+      "seq_loc": "hg19:chr21:10751430-10775994:+",
+      "description": "manifest-seq871"
+    },
+    {
+      "sample_id": "AGGCA_hg19-chr6-1358",
+      "seq_id": "fragment872",
+      "seq_loc": "hg19:chr6:120634822-120636179:-",
+      "description": "manifest-seq872"
+    },
+    {
+      "sample_id": "AAAAA_hg38-chr16-38400",
+      "seq_id": "fragment873",
+      "seq_loc": "hg38:chr16:12759086-12797485:-",
+      "description": "manifest-seq873"
+    },
+    {
+      "sample_id": "GACTA_hg38-chr18-40213",
+      "seq_id": "fragment874",
+      "seq_loc": "hg38:chr18:62622760-62662972:-",
+      "description": "manifest-seq874"
+    },
+    {
+      "sample_id": "AACTC_hg19-chr8-25617",
+      "seq_id": "fragment875",
+      "seq_loc": "hg19:chr8:135874001-135899617:+",
+      "description": "manifest-seq875"
+    },
+    {
+      "sample_id": "GATGA_hg38-chrY-5572",
+      "seq_id": "fragment876",
+      "seq_loc": "hg38:chrY:24754439-24760010:+",
+      "description": "manifest-seq876"
+    },
+    {
+      "sample_id": "GGACA_hg38-chr20-42202",
+      "seq_id": "fragment877",
+      "seq_loc": "hg38:chr20:30836761-30878962:-",
+      "description": "manifest-seq877"
+    },
+    {
+      "sample_id": "TGAAG_hg38-chrX-3068",
+      "seq_id": "fragment878",
+      "seq_loc": "hg38:chrX:30371668-30374735:-",
+      "description": "manifest-seq878"
+    },
+    {
+      "sample_id": "ATAGG_hg19-chr22-43839",
+      "seq_id": "fragment879",
+      "seq_loc": "hg19:chr22:16090847-16134685:+",
+      "description": "manifest-seq879"
+    },
+    {
+      "sample_id": "GTGGG_hg38-chr10-47279",
+      "seq_id": "fragment880",
+      "seq_loc": "hg38:chr10:30846016-30893294:+",
+      "description": "manifest-seq880"
+    },
+    {
+      "sample_id": "TTCTT_hg38-chr20-37834",
+      "seq_id": "fragment881",
+      "seq_loc": "hg38:chr20:48896300-48934133:-",
+      "description": "manifest-seq881"
+    },
+    {
+      "sample_id": "TATCG_hg38-chr10-36881",
+      "seq_id": "fragment882",
+      "seq_loc": "hg38:chr10:85757209-85794089:+",
+      "description": "manifest-seq882"
+    },
+    {
+      "sample_id": "CCATC_hg19-chr20-27733",
+      "seq_id": "fragment883",
+      "seq_loc": "hg19:chr20:36785680-36813412:+",
+      "description": "manifest-seq883"
+    },
+    {
+      "sample_id": "GCATA_hg19-chr19-30373",
+      "seq_id": "fragment884",
+      "seq_loc": "hg19:chr19:32257503-32287875:+",
+      "description": "manifest-seq884"
+    },
+    {
+      "sample_id": "ACCCT_hg38-chr12-37662",
+      "seq_id": "fragment885",
+      "seq_loc": "hg38:chr12:44525071-44562732:-",
+      "description": "manifest-seq885"
+    },
+    {
+      "sample_id": "GCGCT_hg38-chr6-48955",
+      "seq_id": "fragment886",
+      "seq_loc": "hg38:chr6:15645566-15694520:+",
+      "description": "manifest-seq886"
+    },
+    {
+      "sample_id": "TGCTC_hg38-chrX-35690",
+      "seq_id": "fragment887",
+      "seq_loc": "hg38:chrX:141526928-141562617:+",
+      "description": "manifest-seq887"
+    },
+    {
+      "sample_id": "ATGCC_hg38-chr14-9091",
+      "seq_id": "fragment888",
+      "seq_loc": "hg38:chr14:63491457-63500547:+",
+      "description": "manifest-seq888"
+    },
+    {
+      "sample_id": "CTATC_hg38-chr7-23410",
+      "seq_id": "fragment889",
+      "seq_loc": "hg38:chr7:2303436-2326845:+",
+      "description": "manifest-seq889"
+    },
+    {
+      "sample_id": "ACAGA_hg38-chr6-44028",
+      "seq_id": "fragment890",
+      "seq_loc": "hg38:chr6:39307373-39351400:-",
+      "description": "manifest-seq890"
+    },
+    {
+      "sample_id": "GTGAA_hg38-chr10-18788",
+      "seq_id": "fragment891",
+      "seq_loc": "hg38:chr10:107313161-107331948:-",
+      "description": "manifest-seq891"
+    },
+    {
+      "sample_id": "GTCCA_hg19-chr5-21535",
+      "seq_id": "fragment892",
+      "seq_loc": "hg19:chr5:126068261-126089795:+",
+      "description": "manifest-seq892"
+    },
+    {
+      "sample_id": "GACCC_hg38-chr18-48063",
+      "seq_id": "fragment893",
+      "seq_loc": "hg38:chr18:56923500-56971562:+",
+      "description": "manifest-seq893"
+    },
+    {
+      "sample_id": "CGTCG_hg19-chr5-36699",
+      "seq_id": "fragment894",
+      "seq_loc": "hg19:chr5:118527696-118564394:-",
+      "description": "manifest-seq894"
+    },
+    {
+      "sample_id": "GGGTG_hg19-chr16-41871",
+      "seq_id": "fragment895",
+      "seq_loc": "hg19:chr16:87307475-87349345:+",
+      "description": "manifest-seq895"
+    },
+    {
+      "sample_id": "GAGCG_hg19-chr18-37815",
+      "seq_id": "fragment896",
+      "seq_loc": "hg19:chr18:35880797-35918611:-",
+      "description": "manifest-seq896"
+    },
+    {
+      "sample_id": "CTCCT_hg19-chr10-41372",
+      "seq_id": "fragment897",
+      "seq_loc": "hg19:chr10:46167164-46208535:-",
+      "description": "manifest-seq897"
+    },
+    {
+      "sample_id": "TTGTA_hg38-chr9-35440",
+      "seq_id": "fragment898",
+      "seq_loc": "hg38:chr9:37108067-37143506:-",
+      "description": "manifest-seq898"
+    },
+    {
+      "sample_id": "AGTTA_hg19-chr4-44509",
+      "seq_id": "fragment899",
+      "seq_loc": "hg19:chr4:122930519-122975027:-",
+      "description": "manifest-seq899"
+    },
+    {
+      "sample_id": "GACAG_hg38-chr21-37551",
+      "seq_id": "fragment900",
+      "seq_loc": "hg38:chr21:25504483-25542033:+",
+      "description": "manifest-seq900"
+    },
+    {
+      "sample_id": "TATCA_hg38-chr11-20272",
+      "seq_id": "fragment901",
+      "seq_loc": "hg38:chr11:17949830-17970101:+",
+      "description": "manifest-seq901"
+    },
+    {
+      "sample_id": "ATTGC_hg19-chr12-1721",
+      "seq_id": "fragment902",
+      "seq_loc": "hg19:chr12:49004734-49006454:+",
+      "description": "manifest-seq902"
+    },
+    {
+      "sample_id": "AACGC_hg19-chr19-38026",
+      "seq_id": "fragment903",
+      "seq_loc": "hg19:chr19:55321180-55359205:+",
+      "description": "manifest-seq903"
+    },
+    {
+      "sample_id": "GAGAG_hg38-chrY-38511",
+      "seq_id": "fragment904",
+      "seq_loc": "hg38:chrY:9581169-9619679:+",
+      "description": "manifest-seq904"
+    },
+    {
+      "sample_id": "TTATT_hg19-chrY-45776",
+      "seq_id": "fragment905",
+      "seq_loc": "hg19:chrY:47182161-47227936:-",
+      "description": "manifest-seq905"
+    },
+    {
+      "sample_id": "GTCAG_hg38-chr21-23390",
+      "seq_id": "fragment906",
+      "seq_loc": "hg38:chr21:9583481-9606870:+",
+      "description": "manifest-seq906"
+    },
+    {
+      "sample_id": "GTGAG_hg38-chrY-23985",
+      "seq_id": "fragment907",
+      "seq_loc": "hg38:chrY:46590118-46614102:-",
+      "description": "manifest-seq907"
+    },
+    {
+      "sample_id": "GCGGA_hg19-chr7-37165",
+      "seq_id": "fragment908",
+      "seq_loc": "hg19:chr7:141632443-141669607:+",
+      "description": "manifest-seq908"
+    },
+    {
+      "sample_id": "TATTT_hg38-chr10-5230",
+      "seq_id": "fragment909",
+      "seq_loc": "hg38:chr10:131596751-131601980:-",
+      "description": "manifest-seq909"
+    },
+    {
+      "sample_id": "GTTTA_hg38-chr16-17484",
+      "seq_id": "fragment910",
+      "seq_loc": "hg38:chr16:15908868-15926351:+",
+      "description": "manifest-seq910"
+    },
+    {
+      "sample_id": "CTTCG_hg19-chr16-22003",
+      "seq_id": "fragment911",
+      "seq_loc": "hg19:chr16:20036687-20058689:-",
+      "description": "manifest-seq911"
+    },
+    {
+      "sample_id": "GTAGT_hg19-chr21-33391",
+      "seq_id": "fragment912",
+      "seq_loc": "hg19:chr21:35172722-35206112:-",
+      "description": "manifest-seq912"
+    },
+    {
+      "sample_id": "CGGAC_hg19-chr17-26743",
+      "seq_id": "fragment913",
+      "seq_loc": "hg19:chr17:16947604-16974346:-",
+      "description": "manifest-seq913"
+    },
+    {
+      "sample_id": "GACAA_hg38-chr19-29659",
+      "seq_id": "fragment914",
+      "seq_loc": "hg38:chr19:43801782-43831440:-",
+      "description": "manifest-seq914"
+    },
+    {
+      "sample_id": "AGGGT_hg38-chr9-42750",
+      "seq_id": "fragment915",
+      "seq_loc": "hg38:chr9:28291924-28334673:+",
+      "description": "manifest-seq915"
+    },
+    {
+      "sample_id": "TGGCA_hg19-chrY-18796",
+      "seq_id": "fragment916",
+      "seq_loc": "hg19:chrY:2923222-2942017:+",
+      "description": "manifest-seq916"
+    },
+    {
+      "sample_id": "CGCCG_hg38-chr5-11683",
+      "seq_id": "fragment917",
+      "seq_loc": "hg38:chr5:204184-215866:-",
+      "description": "manifest-seq917"
+    },
+    {
+      "sample_id": "TGGCC_hg19-chr11-41983",
+      "seq_id": "fragment918",
+      "seq_loc": "hg19:chr11:122772604-122814586:+",
+      "description": "manifest-seq918"
+    },
+    {
+      "sample_id": "ATACG_hg38-chrX-38033",
+      "seq_id": "fragment919",
+      "seq_loc": "hg38:chrX:41481232-41519264:-",
+      "description": "manifest-seq919"
+    },
+    {
+      "sample_id": "ACCCG_hg19-chr14-21621",
+      "seq_id": "fragment920",
+      "seq_loc": "hg19:chr14:82636512-82658132:-",
+      "description": "manifest-seq920"
+    },
+    {
+      "sample_id": "ATTGT_hg19-chrX-27375",
+      "seq_id": "fragment921",
+      "seq_loc": "hg19:chrX:70023879-70051253:+",
+      "description": "manifest-seq921"
+    },
+    {
+      "sample_id": "ATCGC_hg19-chr3-33598",
+      "seq_id": "fragment922",
+      "seq_loc": "hg19:chr3:83357869-83391466:+",
+      "description": "manifest-seq922"
+    },
+    {
+      "sample_id": "CGCAG_hg38-chr3-5142",
+      "seq_id": "fragment923",
+      "seq_loc": "hg38:chr3:165885543-165890684:+",
+      "description": "manifest-seq923"
+    },
+    {
+      "sample_id": "CCGGC_hg38-chr18-5549",
+      "seq_id": "fragment924",
+      "seq_loc": "hg38:chr18:77709697-77715245:-",
+      "description": "manifest-seq924"
+    },
+    {
+      "sample_id": "GTCAC_hg38-chr2-25007",
+      "seq_id": "fragment925",
+      "seq_loc": "hg38:chr2:225249873-225274879:+",
+      "description": "manifest-seq925"
+    },
+    {
+      "sample_id": "ATGGT_hg19-chr15-30852",
+      "seq_id": "fragment926",
+      "seq_loc": "hg19:chr15:85655783-85686634:+",
+      "description": "manifest-seq926"
+    },
+    {
+      "sample_id": "ATAGT_hg38-chr19-15527",
+      "seq_id": "fragment927",
+      "seq_loc": "hg38:chr19:55494335-55509861:-",
+      "description": "manifest-seq927"
+    },
+    {
+      "sample_id": "GTTAC_hg38-chr1-42470",
+      "seq_id": "fragment928",
+      "seq_loc": "hg38:chr1:108700262-108742731:-",
+      "description": "manifest-seq928"
+    },
+    {
+      "sample_id": "AGAGC_hg38-chr14-17109",
+      "seq_id": "fragment929",
+      "seq_loc": "hg38:chr14:66283057-66300165:+",
+      "description": "manifest-seq929"
+    },
+    {
+      "sample_id": "CCACC_hg38-chr10-8366",
+      "seq_id": "fragment930",
+      "seq_loc": "hg38:chr10:14665827-14674192:+",
+      "description": "manifest-seq930"
+    },
+    {
+      "sample_id": "TCTGT_hg38-chr6-37558",
+      "seq_id": "fragment931",
+      "seq_loc": "hg38:chr6:117616744-117654301:-",
+      "description": "manifest-seq931"
+    },
+    {
+      "sample_id": "TTACG_hg19-chrX-2804",
+      "seq_id": "fragment932",
+      "seq_loc": "hg19:chrX:71998624-72001427:-",
+      "description": "manifest-seq932"
+    },
+    {
+      "sample_id": "TCTTA_hg38-chr3-36942",
+      "seq_id": "fragment933",
+      "seq_loc": "hg38:chr3:187912608-187949549:-",
+      "description": "manifest-seq933"
+    },
+    {
+      "sample_id": "CGGCA_hg19-chr12-10052",
+      "seq_id": "fragment934",
+      "seq_loc": "hg19:chr12:91144556-91154607:+",
+      "description": "manifest-seq934"
+    },
+    {
+      "sample_id": "TACAA_hg19-chrX-12839",
+      "seq_id": "fragment935",
+      "seq_loc": "hg19:chrX:78571194-78584032:-",
+      "description": "manifest-seq935"
+    },
+    {
+      "sample_id": "GGGAG_hg38-chr19-21731",
+      "seq_id": "fragment936",
+      "seq_loc": "hg38:chr19:51906147-51927877:+",
+      "description": "manifest-seq936"
+    },
+    {
+      "sample_id": "GAATT_hg38-chrX-3914",
+      "seq_id": "fragment937",
+      "seq_loc": "hg38:chrX:27561767-27565680:+",
+      "description": "manifest-seq937"
+    },
+    {
+      "sample_id": "GAGGA_hg38-chr2-3595",
+      "seq_id": "fragment938",
+      "seq_loc": "hg38:chr2:209350062-209353656:-",
+      "description": "manifest-seq938"
+    },
+    {
+      "sample_id": "CCGCA_hg19-chr13-9895",
+      "seq_id": "fragment939",
+      "seq_loc": "hg19:chr13:45146769-45156663:-",
+      "description": "manifest-seq939"
+    },
+    {
+      "sample_id": "CAAAT_hg38-chrY-44614",
+      "seq_id": "fragment940",
+      "seq_loc": "hg38:chrY:18062418-18107031:-",
+      "description": "manifest-seq940"
+    },
+    {
+      "sample_id": "CATGG_hg19-chr19-32739",
+      "seq_id": "fragment941",
+      "seq_loc": "hg19:chr19:48159748-48192486:-",
+      "description": "manifest-seq941"
+    },
+    {
+      "sample_id": "ATGGA_hg19-chr20-15074",
+      "seq_id": "fragment942",
+      "seq_loc": "hg19:chr20:54515976-54531049:-",
+      "description": "manifest-seq942"
+    },
+    {
+      "sample_id": "ATTCC_hg19-chr3-35604",
+      "seq_id": "fragment943",
+      "seq_loc": "hg19:chr3:94638055-94673658:+",
+      "description": "manifest-seq943"
+    },
+    {
+      "sample_id": "TTGGG_hg19-chr1-40182",
+      "seq_id": "fragment944",
+      "seq_loc": "hg19:chr1:118164094-118204275:+",
+      "description": "manifest-seq944"
+    },
+    {
+      "sample_id": "ACGAT_hg38-chr19-43009",
+      "seq_id": "fragment945",
+      "seq_loc": "hg38:chr19:32339929-32382937:+",
+      "description": "manifest-seq945"
+    },
+    {
+      "sample_id": "AATTT_hg38-chr19-16562",
+      "seq_id": "fragment946",
+      "seq_loc": "hg38:chr19:23397792-23414353:+",
+      "description": "manifest-seq946"
+    },
+    {
+      "sample_id": "CAACA_hg38-chr7-48692",
+      "seq_id": "fragment947",
+      "seq_loc": "hg38:chr7:69383009-69431700:-",
+      "description": "manifest-seq947"
+    },
+    {
+      "sample_id": "TTAAC_hg38-chrX-36546",
+      "seq_id": "fragment948",
+      "seq_loc": "hg38:chrX:12678786-12715331:-",
+      "description": "manifest-seq948"
+    },
+    {
+      "sample_id": "AAGGA_hg38-chr22-32720",
+      "seq_id": "fragment949",
+      "seq_loc": "hg38:chr22:30059794-30092513:+",
+      "description": "manifest-seq949"
+    },
+    {
+      "sample_id": "ACACT_hg19-chr8-41733",
+      "seq_id": "fragment950",
+      "seq_loc": "hg19:chr8:127238310-127280042:+",
+      "description": "manifest-seq950"
+    },
+    {
+      "sample_id": "GAAGC_hg19-chr10-17005",
+      "seq_id": "fragment951",
+      "seq_loc": "hg19:chr10:92352715-92369719:+",
+      "description": "manifest-seq951"
+    },
+    {
+      "sample_id": "TAGAA_hg19-chr11-21202",
+      "seq_id": "fragment952",
+      "seq_loc": "hg19:chr11:109997371-110018572:+",
+      "description": "manifest-seq952"
+    },
+    {
+      "sample_id": "TATGA_hg19-chr7-14448",
+      "seq_id": "fragment953",
+      "seq_loc": "hg19:chr7:153153237-153167684:-",
+      "description": "manifest-seq953"
+    },
+    {
+      "sample_id": "GTTTT_hg38-chr17-49494",
+      "seq_id": "fragment954",
+      "seq_loc": "hg38:chr17:52025963-52075456:-",
+      "description": "manifest-seq954"
+    },
+    {
+      "sample_id": "ACTGA_hg38-chr13-2730",
+      "seq_id": "fragment955",
+      "seq_loc": "hg38:chr13:110707329-110710058:-",
+      "description": "manifest-seq955"
+    },
+    {
+      "sample_id": "CGACT_hg38-chr5-43864",
+      "seq_id": "fragment956",
+      "seq_loc": "hg38:chr5:76222107-76265970:+",
+      "description": "manifest-seq956"
+    },
+    {
+      "sample_id": "CAATA_hg19-chr21-41240",
+      "seq_id": "fragment957",
+      "seq_loc": "hg19:chr21:11232731-11273970:+",
+      "description": "manifest-seq957"
+    },
+    {
+      "sample_id": "TGAGT_hg38-chr7-35325",
+      "seq_id": "fragment958",
+      "seq_loc": "hg38:chr7:135342709-135378033:-",
+      "description": "manifest-seq958"
+    },
+    {
+      "sample_id": "CCCTA_hg38-chr11-5199",
+      "seq_id": "fragment959",
+      "seq_loc": "hg38:chr11:111133056-111138254:+",
+      "description": "manifest-seq959"
+    },
+    {
+      "sample_id": "AAGTT_hg19-chr14-38934",
+      "seq_id": "fragment960",
+      "seq_loc": "hg19:chr14:105825328-105864261:-",
+      "description": "manifest-seq960"
+    },
+    {
+      "sample_id": "GTACA_hg38-chr14-20201",
+      "seq_id": "fragment961",
+      "seq_loc": "hg38:chr14:53196806-53217006:-",
+      "description": "manifest-seq961"
+    },
+    {
+      "sample_id": "ACACC_hg38-chr6-7389",
+      "seq_id": "fragment962",
+      "seq_loc": "hg38:chr6:120025242-120032630:-",
+      "description": "manifest-seq962"
+    },
+    {
+      "sample_id": "GAAGA_hg38-chr14-39703",
+      "seq_id": "fragment963",
+      "seq_loc": "hg38:chr14:67423109-67462811:-",
+      "description": "manifest-seq963"
+    },
+    {
+      "sample_id": "AGGGC_hg38-chr10-45828",
+      "seq_id": "fragment964",
+      "seq_loc": "hg38:chr10:58694452-58740279:-",
+      "description": "manifest-seq964"
+    },
+    {
+      "sample_id": "CTACC_hg19-chr10-13165",
+      "seq_id": "fragment965",
+      "seq_loc": "hg19:chr10:92675337-92688501:-",
+      "description": "manifest-seq965"
+    },
+    {
+      "sample_id": "GTCTT_hg19-chr17-28207",
+      "seq_id": "fragment966",
+      "seq_loc": "hg19:chr17:49145046-49173252:+",
+      "description": "manifest-seq966"
+    },
+    {
+      "sample_id": "TATGC_hg19-chr10-26213",
+      "seq_id": "fragment967",
+      "seq_loc": "hg19:chr10:101113578-101139790:+",
+      "description": "manifest-seq967"
+    },
+    {
+      "sample_id": "GTATA_hg19-chr13-48189",
+      "seq_id": "fragment968",
+      "seq_loc": "hg19:chr13:36145991-36194179:-",
+      "description": "manifest-seq968"
+    },
+    {
+      "sample_id": "CTGGA_hg38-chr5-30532",
+      "seq_id": "fragment969",
+      "seq_loc": "hg38:chr5:79302481-79333012:+",
+      "description": "manifest-seq969"
+    },
+    {
+      "sample_id": "AAAAT_hg19-chr15-22286",
+      "seq_id": "fragment970",
+      "seq_loc": "hg19:chr15:20745073-20767358:-",
+      "description": "manifest-seq970"
+    },
+    {
+      "sample_id": "TAGTC_hg38-chr18-15451",
+      "seq_id": "fragment971",
+      "seq_loc": "hg38:chr18:13995748-14011198:-",
+      "description": "manifest-seq971"
+    },
+    {
+      "sample_id": "AGCAG_hg19-chr7-12180",
+      "seq_id": "fragment972",
+      "seq_loc": "hg19:chr7:116331808-116343987:-",
+      "description": "manifest-seq972"
+    },
+    {
+      "sample_id": "TAGAC_hg38-chr9-45574",
+      "seq_id": "fragment973",
+      "seq_loc": "hg38:chr9:24546887-24592460:-",
+      "description": "manifest-seq973"
+    },
+    {
+      "sample_id": "AACTT_hg19-chr7-15088",
+      "seq_id": "fragment974",
+      "seq_loc": "hg19:chr7:57826329-57841416:+",
+      "description": "manifest-seq974"
+    },
+    {
+      "sample_id": "ACATT_hg38-chrY-20882",
+      "seq_id": "fragment975",
+      "seq_loc": "hg38:chrY:18526926-18547807:+",
+      "description": "manifest-seq975"
+    },
+    {
+      "sample_id": "ATCCT_hg38-chr2-39103",
+      "seq_id": "fragment976",
+      "seq_loc": "hg38:chr2:118627284-118666386:-",
+      "description": "manifest-seq976"
+    },
+    {
+      "sample_id": "CATGT_hg19-chr18-3661",
+      "seq_id": "fragment977",
+      "seq_loc": "hg19:chr18:20734445-20738105:-",
+      "description": "manifest-seq977"
+    },
+    {
+      "sample_id": "GTAGG_hg19-chr2-29066",
+      "seq_id": "fragment978",
+      "seq_loc": "hg19:chr2:158309067-158338132:+",
+      "description": "manifest-seq978"
+    },
+    {
+      "sample_id": "CCTTT_hg38-chr21-19434",
+      "seq_id": "fragment979",
+      "seq_loc": "hg38:chr21:44460200-44479633:-",
+      "description": "manifest-seq979"
+    },
+    {
+      "sample_id": "TCCGT_hg38-chr18-25806",
+      "seq_id": "fragment980",
+      "seq_loc": "hg38:chr18:26815188-26840993:+",
+      "description": "manifest-seq980"
+    },
+    {
+      "sample_id": "GGGGC_hg38-chr1-27179",
+      "seq_id": "fragment981",
+      "seq_loc": "hg38:chr1:181565886-181593064:+",
+      "description": "manifest-seq981"
+    },
+    {
+      "sample_id": "AATGA_hg38-chr10-43575",
+      "seq_id": "fragment982",
+      "seq_loc": "hg38:chr10:73095436-73139010:+",
+      "description": "manifest-seq982"
+    },
+    {
+      "sample_id": "CCTAA_hg19-chr13-33641",
+      "seq_id": "fragment983",
+      "seq_loc": "hg19:chr13:102029555-102063195:-",
+      "description": "manifest-seq983"
+    },
+    {
+      "sample_id": "CTTAA_hg19-chr19-26435",
+      "seq_id": "fragment984",
+      "seq_loc": "hg19:chr19:27070381-27096815:-",
+      "description": "manifest-seq984"
+    },
+    {
+      "sample_id": "TATGT_hg38-chr21-16559",
+      "seq_id": "fragment985",
+      "seq_loc": "hg38:chr21:5617062-5633620:-",
+      "description": "manifest-seq985"
+    },
+    {
+      "sample_id": "CCTCA_hg19-chr22-47362",
+      "seq_id": "fragment986",
+      "seq_loc": "hg19:chr22:35224-82585:-",
+      "description": "manifest-seq986"
+    },
+    {
+      "sample_id": "AGTGC_hg38-chr1-28758",
+      "seq_id": "fragment987",
+      "seq_loc": "hg38:chr1:222818157-222846914:+",
+      "description": "manifest-seq987"
+    },
+    {
+      "sample_id": "GGGTC_hg38-chr9-30947",
+      "seq_id": "fragment988",
+      "seq_loc": "hg38:chr9:100046764-100077710:-",
+      "description": "manifest-seq988"
+    },
+    {
+      "sample_id": "ACATG_hg19-chr7-1403",
+      "seq_id": "fragment989",
+      "seq_loc": "hg19:chr7:21518132-21519534:-",
+      "description": "manifest-seq989"
+    },
+    {
+      "sample_id": "ATAGC_hg19-chr1-40074",
+      "seq_id": "fragment990",
+      "seq_loc": "hg19:chr1:137549036-137589109:+",
+      "description": "manifest-seq990"
+    },
+    {
+      "sample_id": "TTTTC_hg19-chrY-6921",
+      "seq_id": "fragment991",
+      "seq_loc": "hg19:chrY:14709716-14716636:-",
+      "description": "manifest-seq991"
+    },
+    {
+      "sample_id": "GGATT_hg19-chr17-44937",
+      "seq_id": "fragment992",
+      "seq_loc": "hg19:chr17:52195498-52240434:+",
+      "description": "manifest-seq992"
+    },
+    {
+      "sample_id": "CGCCT_hg19-chr1-40840",
+      "seq_id": "fragment993",
+      "seq_loc": "hg19:chr1:153113357-153154196:-",
+      "description": "manifest-seq993"
+    },
+    {
+      "sample_id": "GGCGA_hg38-chr15-45710",
+      "seq_id": "fragment994",
+      "seq_loc": "hg38:chr15:82156570-82202279:+",
+      "description": "manifest-seq994"
+    },
+    {
+      "sample_id": "TGTAG_hg19-chr10-34999",
+      "seq_id": "fragment995",
+      "seq_loc": "hg19:chr10:73587839-73622837:-",
+      "description": "manifest-seq995"
+    },
+    {
+      "sample_id": "CTGCT_hg19-chr6-46125",
+      "seq_id": "fragment996",
+      "seq_loc": "hg19:chr6:19505238-19551362:-",
+      "description": "manifest-seq996"
+    },
+    {
+      "sample_id": "AACTG_hg38-chr13-46354",
+      "seq_id": "fragment997",
+      "seq_loc": "hg38:chr13:91609981-91656334:+",
+      "description": "manifest-seq997"
+    },
+    {
+      "sample_id": "TGCTA_hg38-chr21-39243",
+      "seq_id": "fragment998",
+      "seq_loc": "hg38:chr21:22614825-22654067:+",
+      "description": "manifest-seq998"
+    },
+    {
+      "sample_id": "GGCTC_hg38-chr4-44802",
+      "seq_id": "fragment999",
+      "seq_loc": "hg38:chr4:75552927-75597728:+",
+      "description": "manifest-seq999"
+    },
+    {
+      "sample_id": "CCACA_hg19-chr4-17163",
+      "seq_id": "fragment1000",
+      "seq_loc": "hg19:chr4:92421971-92439133:+",
+      "description": "manifest-seq1000"
+    },
+    {
+      "sample_id": "AGGAA_hg38-chr3-2324",
+      "seq_id": "fragment1001",
+      "seq_loc": "hg38:chr3:68563894-68566217:+",
+      "description": "manifest-seq1001"
+    },
+    {
+      "sample_id": "TGAAA_hg19-chrY-20414",
+      "seq_id": "fragment1002",
+      "seq_loc": "hg19:chrY:57534482-57554895:+",
+      "description": "manifest-seq1002"
+    },
+    {
+      "sample_id": "ATCAA_hg38-chr11-13282",
+      "seq_id": "fragment1003",
+      "seq_loc": "hg38:chr11:107691535-107704816:-",
+      "description": "manifest-seq1003"
+    },
+    {
+      "sample_id": "GAGCA_hg19-chrX-41401",
+      "seq_id": "fragment1004",
+      "seq_loc": "hg19:chrX:96118920-96160320:-",
+      "description": "manifest-seq1004"
+    },
+    {
+      "sample_id": "GGATG_hg38-chr16-31115",
+      "seq_id": "fragment1005",
+      "seq_loc": "hg38:chr16:48190365-48221479:+",
+      "description": "manifest-seq1005"
+    },
+    {
+      "sample_id": "CTCGG_hg38-chr17-26777",
+      "seq_id": "fragment1006",
+      "seq_loc": "hg38:chr17:38533067-38559843:+",
+      "description": "manifest-seq1006"
+    },
+    {
+      "sample_id": "TGCCA_hg38-chr7-23907",
+      "seq_id": "fragment1007",
+      "seq_loc": "hg38:chr7:129264879-129288785:-",
+      "description": "manifest-seq1007"
+    },
+    {
+      "sample_id": "CCCCT_hg19-chr2-10544",
+      "seq_id": "fragment1008",
+      "seq_loc": "hg19:chr2:149444377-149454920:+",
+      "description": "manifest-seq1008"
+    },
+    {
+      "sample_id": "ATGTC_hg38-chr18-26844",
+      "seq_id": "fragment1009",
+      "seq_loc": "hg38:chr18:9702701-9729544:-",
+      "description": "manifest-seq1009"
+    },
+    {
+      "sample_id": "GCGTC_hg38-chr3-23447",
+      "seq_id": "fragment1010",
+      "seq_loc": "hg38:chr3:28816416-28839862:-",
+      "description": "manifest-seq1010"
+    },
+    {
+      "sample_id": "CCGGA_hg19-chr7-24242",
+      "seq_id": "fragment1011",
+      "seq_loc": "hg19:chr7:47983958-48008199:-",
+      "description": "manifest-seq1011"
+    },
+    {
+      "sample_id": "TTGTG_hg38-chr12-14832",
+      "seq_id": "fragment1012",
+      "seq_loc": "hg38:chr12:131191766-131206597:+",
+      "description": "manifest-seq1012"
+    },
+    {
+      "sample_id": "AAGGG_hg19-chr9-33053",
+      "seq_id": "fragment1013",
+      "seq_loc": "hg19:chr9:132400793-132433845:+",
+      "description": "manifest-seq1013"
+    },
+    {
+      "sample_id": "TTATG_hg19-chrX-36156",
+      "seq_id": "fragment1014",
+      "seq_loc": "hg19:chrX:123068935-123105090:+",
+      "description": "manifest-seq1014"
+    },
+    {
+      "sample_id": "CATAT_hg38-chr22-36837",
+      "seq_id": "fragment1015",
+      "seq_loc": "hg38:chr22:21631332-21668168:-",
+      "description": "manifest-seq1015"
+    },
+    {
+      "sample_id": "CAGTC_hg19-chr22-38588",
+      "seq_id": "fragment1016",
+      "seq_loc": "hg19:chr22:24516231-24554818:+",
+      "description": "manifest-seq1016"
+    },
+    {
+      "sample_id": "GGTCC_hg19-chr16-33153",
+      "seq_id": "fragment1017",
+      "seq_loc": "hg19:chr16:55596034-55629186:+",
+      "description": "manifest-seq1017"
+    },
+    {
+      "sample_id": "GAACG_hg38-chr12-39929",
+      "seq_id": "fragment1018",
+      "seq_loc": "hg38:chr12:420068-459996:-",
+      "description": "manifest-seq1018"
+    },
+    {
+      "sample_id": "TTGAG_hg38-chr21-20806",
+      "seq_id": "fragment1019",
+      "seq_loc": "hg38:chr21:1758315-1779120:-",
+      "description": "manifest-seq1019"
+    },
+    {
+      "sample_id": "AGTAG_hg38-chr13-45710",
+      "seq_id": "fragment1020",
+      "seq_loc": "hg38:chr13:40187986-40233695:-",
+      "description": "manifest-seq1020"
+    },
+    {
+      "sample_id": "TTAAG_hg19-chr6-29318",
+      "seq_id": "fragment1021",
+      "seq_loc": "hg19:chr6:132160437-132189754:+",
+      "description": "manifest-seq1021"
+    },
+    {
+      "sample_id": "CCAAT_hg38-chr22-39665",
+      "seq_id": "fragment1022",
+      "seq_loc": "hg38:chr22:37936593-37976257:+",
+      "description": "manifest-seq1022"
+    },
+    {
+      "sample_id": "ACGCA_hg38-chr18-44933",
+      "seq_id": "fragment1023",
+      "seq_loc": "hg38:chr18:15237116-15282048:+",
+      "description": "manifest-seq1023"
+    },
+    {
+      "sample_id": "AAGTA_hg19-chr3-41459",
+      "seq_id": "fragment1024",
+      "seq_loc": "hg19:chr3:184766101-184807559:-",
+      "description": "manifest-seq1024"
+    }
+  ],
+  "usecase": [
+    {
+      "type": 0
+    }
+  ]
+}
