@@ -1,9 +1,13 @@
 <img width="200" height="200" alt="DNAcrypt-logo-3" src="https://github.com/user-attachments/assets/9c545cff-dfd2-4a4e-806c-cd12d152ee51" />
 
 # DNAcrypt-AI
-Human genome-based cryptography using artificial intelligence
+**Human genome-based cryptography using artificial intelligence**
 
 DNAcrypt-AI was built using [FAS2rDNA](https://fas2rdna.chordexbio.com) and [Covary](https://covary.chordexbio.com) through the [assemBold program](https://assembold.chordexbio.com/), with permission from [ChordexBio](https://chordexbio.com).
+
+*Protocols are now out on protocols.io*
+- DNAcrypt-AI protocol for generating and encrypting a secret key (DOI: http://dx.doi.org/10.17504/protocols.io.14egn12k6v5d/v1)
+- DNAcrypt-AI protocol for generating and encrypting a password (DOI: http://dx.doi.org/10.17504/protocols.io.bp2l6e951gqe/v1)
 
 OBFD tag: 12/26
 
@@ -149,8 +153,9 @@ Comments and suggestions to improve DNAcrypt-AI are welcome. If you find any bug
 
 ## License notice
 
-Please see updated license here
-To request for a validation license, please inquire at https://dnacryptai.chordexbio.com/
+Please see updated license here: https://github.com/mahvin92/DNAcrypt-AI/blob/main/LICENSE
+
+If you qualify for Section III, you can always request a license by contacting us at https://dnacryptai.chordexbio.com/
 
 ## Acknowledgement
 Covary is powered by [Covary](https://github.com/mahvin92/Covary), [FAS2rDNA](https://github.com/mahvin92/FAS2rDNA), [assemBold program](https://assembold.chordexbio.com), [ChordexBio](https://chordexbio.com), and [CodeEnigma](https://github.com/KrishnanSG/codeenigma); made with Python, and tested using Google Colab ❤️
