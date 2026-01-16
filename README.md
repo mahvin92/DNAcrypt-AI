@@ -157,6 +157,11 @@ Please see updated license here: https://github.com/mahvin92/DNAcrypt-AI/blob/ma
 
 If you qualify for Section III, you can always request a license by contacting us at https://dnacryptai.chordexbio.com/
 
+## Citations
+De los Santos, M. and Lynn, C. (2026). DNAcrypt-AI protocol for generating and encrypting a secret key. protocols.io. DOI: 10.17504/protocols.io.14egn12k6v5d/v1
+
+De los Santos, M. and Lynn, C. (2026). DNAcrypt-AI protocol for generating and encrypting a password. protocols.io. DOI: 10.17504/protocols.io.bp2l6e951gqe/v1
+
 ## Acknowledgement
 Covary is powered by [Covary](https://github.com/mahvin92/Covary), [FAS2rDNA](https://github.com/mahvin92/FAS2rDNA), [assemBold program](https://assembold.chordexbio.com), [ChordexBio](https://chordexbio.com), and [CodeEnigma](https://github.com/KrishnanSG/codeenigma); made with Python, and tested using Google Colab ❤️
   
