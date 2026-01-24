@@ -1,0 +1,76 @@
+DNACRYPT-AI LICENSE v1.1
+Copyright © 2026 Marvin De los Santos. All rights reserved.
+Updated 19 January 2026
+
+
+I. Scope
+DNAcrypt-AI is provided for research use only and has not been validated for personal, clinical, diagnostic, enterprise, or production use. It is a composite software framework developed and maintained by Marvin De los Santos through ChordexBio or himself. DNAcrypt-AI incorporates proprietary components including, but not limited to:
+- FAS2rDNA (a high-throughput DNA sequence reconstitution pipeline)
+- Covary (sequence-informed machine learning model)
+- Covary-encoder (a genetic encoding framework that structure DNA sequence into relational architecture) 
+
+DNAcrypt-AI is solely offered for the purpose of generating, encrypting, decrypting passwords and/or cryptographic keys in non-profit and non-commercial academic or research purposes only. Any use of DNAcrypt-AI, its proprietary and licensed components or its outputs outside this defined scope is not allowed, except to the extent expressly permitted by an applicable open-source or permissive third-party license governing a specific subcomponent or parts. Use of DNAcrypt-AI does not constitute a transfer, sublicense, or extension of rights to any underlying component, framework, or dependency beyond the explicit scope of DNAcrypt-AI.
+
+
+II. International users (except Philippine-based users)
+Permission is granted to international students, educators, and academic researchers (excluding Philippine-based users as defined in Section III) to use DNAcrypt-AI for non-profit and non-commercial academic or research purposes only, and only within the defined scope of DNAcrypt-AI.
+
+The following are strictly prohibited without prior written permission or a separate license from the copyright holder:
+- Commercial use of DNAcrypt-AI or its outputs
+- Modification or creation of derivative works 
+- Redistribution, sublicensing, or mirroring of the software
+- Incorporation of DNAcrypt-AI into other software, pipelines, services, or platforms
+- Extraction, reuse, adaptation, or repurposing of any embedded or underlying component (including FAS2rDNA, Covary, or Covary-encoder) for uses outside the scope and framework of DNAcrypt-AI
+
+Use of DNAcrypt-AI does not grant users any rights or permission to use, modify, study, reverse-engineer, or deploy FAS2rDNA, Covary, Covary-encoder and related proprietary components for any purpose other than their execution or requirement as embedded within DNAcrypt-AI, except where a specific component, subcomponent, parts, or dependency is explicitly licensed under an open-source or permissive third-party license. All such components retain their original and independent licensing terms, which remain fully enforceable. Users are encourage to review and read the full licensing terms of these components.
+
+
+III. Philippine-based users
+A Philippine-based user is any user whose interests, affiliations, residency, or activities are connected to the Philippines materially, philosophically, or otherwise. All users considered Philippine-based users must obtain a valid license from the copyright holder prior to any use of DNAcrypt-AI, in any form such as research, education, commercial, testing, or otherwise. Philippine-based users include, but are not limited to the following:
+1. Users physically located in the Philippines: Any user who is physically present in the Philippines while accessing or using DNAcrypt-AI, regardless of IP geolocation.
+2. Users with Philippine-based affiliations or place of work: Users employed, enrolled, or officially affiliated with a Philippine institution, organization, or company, regardless of their current location.
+3. Users whose organization is global but whose work location or designation is in the Philippines: Users working for international organizations but performing duties from a Philippine location or designated as Philippine-based.
+4. International collaborations involving Philippine users: Any joint project, research, or sharing of DNAcrypt-AI that involves users, institutions, or facilities in the Philippines. All Philippine participants must hold a valid license, even if collaborators are outside the Philippines.
+5. Philippine residents traveling abroad temporarily (without affiliations outside the Philippines): Residents of the Philippines using DNAcrypt-AI while temporarily outside the Philippines are still considered Philippine-based users and must hold a valid license to use DNAcrypt-AI.
+6. Users within organizations owned by Philippine-based entities: Any user who is a member, employee, affiliate, or contractor of an organization (whether local or international) that is wholly or partially owned, managed, or controlled by a Philippine-based user.
+
+Any user meeting the Philippine-based definition, requires a valid license, regardless of the user’s current location, organization, or circumstances.
+
+IV. No implied transfer of component license
+Use of DNAcrypt-AI shall not be interpreted as:
+- A transfer of intellectual property rights
+- A sublicense to any embedded component
+- A waiver or modification of existing component licenses
+- Permission to use FAS2rDNA, Covary, or Covary-encoder independently, outside DNAcrypt-AI 
+
+Each component retains its full licensing terms, and any use beyond DNAcrypt-AI requires separate authorization under the applicable component license.
+
+V. Explicit exclusion of personal use
+DNAcrypt-AI is optimized for research and educational use only (see Section I). Notwithstanding any reference to research, education, testing, or evaluation, personal use is expressly excluded from the permissions granted under this license. Personal use includes, but is not limited to, any use of DNAcrypt-AI that:
+1. Generates, encrypts, or decrypts passwords, cryptographic keys, or secrets intended for:
+  - personal accounts,
+  - private services,
+  - individual authentication,
+  - or real-world access control of personal or organizational resources.
+2. Produces outputs intended for actual security reliance, continuity of use, or ongoing protection of data, identities, or systems.
+3. Is conducted primarily for the personal benefit, convenience, or security of an individual user rather than for knowledge generation or instructional demonstration.
+4. Functionally substitutes for licensed, commercial, or production-grade cryptographic tools or services, regardless of whether such use is described as “research” or “learning.”
+
+Any use that falls within the above definitions is not permitted under this License and requires a separate, valid license issued by the copyright holder.
+
+VI. Unauthorized use and automatic license conversion
+Any use of DNAcrypt-AI outside the permissions, limitations, or scope expressly granted under this license shall constitute unauthorized use. By engaging in unauthorized use, the user agrees and acknowledges that:
+1. Such use shall be deemed an election to operate under a premium commercial license, effective from the date of first unauthorized use;
+2. The user shall be obligated to pay all applicable fees associated with such premium license, including retroactive fees covering the period of unauthorized use;
+3. Applicable fees shall be determined according to:
+  - the then-current published pricing of the copyright holder, or
+  - a separately issued invoice or licensing agreement provided by the copyright holder.
+
+Failure to remit payment upon notice constitutes a material breach of this license and may result in termination of rights, revocation of access, and pursuit of legal remedies.
+
+VII. Warranty disclaimer and liability limitation 
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR ACCURACY.
+IN NO EVENT SHALL THE AUTHORS, COPYRIGHT HOLDERS, OR AFFILIATED ENTITIES BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+VIII. Reservation of rights
+All rights not expressly granted under this license are reserved by the copyright holder.
