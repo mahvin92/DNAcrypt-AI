@@ -1,5 +1,6 @@
 <img width="200" height="200" alt="DNAcrypt-logo-3" src="https://github.com/user-attachments/assets/9c545cff-dfd2-4a4e-806c-cd12d152ee51" />
 
+Latest: v.1.1 (updated 26/01/24)
 # DNAcrypt-AI
 **Human genome-based cryptography using artificial intelligence**
 
