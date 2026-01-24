@@ -1,4 +1,4 @@
-<img width="200" height="200" alt="DNAcrypt-logo-3" src="https://github.com/user-attachments/assets/9c545cff-dfd2-4a4e-806c-cd12d152ee51" />
+<img width="200" height="200" alt="DNAcrypt-logo-3" src="https://github.com/mahvin92/DNAcrypt-AI/blob/main/assets/DNAcrypt%20logo/DNAcrypt-logo-3.png" />
 
 Latest: v.1.1 (updated 26/01/24)
 # DNAcrypt-AI
@@ -9,6 +9,7 @@ DNAcrypt-AI was built using [FAS2rDNA](https://fas2rdna.chordexbio.com) and [Cov
 *Protocols are now out on protocols.io*
 - DNAcrypt-AI protocol for generating and encrypting a secret key (DOI: http://dx.doi.org/10.17504/protocols.io.14egn12k6v5d/v1)
 - DNAcrypt-AI protocol for generating and encrypting a password (DOI: http://dx.doi.org/10.17504/protocols.io.bp2l6e951gqe/v1)
+- Decryption of genome-encoded cryptographic keys using DNAcrypt-AI (DOI: https://dx.doi.org/10.17504/protocols.io.5qpvo1387g4o/v1)
 
 OBFD tag: 12/26
 
@@ -25,7 +26,7 @@ The pipeline stores and encrypts the password or cryptographic key in a form of 
 
 The architecture of DNAcrypt-AI is relatively simple, yet largely dependent on two genome intelligence frameworks: [FAS2rDNA](https://github.com/mahvin92/FAS2rDNA) (a high-throughput DNA sequence reconstruction module) and [Covary](https://github.com/mahvin92/Covary) (a machine learning-based sequence intelligence framework). The detailed designs and internal architectures of these frameworks are described separately in their respective GitHub repositories. The image below maps the internal architecture of DNAcrypt-AI. 
 
-<img width="3780" height="1890" alt="DNAcrypt architecture" src="https://github.com/user-attachments/assets/c4d07f7c-defa-473a-aafa-5d18075c6c8d" />
+<img width="3780" height="1890" alt="DNAcrypt architecture" src="https://github.com/mahvin92/DNAcrypt-AI/blob/main/assets/DNAcrypt%20architecture.png" />
 
 DNAcrypt-AI begins by accepting a user-specified workflow and key length. The user may select to generate:
 - a pure alphanumeric sequence (encryption key) or alphanumeric-symbols (password)
@@ -49,7 +50,7 @@ FAS2rDNA reconstructs the DNA sequences corresponding to the generated genomic c
 
 - The hg19 and hg38 genome assemblies are used as reference to encrypt and decrypt your password/key. Therefore, DNAcrypt-AI uses a biological and native genome sequences to store and read your secret information. Although current works is already being undertaken to expand this support to multi-species genome assemblies to increase the genome vocabularies of DNAcrypt-AI.
 
-<img width="3780" height="1890" alt="DNAcrypt user step" src="https://github.com/user-attachments/assets/e54936fb-729e-4fe0-ad66-6a5b74dacf7d" />
+<img width="3780" height="1890" alt="DNAcrypt user step" src="https://github.com/mahvin92/DNAcrypt-AI/blob/main/assets/DNAcrypt%20user%20step.png" />
 
 
 ## Generate and encrypt a password or key
@@ -162,6 +163,8 @@ If you qualify for Section III, you can always request a license by contacting u
 De los Santos, M. and Lynn, C. (2026). DNAcrypt-AI protocol for generating and encrypting a secret key. protocols.io. DOI: 10.17504/protocols.io.14egn12k6v5d/v1
 
 De los Santos, M. and Lynn, C. (2026). DNAcrypt-AI protocol for generating and encrypting a password. protocols.io. DOI: 10.17504/protocols.io.bp2l6e951gqe/v1
+
+De los Santos, M. and Lynn, C. (2026). Decryption of genome-encoded cryptographic keys using DNAcrypt-AI. protocols.io. DOI: 10.17504/protocols.io.5qpvo1387g4o/v1
 
 ## Acknowledgement
 Covary is powered by [Covary](https://github.com/mahvin92/Covary), [FAS2rDNA](https://github.com/mahvin92/FAS2rDNA), [assemBold program](https://assembold.chordexbio.com), [ChordexBio](https://chordexbio.com), and [CodeEnigma](https://github.com/KrishnanSG/codeenigma); made with Python, and tested using Google Colab ❤️
